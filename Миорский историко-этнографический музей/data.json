@@ -1,0 +1,60 @@
+{
+    "object_name": "Миорский историко-этнографический музей",
+    "object_id": 103321939201,
+    "contact": [
+        "+375215241915"
+    ],
+    "business_url": null,
+    "object_category": "Музей",
+    "object_links": [],
+    "address": "Миоры, Школьная ул., 16А",
+    "work_time": {
+        "Понедельник": "09:00 – 19:00",
+        "Вторник": "09:00 – 19:00",
+        "Среда": "09:00 – 19:00",
+        "Четверг": "09:00 – 19:00",
+        "Пятница": "Выходной",
+        "Суббота": "10:00 – 14:0015:00 – 19:00",
+        "Воскресенье": "10:00 – 14:0015:00 – 19:00"
+    },
+    "features": null,
+    "rating": 4.1,
+    "attendance": {},
+    "number_of_votes": 15,
+    "number_of_review": 1,
+    "similar_objects": [
+        {
+            "object_id": 151350046215,
+            "object_name": "Деревня Новый Погост",
+            "object_link": "https://yandex.by/maps/org/derevnya_novy_pogost/151350046215/"
+        },
+        {
+            "object_id": 1759477605,
+            "object_name": "Историко-краеведческий музей",
+            "object_link": "https://yandex.by/maps/org/istoriko_krayevedcheskiy_muzey/1759477605/"
+        },
+        {
+            "object_id": 62812073414,
+            "object_name": "Усадебный дом Сапег",
+            "object_link": "https://yandex.by/maps/org/usadebny_dom_sapeg/62812073414/"
+        },
+        {
+            "object_id": 197935211060,
+            "object_name": "Музей культуры и быта",
+            "object_link": "https://yandex.by/maps/org/germanovichskiy_muzey_kultury_i_byta_ya_drozdovicha/197935211060/"
+        }
+    ],
+    "reviews_info": {
+        "type_reviews": {},
+        "reviews": [
+            {
+                "author_name": "Leo Taxil",
+                "author_profession": 8,
+                "date": "2021-08-23",
+                "comment": "прекрасное место пропитанное историей, рекомендую к посещению любителям этой самой истории.",
+                "author_url": "https://reviews.yandex.ru/user/aupdd1e981kte3h29u650392x8",
+                "rating": 5
+            }
+        ]
+    }
+}

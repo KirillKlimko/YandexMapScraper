@@ -1,0 +1,99 @@
+{
+    "object_name": "Районный музейный комплекс имени Наполеона Орды",
+    "object_id": 112156510634,
+    "contact": [],
+    "business_url": "napoleon.museum.by",
+    "object_category": "Музей",
+    "object_links": [
+        "https://ok.ru/ordamuseum",
+        "https://vk.com/ordamuseum",
+        "https://www.instagram.com/ordamuseum/"
+    ],
+    "address": "д. Вороцевичи, ул. Крупской, 36",
+    "work_time": {
+        "Понедельник": "09:00 – 13:0014:00 – 18:00",
+        "Вторник": "09:00 – 13:0014:00 – 18:00",
+        "Среда": "09:00 – 13:0014:00 – 18:00",
+        "Четверг": "09:00 – 13:0014:00 – 18:00",
+        "Пятница": "09:00 – 13:0014:00 – 18:00",
+        "Суббота": "09:00 – 13:0014:00 – 18:00",
+        "Воскресенье": "09:00 – 13:0014:00 – 18:00"
+    },
+    "features": null,
+    "rating": 4.1,
+    "attendance": {},
+    "number_of_votes": 6,
+    "number_of_review": 3,
+    "similar_objects": [
+        {
+            "object_id": 68490570320,
+            "object_name": "Музей Наполеона Орды",
+            "object_link": "https://yandex.by/maps/org/muzey_napoleona_ordy/68490570320/"
+        },
+        {
+            "object_id": 1008958418,
+            "object_name": "Музей народного творчества",
+            "object_link": "https://yandex.by/maps/org/motolskiy_muzey_narodnogo_tvorchestva/1008958418/"
+        },
+        {
+            "object_id": 139397437662,
+            "object_name": "Бабушкины вышки",
+            "object_link": "https://yandex.by/maps/org/muzey_narodnoy_meditsiny_babushkiny_vyshki/139397437662/"
+        },
+        {
+            "object_id": 67426178917,
+            "object_name": "Бездежский фартушок",
+            "object_link": "https://yandex.by/maps/org/bezdezhskiy_fartushok/67426178917/"
+        },
+        {
+            "object_id": 42896067138,
+            "object_name": "Дворцовый ансамбль Скирмунтов и часовня",
+            "object_link": "https://yandex.by/maps/org/dvortsovy_ansambl_skirmuntov_i_chasovnya/42896067138/"
+        },
+        {
+            "object_id": 1018985794,
+            "object_name": "Музей им. Д.К. Удовикова",
+            "object_link": "https://yandex.by/maps/org/voyenno_istoricheskiy_muzey_im_d_k_udovikova/1018985794/"
+        }
+    ],
+    "reviews_info": {
+        "type_reviews": {
+            "отличный музей ": 2,
+            "творческая личность ": 1,
+            "белорусское наследие ": 1,
+            "очень красиво ": 1,
+            "профессиональные экскурсоводы ": 2,
+            "огромный вклад ": 1,
+            "белорусская бюрократия ": 1,
+            "художник ": 2,
+            "реконструированный дом ": 1,
+            "очень интересно ": 1
+        },
+        "reviews": [
+            {
+                "author_name": "flerann@tut.by",
+                "author_profession": 6,
+                "date": "2021-08-28",
+                "comment": "Отличный музей! Экскурсовод Людмила Георгиевна радеет за своё дело, знает столько информации, что все и не запомнишь и очень интересно рассказывает! Наполеон Орда не только художник, а творческая личность, которая внесла огромный вклад в белорусское наследие.",
+                "author_url": "",
+                "rating": 5
+            },
+            {
+                "author_name": "Наталия Таланова",
+                "author_profession": 16,
+                "date": "2020-02-24",
+                "comment": "Очень душевный, качественный музей. Абсолютно увлечённые и профессиональные экскурсоводы. В музее находится множество копий литографий с рисунков Орды, а также документы, фотографии, предметы, связанные с его жизнью и творчеством.\nТакже есть галерея, в которой представлены работы современных белорусских художников, вдохновлённых творческом Орды.\nОдин из самых запоминающихся музеев Белоруссии.\nВ полутора километрах от музея находится реконструированный дом, где родился художник.",
+                "author_url": "https://reviews.yandex.ru/user/6nqta68ev4796kvpzh04ct5ngc",
+                "rating": 5
+            },
+            {
+                "author_name": "Юрий",
+                "author_profession": 11,
+                "date": "2019-12-01",
+                "comment": "Очень красиво и познавательно. Сразу чувствуется, что строилась без участия белорусской бюрократии.",
+                "author_url": "https://reviews.yandex.ru/user/8wnk52uce4t4g645dtz87ybjhr",
+                "rating": 5
+            }
+        ]
+    }
+}

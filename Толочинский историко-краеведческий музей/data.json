@@ -1,0 +1,96 @@
+{
+    "object_name": "Толочинский историко-краеведческий музей",
+    "object_id": 1005423891,
+    "contact": [
+        "+375213621788"
+    ],
+    "business_url": "tolochin.museum.by",
+    "object_category": "Музей",
+    "object_links": [
+        "http://instagram.com/muzeitolochin",
+        "https://www.facebook.com/profile.php?id=100011791440615",
+        "https://www.youtube.com/channel/UCBorhlbE38ecdzOu8Jnd8qQ"
+    ],
+    "address": "Толочин, Пионерская ул., 4",
+    "work_time": {
+        "Понедельник": "09:00 – 18:00",
+        "Вторник": "09:00 – 18:00",
+        "Среда": "09:00 – 18:00",
+        "Четверг": "09:00 – 18:00",
+        "Пятница": "09:00 – 18:00",
+        "Суббота": "Выходной",
+        "Воскресенье": "Выходной"
+    },
+    "features": "Музей:краеведческий",
+    "rating": 4.1,
+    "attendance": {},
+    "number_of_votes": 23,
+    "number_of_review": 7,
+    "similar_objects": [],
+    "reviews_info": {
+        "type_reviews": {
+            "интересные выставки ": 1,
+            "приятные работники ": 1,
+            "грамотные сотрудники ": 1,
+            "классный экскурсовод ": 1
+        },
+        "reviews": [
+            {
+                "author_name": "Мария В.",
+                "author_profession": 11,
+                "date": "2019-09-14",
+                "comment": "Я люблю наш музей с приятными и грамотными сотрудниками. Он довольно современный и постоянно приезжают разные интересные выставки)",
+                "author_url": "https://reviews.yandex.ru/user/gh5mnb23tzx2afc4wyg1azrcf0",
+                "rating": 5
+            },
+            {
+                "author_name": "Александра Гапонова",
+                "author_profession": 5,
+                "date": "2020-04-27",
+                "comment": "Очень классный экскурсовод и познавательная экскурсия!!! Мне понравилось",
+                "author_url": "https://reviews.yandex.ru/user/9ftjd893nf4dxxkh0gtfqmux9w",
+                "rating": 4
+            },
+            {
+                "author_name": "Алексей Д",
+                "author_profession": 11,
+                "date": "2019-10-09",
+                "comment": "Хорошо что такие мета еще существуют =) интересно можно окунуться в прошлое.",
+                "author_url": "https://reviews.yandex.ru/user/cn7fc68ghvwcmk370ccankwnyr",
+                "rating": 5
+            },
+            {
+                "author_name": "Alaya",
+                "author_profession": 15,
+                "date": "2019-05-16",
+                "comment": "Хороший для малого районного уровня . Стоит посетить обязательно",
+                "author_url": "https://reviews.yandex.ru/user/jz0jwpe96eh28ejhxybrumkgdg",
+                "rating": 5
+            },
+            {
+                "author_name": "Вероника",
+                "author_profession": 2,
+                "date": "2019-02-21",
+                "comment": "Приятные работники, интересно рассказывают",
+                "author_url": "https://reviews.yandex.ru/user/f2tvwuq57ypwkzqhgtrhahteqr",
+                "rating": 4
+            },
+            {
+                "author_name": "Павловский Роман",
+                "author_profession": 10,
+                "date": "2018-04-25",
+                "comment": "Находится в центре города, можно узнать о истории района",
+                "author_url": "https://reviews.yandex.ru/user/juz834r1va2k4jhnvncxc0zr84",
+                "rating": 3
+            },
+            {
+                "author_name": "Сергей",
+                "author_profession": 4,
+                "date": "2020-04-03",
+                "comment": "всем хорош",
+                "author_url": "https://reviews.yandex.ru/user/a7a82nb3x42qhf3kb6qnmrf2v0",
+                "rating": 5
+            }
+        ]
+    }
+}

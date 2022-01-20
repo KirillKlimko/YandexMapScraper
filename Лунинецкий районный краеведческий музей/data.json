@@ -1,0 +1,74 @@
+{
+    "object_name": "Лунинецкий районный краеведческий музей",
+    "object_id": 41985731969,
+    "contact": [
+        "+375164721439"
+    ],
+    "business_url": null,
+    "object_category": "Музей",
+    "object_links": [],
+    "address": "Лунинец, Советская ул., 16",
+    "work_time": {
+        "Понедельник": "Выходной",
+        "Вторник": "09:00 – 13:0014:00 – 18:00",
+        "Среда": "09:00 – 13:0014:00 – 18:00",
+        "Четверг": "09:00 – 13:0014:00 – 18:00",
+        "Пятница": "09:00 – 13:0014:00 – 18:00",
+        "Суббота": "09:00 – 13:0014:00 – 18:00",
+        "Воскресенье": "09:00 – 13:0014:00 – 18:00"
+    },
+    "features": null,
+    "rating": 3.7,
+    "attendance": {},
+    "number_of_votes": 20,
+    "number_of_review": 5,
+    "similar_objects": [],
+    "reviews_info": {
+        "type_reviews": {
+            "музей ": 4,
+            "вежливые работники ": 1
+        },
+        "reviews": [
+            {
+                "author_name": "Анна К.",
+                "author_profession": 6,
+                "date": "2020-04-03",
+                "comment": "Замечательные сотрудники работают в музее! Стараются сделать всё возможное, чтобы музей был не только в центре города, но и в центре внимания! Молодцы!",
+                "author_url": "https://reviews.yandex.ru/user/n6y9qhfdtpq9pt881jqh923q2g",
+                "rating": 5
+            },
+            {
+                "author_name": "Марина М.",
+                "author_profession": 9,
+                "date": "2019-10-14",
+                "comment": "Посетить нужно обязательно. Грамотные, вежливые работники. Интересно будет не только детям, но и взрослым",
+                "author_url": "https://reviews.yandex.ru/user/76rj3ebv36rgwgwc1p2db7nz40",
+                "rating": 5
+            },
+            {
+                "author_name": "Александр Ковалевич",
+                "author_profession": 10,
+                "date": "2019-08-07",
+                "comment": "Утопия, меня хватило на минут три. В Беларуси похоже коровам больше внимания уделяют чем искусству. Если вкрадце, то что не украли из-за при распаде СССР продемонстрировано в этом музее, на площади пару квадратных метров.",
+                "author_url": "https://reviews.yandex.ru/user/96rbc2pbxbf9gwmb941xxmrtam",
+                "rating": 1
+            },
+            {
+                "author_name": "Sergey Wiesner",
+                "author_profession": 6,
+                "date": "2020-07-23",
+                "comment": "Хороший музей. Очень.",
+                "author_url": "https://reviews.yandex.ru/user/4kfdh8qp8cpk0rfuevkqg9abem",
+                "rating": 5
+            },
+            {
+                "author_name": "Павел Бохан",
+                "author_profession": 14,
+                "date": "2018-12-04",
+                "comment": "Очень интересный музей.",
+                "author_url": "https://reviews.yandex.ru/user/a2qg1gghkev7d4c7ahekdw77kw",
+                "rating": 5
+            }
+        ]
+    }
+}

@@ -1,0 +1,217 @@
+{
+    "object_name": "Могилёвский областной краеведческий музей имени Е. Р. Романова",
+    "object_id": 1381125776,
+    "contact": [
+        "+375222641450",
+        "+375222640120",
+        "+375222641014",
+        "+375222220120",
+        "+375222251014"
+    ],
+    "business_url": "mogilewmuseum.by",
+    "object_category": "Музей",
+    "object_links": [],
+    "address": "Могилёв, площадь Славы, 1",
+    "work_time": {
+        "Понедельник": "Выходной",
+        "Вторник": "Выходной",
+        "Среда": "10:00 – 17:00",
+        "Четверг": "10:00 – 17:00",
+        "Пятница": "10:00 – 17:00",
+        "Суббота": "10:00 – 17:00",
+        "Воскресенье": "10:00 – 17:00"
+    },
+    "features": null,
+    "rating": 4.2,
+    "attendance": {},
+    "number_of_votes": 89,
+    "number_of_review": 15,
+    "similar_objects": [
+        {
+            "object_id": 1090659538,
+            "object_name": "Городская ратуша",
+            "object_link": "https://yandex.by/maps/org/gorodskaya_ratusha/1090659538/"
+        },
+        {
+            "object_id": 1231733051,
+            "object_name": "Музей этнографии",
+            "object_link": "https://yandex.by/maps/org/muzey_etnografii/1231733051/"
+        },
+        {
+            "object_id": 1003648334,
+            "object_name": "Художественный музей им. Масленикова",
+            "object_link": "https://yandex.by/maps/org/mogilyovskiy_oblastnoy_khudozhestvenny_muzey_imeni_p_v_maslenikova/1003648334/"
+        },
+        {
+            "object_id": 1230546144,
+            "object_name": "Выставочный зал",
+            "object_link": "https://yandex.by/maps/org/uk_muzey_istorii_mogileva_vystavochny_zal/1230546144/"
+        },
+        {
+            "object_id": 187810832664,
+            "object_name": "Выставка пожарной техники",
+            "object_link": "https://yandex.by/maps/org/vystavka_pozharnoy_tekhniki/187810832664/"
+        },
+        {
+            "object_id": 37005420883,
+            "object_name": "Архиерейский дворец",
+            "object_link": "https://yandex.by/maps/org/arkhiyereyskiy_dvorets/37005420883/"
+        },
+        {
+            "object_id": 208443161160,
+            "object_name": "Музей В. К. Бялыницкого-Бирули",
+            "object_link": "https://yandex.by/maps/org/muzey_v_k_byalynitskogo_biruli/208443161160/"
+        },
+        {
+            "object_id": 225172438768,
+            "object_name": "Могилёвское отделение Белорусской железной дороги, музей истории",
+            "object_link": "https://yandex.by/maps/org/mogilyovskoye_otdeleniye_belorusskoy_zheleznoy_dorogi_muzey_istorii/225172438768/"
+        },
+        {
+            "object_id": 1238537275,
+            "object_name": "Музей физической культуры и спорта Могилёвской области",
+            "object_link": "https://yandex.by/maps/org/muzey_fizicheskoy_kultury_i_sporta_mogilyovskoy_oblasti/1238537275/"
+        },
+        {
+            "object_id": 75162073544,
+            "object_name": "Прорыв Блокады Ленинграда Музей-заповедник",
+            "object_link": "https://yandex.by/maps/org/proryv_blokady_leningrada_muzey_zapovednik/75162073544/"
+        }
+    ],
+    "reviews_info": {
+        "type_reviews": {
+            "постоянная композиция ": 1,
+            "отличное место ": 1,
+            "царская семья ": 1,
+            "экспозиция ": 4,
+            "хороший музей ": 7,
+            "очень хорошо ": 1,
+            "замечательные работники ": 2,
+            "временная выставка ": 2,
+            "увлеченные хранители ": 1,
+            "верховный главнокомандующий ": 1
+        },
+        "reviews": [
+            {
+                "author_name": "Владимир Жуковец",
+                "author_profession": 7,
+                "date": "2021-12-28",
+                "comment": "Замечательное место. Отличные экспозиции, очень интересно рассказывают про ходу, много экспонатов, даже гончар есть. Всем рекомендуем, можно найти много интересного для детей уже от 3.5 лет",
+                "author_url": "https://reviews.yandex.ru/user/7wp291aqc1edpunq96028dtykg",
+                "rating": 5
+            },
+            {
+                "author_name": "Павел",
+                "author_profession": 16,
+                "date": "2021-11-02",
+                "comment": "Хоть тема избита и экспонаты все те же. Зато это музей, и даже я там каждый угол облазил, это не помешает сюда сходить снова. Привести друзей которые первый раз в городе, детей. Этому месту стоит развиваться. И кстати снаружи, особенно вечером, очень достойно выглядит.",
+                "author_url": "https://reviews.yandex.ru/user/Benjamin-mf0",
+                "rating": 5
+            },
+            {
+                "author_name": "Анастасия Силина",
+                "author_profession": 5,
+                "date": "2022-01-05",
+                "comment": "Высиавка не меняется и не обновляется уже несколько лет. Есть временные выставки, но постоянная композиция уже немного поднадоела. Хочется обновления какого-то",
+                "author_url": "https://reviews.yandex.ru/user/0mwqqqxrvhzrv9yf6dzt46qcqg",
+                "rating": 4
+            },
+            {
+                "author_name": "Полина Ш.",
+                "author_profession": 5,
+                "date": "2021-11-24",
+                "comment": "Большая коллекция и очень увлечённые хранители и гиды. Реально интересно в этом музее",
+                "author_url": "https://reviews.yandex.ru/user/mgf56tquqd3bjdgj0gkgaxkt74",
+                "rating": 5
+            },
+            {
+                "author_name": "максим лазутин",
+                "author_profession": 3,
+                "date": "2021-12-20",
+                "comment": "Хороший музей и много интересных экспонатов",
+                "author_url": "https://reviews.yandex.ru/user/r8eqe8qfnemy48d36k2wgpcdrc",
+                "rating": 4
+            },
+            {
+                "author_name": "Наталия Таланова",
+                "author_profession": 16,
+                "date": "2020-02-28",
+                "comment": "Огромный музей, 3 этажа, 4 экспозиции. Много детальной информации об истории и природе страны. Также демонстрируется уникальная видеохроника пребывания в Могилеве Николая II и царской семьи.",
+                "author_url": "https://reviews.yandex.ru/user/6nqta68ev4796kvpzh04ct5ngc",
+                "rating": 5
+            },
+            {
+                "author_name": "Владислав Студеникин",
+                "author_profession": 11,
+                "date": "2020-10-15",
+                "comment": "Отличная экспозиция в историческос здании ставки верховного главнокомандующего Первой Мировой Войны. Понравилась временная выставка \"история наших денег\".",
+                "author_url": "https://reviews.yandex.ru/user/c6xeu1zy06uun7uaqctb73a5m4",
+                "rating": 5
+            },
+            {
+                "author_name": "Олег Сентюров",
+                "author_profession": 9,
+                "date": "2020-06-26",
+                "comment": "Замечательные работники, проведут вам экскурсию и очень много расскажут даже без гида)",
+                "author_url": "https://reviews.yandex.ru/user/ngphpfhrm284wgf11ncn3qjzc8",
+                "rating": 5
+            },
+            {
+                "author_name": "Телецентр 656",
+                "author_profession": 7,
+                "date": "2019-08-23",
+                "comment": "Замечательный музей с прекрасными сотрудниками. Экспозиция богатая и разнообразная!",
+                "author_url": "https://reviews.yandex.ru/user/5w04awy7ayjgz1ugg8yy9krw8r",
+                "rating": 5
+            },
+            {
+                "author_name": "Андрей Михайлович",
+                "author_profession": 21,
+                "date": "2020-03-12",
+                "comment": "Вся история в одном месте. Интерес вызывает и большой стул стоящий у входа в музей. Необходимо побывать.",
+                "author_url": "https://reviews.yandex.ru/user/46uzpx8d5fq7c5hr01zg1b5yd4",
+                "rating": 5
+            },
+            {
+                "author_name": "Владимир Терещенко",
+                "author_profession": 27,
+                "date": "2020-06-21",
+                "comment": "Отличное место для познания истории...",
+                "author_url": "https://reviews.yandex.ru/user/TAMADA-MOGILEV",
+                "rating": 5
+            },
+            {
+                "author_name": "дмитрий белый",
+                "author_profession": 7,
+                "date": "2021-07-11",
+                "comment": "Очень хорошо",
+                "author_url": "https://reviews.yandex.ru/user/zye8hhyqu5k23kgm15wywb8z40",
+                "rating": 5
+            },
+            {
+                "author_name": "Вадим Котов",
+                "author_profession": 11,
+                "date": "2021-05-19",
+                "comment": "Все чикипибарум",
+                "author_url": "https://reviews.yandex.ru/user/1j1tjddpd9zzufcqk71fqcmta0",
+                "rating": 5
+            },
+            {
+                "author_name": "Нина",
+                "author_profession": 14,
+                "date": "2018-10-03",
+                "comment": "Шикарный музей. Жаль что теленка с двумя головами выставляют только по праздникам",
+                "author_url": "https://reviews.yandex.ru/user/gzkcf4zxe0jqdph64rd11n5cvm",
+                "rating": 5
+            },
+            {
+                "author_name": "vysotsck-vladimir",
+                "author_profession": 7,
+                "date": "2019-12-03",
+                "comment": "Советую посетить",
+                "author_url": "https://reviews.yandex.ru/user/yeptrkwb05e5udkgdmbatp1uk0",
+                "rating": 5
+            }
+        ]
+    }
+}

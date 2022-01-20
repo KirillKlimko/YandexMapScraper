@@ -1,0 +1,682 @@
+{
+    "object_name": "Музей истории Могилёва",
+    "object_id": 1090659538,
+    "contact": [
+        "+375222245011",
+        "+375222252968",
+        "+375222247262"
+    ],
+    "business_url": "museumhm.by",
+    "object_category": "Музей",
+    "object_links": [
+        "http://www.facebook.com/ratusha.mogilev",
+        "https://vk.com/club126566384",
+        "https://www.instagram.com/ratusha_mogilev/"
+    ],
+    "address": "Могилёв, Ленинская ул., 1А",
+    "work_time": {
+        "Понедельник": "Выходной",
+        "Вторник": "Выходной",
+        "Среда": "10:00 – 18:00",
+        "Четверг": "10:00 – 18:00",
+        "Пятница": "10:00 – 18:00",
+        "Суббота": "10:00 – 18:00",
+        "Воскресенье": "10:00 – 18:00"
+    },
+    "features": null,
+    "rating": 4.6,
+    "attendance": {
+        "Пн": {
+            "00:00": 0,
+            "01:00": 0,
+            "02:00": 0,
+            "03:00": 0,
+            "04:00": 0,
+            "05:00": 0,
+            "06:00": 0,
+            "07:00": 0,
+            "08:00": 0,
+            "09:00": 0,
+            "10:00": 0,
+            "11:00": 0,
+            "12:00": 0,
+            "13:00": 0,
+            "14:00": 0,
+            "15:00": 0,
+            "16:00": 0,
+            "17:00": 0,
+            "18:00": 0,
+            "19:00": 0,
+            "20:00": 0,
+            "21:00": 0,
+            "22:00": 0,
+            "23:00": 0
+        },
+        "Вт": {
+            "00:00": 0,
+            "01:00": 0,
+            "02:00": 0,
+            "03:00": 0,
+            "04:00": 0,
+            "05:00": 0,
+            "06:00": 0,
+            "07:00": 0,
+            "08:00": 0,
+            "09:00": 0,
+            "10:00": 0,
+            "11:00": 0,
+            "12:00": 0,
+            "13:00": 0,
+            "14:00": 0,
+            "15:00": 0,
+            "16:00": 0,
+            "17:00": 0,
+            "18:00": 0,
+            "19:00": 0,
+            "20:00": 0,
+            "21:00": 0,
+            "22:00": 0,
+            "23:00": 0
+        },
+        "Ср": {
+            "00:00": 0,
+            "01:00": 0,
+            "02:00": 0,
+            "03:00": 0,
+            "04:00": 0,
+            "05:00": 0,
+            "06:00": 0,
+            "07:00": 0,
+            "08:00": 0,
+            "09:00": 0,
+            "10:00": 36,
+            "11:00": 47,
+            "12:00": 48,
+            "13:00": 57,
+            "14:00": 65,
+            "15:00": 67,
+            "16:00": 63,
+            "17:00": 47,
+            "18:00": 0,
+            "19:00": 0,
+            "20:00": 0,
+            "21:00": 0,
+            "22:00": 0,
+            "23:00": 0
+        },
+        "Чт": {
+            "00:00": 0,
+            "01:00": 0,
+            "02:00": 0,
+            "03:00": 0,
+            "04:00": 0,
+            "05:00": 0,
+            "06:00": 0,
+            "07:00": 0,
+            "08:00": 0,
+            "09:00": 0,
+            "10:00": 34,
+            "11:00": 51,
+            "12:00": 51,
+            "13:00": 55,
+            "14:00": 63,
+            "15:00": 66,
+            "16:00": 66,
+            "17:00": 51,
+            "18:00": 0,
+            "19:00": 0,
+            "20:00": 0,
+            "21:00": 0,
+            "22:00": 0,
+            "23:00": 0
+        },
+        "Пт": {
+            "00:00": 0,
+            "01:00": 0,
+            "02:00": 0,
+            "03:00": 0,
+            "04:00": 0,
+            "05:00": 0,
+            "06:00": 0,
+            "07:00": 0,
+            "08:00": 0,
+            "09:00": 0,
+            "10:00": 50,
+            "11:00": 65,
+            "12:00": 71,
+            "13:00": 79,
+            "14:00": 87,
+            "15:00": 85,
+            "16:00": 69,
+            "17:00": 47,
+            "18:00": 0,
+            "19:00": 0,
+            "20:00": 0,
+            "21:00": 0,
+            "22:00": 0,
+            "23:00": 0
+        },
+        "Сб": {
+            "00:00": 0,
+            "01:00": 0,
+            "02:00": 0,
+            "03:00": 0,
+            "04:00": 0,
+            "05:00": 0,
+            "06:00": 0,
+            "07:00": 0,
+            "08:00": 0,
+            "09:00": 0,
+            "10:00": 52,
+            "11:00": 83,
+            "12:00": 97,
+            "13:00": 97,
+            "14:00": 100,
+            "15:00": 90,
+            "16:00": 66,
+            "17:00": 42,
+            "18:00": 0,
+            "19:00": 0,
+            "20:00": 0,
+            "21:00": 0,
+            "22:00": 0,
+            "23:00": 0
+        },
+        "Вс": {
+            "00:00": 0,
+            "01:00": 0,
+            "02:00": 0,
+            "03:00": 0,
+            "04:00": 0,
+            "05:00": 0,
+            "06:00": 0,
+            "07:00": 0,
+            "08:00": 0,
+            "09:00": 0,
+            "10:00": 39,
+            "11:00": 52,
+            "12:00": 52,
+            "13:00": 48,
+            "14:00": 50,
+            "15:00": 53,
+            "16:00": 54,
+            "17:00": 38,
+            "18:00": 0,
+            "19:00": 0,
+            "20:00": 0,
+            "21:00": 0,
+            "22:00": 0,
+            "23:00": 0
+        }
+    },
+    "number_of_votes": 358,
+    "number_of_review": 50,
+    "similar_objects": [
+        {
+            "object_id": 37005420883,
+            "object_name": "Архиерейский дворец",
+            "object_link": "https://yandex.by/maps/org/arkhiyereyskiy_dvorets/37005420883/"
+        },
+        {
+            "object_id": 1381125776,
+            "object_name": "Краеведческий музей",
+            "object_link": "https://yandex.by/maps/org/mogilyovskiy_oblastnoy_krayevedcheskiy_muzey/1381125776/"
+        },
+        {
+            "object_id": 1230546144,
+            "object_name": "Выставочный зал",
+            "object_link": "https://yandex.by/maps/org/uk_muzey_istorii_mogileva_vystavochny_zal/1230546144/"
+        },
+        {
+            "object_id": 1003648334,
+            "object_name": "Художественный музей им. Масленикова",
+            "object_link": "https://yandex.by/maps/org/mogilyovskiy_oblastnoy_khudozhestvenny_muzey_imeni_p_v_maslenikova/1003648334/"
+        },
+        {
+            "object_id": 1231733051,
+            "object_name": "Музей этнографии",
+            "object_link": "https://yandex.by/maps/org/muzey_etnografii/1231733051/"
+        },
+        {
+            "object_id": 187810832664,
+            "object_name": "Выставка пожарной техники",
+            "object_link": "https://yandex.by/maps/org/vystavka_pozharnoy_tekhniki/187810832664/"
+        },
+        {
+            "object_id": 208443161160,
+            "object_name": "Музей В. К. Бялыницкого-Бирули",
+            "object_link": "https://yandex.by/maps/org/muzey_v_k_byalynitskogo_biruli/208443161160/"
+        },
+        {
+            "object_id": 75162073544,
+            "object_name": "Прорыв Блокады Ленинграда Музей-заповедник",
+            "object_link": "https://yandex.by/maps/org/proryv_blokady_leningrada_muzey_zapovednik/75162073544/"
+        },
+        {
+            "object_id": 1238537275,
+            "object_name": "Музей физической культуры и спорта Могилёвской области",
+            "object_link": "https://yandex.by/maps/org/muzey_fizicheskoy_kultury_i_sporta_mogilyovskoy_oblasti/1238537275/"
+        },
+        {
+            "object_id": 203697944985,
+            "object_name": "Славгородский районный историко-краеведческий музей",
+            "object_link": "https://yandex.by/maps/org/slavgorodskiy_rayonny_istoriko_krayevedcheskiy_muzey/203697944985/"
+        }
+    ],
+    "reviews_info": {
+        "type_reviews": {
+            "отличный музей ": 31,
+            "смотровая площадка ": 3,
+            "интересно ": 14,
+            "красиво ": 12,
+            "часы ": 7,
+            "ратуша ": 17,
+            "экскурсия ": 15,
+            "история ": 10,
+            "достопримечательность ": 4,
+            "хорошее место ": 4
+        },
+        "reviews": [
+            {
+                "author_name": "Ольга Олихвер",
+                "author_profession": 4,
+                "date": "2021-10-13",
+                "comment": "Отличный музей. Честно скажу, что не ожидала. Часть экспозиции напоминает краеведческий. Но есть два зала, где очень впечатляюще реконструированы интерьеры старой ратуши. Потрясающе. Поднимались внутри башни до часов. Это очень интересно и необычно. Экскурсия интересная, экскурсовод была с душой, болеющая за свое дело. Это невозможно не оценить. Рекомендую однозначно.",
+                "author_url": "https://reviews.yandex.ru/user/6khqcewgawew1kdnybj102vq2r",
+                "rating": 5
+            },
+            {
+                "author_name": "Екатерина Р.",
+                "author_profession": 2,
+                "date": "2021-08-27",
+                "comment": "Посетили музей и поднялись на смотровую площадку! Интересная экскурсия, легкая подача материала, доброжелательные и вежливые сотрудники - рекомендую!",
+                "author_url": "https://reviews.yandex.ru/user/wuepgfa7tpn81664cjgfd2cbrm",
+                "rating": 5
+            },
+            {
+                "author_name": "Максим Назаренко",
+                "author_profession": 11,
+                "date": "2021-10-03",
+                "comment": "Неоспоримо лучшее место в Могилёве ! Какие замечательные виды открываются вокруг. Ратуша в прекрасном состоянии! Надо отдать должное мэрии за то что держат достопримечательности в достойном состоянии. \nНе может не кривить взгляд то, как далеко не в первом городе пытаются запихать вс достопримечательности и значимые места в одну точку.",
+                "author_url": "https://reviews.yandex.ru/user/ed08fra9kyt5ggv0mzn21mam78",
+                "rating": 5
+            },
+            {
+                "author_name": "Елена Беспанская",
+                "author_profession": 7,
+                "date": "2021-08-22",
+                "comment": "Интересно и взрослым, и детям. Интересная экскурсия, красивый вид на Могилев, центр города, прекрасная возможность прогуляться!",
+                "author_url": "https://reviews.yandex.ru/user/q09hn0qvep3t1hrtmw8qv6m4zm",
+                "rating": 5
+            },
+            {
+                "author_name": "Андрей Черняк",
+                "author_profession": 16,
+                "date": "2022-01-10",
+                "comment": "Красивая, ухоженная площадь, атмосферно-значимое место (вечный огонь, памятные знаки), очень красивый вид на город и на Днепр)",
+                "author_url": "https://reviews.yandex.ru/user/k7hdjk3c33f33t7tcgp5dpyff8",
+                "rating": 5
+            },
+            {
+                "author_name": "Полина Михайлова",
+                "author_profession": 6,
+                "date": "2021-08-05",
+                "comment": "Экскурсии здесь просто масло для сердца и музыка для ушей. Вид сверху - прекрасный, экскурсовод - знает свое дело. И по кошельку не бьёт. Настоятельно советую посетить",
+                "author_url": "https://reviews.yandex.ru/user/u3j8q8hdtzbthamzuaw0cbw2mr",
+                "rating": 5
+            },
+            {
+                "author_name": "Александр К",
+                "author_profession": 6,
+                "date": "2021-10-09",
+                "comment": "С этого места можно осмотреть город, внутри обычный музей с битой кирамикой, ржавым оружием, монеты и прочая древняя безделица. А вот на чердаке, находятся большие, рукотворные часы, сделаны, по внешнему виду, из того что под рукой было, что по мне и является необычным, таких точно больше нигде нет.",
+                "author_url": "https://reviews.yandex.ru/user/83j2xkmhe8prxhpkfbcpjcgycw",
+                "rating": 5
+            },
+            {
+                "author_name": "Svetlana Mazurkevich",
+                "author_profession": 11,
+                "date": "2021-04-12",
+                "comment": "Не скажу,что большой, но очень интересный музей. В выборочности и наглядности экспонатов как раз и есть его прелесть: краткость- сестра таланта)) Очень приятные, приветливые сотрудники! Жаль,что не удалось оценить часы(( Надеюсь,это очень временно..",
+                "author_url": "https://reviews.yandex.ru/user/bnv48pjdfver8b3nzu5kd08utc",
+                "rating": 5
+            },
+            {
+                "author_name": "Рома Донцов",
+                "author_profession": 5,
+                "date": "2021-08-11",
+                "comment": "Хорошая ратуша, высокая. Узнать про историю ратуши было очень интересно, так как человек, который этим занимается, любит это дело всей душой.",
+                "author_url": "https://reviews.yandex.ru/user/tdnc3k4497a8axdxcbea64484w",
+                "rating": 5
+            },
+            {
+                "author_name": "Антонина Шкиндер",
+                "author_profession": 3,
+                "date": "2022-01-19",
+                "comment": "Прекрасный музей, интересная экспозиция, очень компетентный экскурсовод. Рекомендую к посещению",
+                "author_url": "https://reviews.yandex.ru/user/q414yjn6uxn18mhpq0ee3gemx8",
+                "rating": 5
+            },
+            {
+                "author_name": "Почти турист",
+                "author_profession": 5,
+                "date": "2021-06-29",
+                "comment": "Своего рода символ города. Глубокая история и прекрасный вид помогают ощутить дух города, его многовековую сущность. \nP.S. Впервые находящимся в Могилёве - посетить всенепременнно!",
+                "author_url": "https://reviews.yandex.ru/user/hujdj8u7ax9mb0z816z10he2t4",
+                "rating": 5
+            },
+            {
+                "author_name": "Татьяна Скрипник",
+                "author_profession": 4,
+                "date": "2021-06-25",
+                "comment": "Интересна не сама ратуша, а ЧАСЫ!!! Вы попадаете в самое сердце часов, где перед вами гири и шестеренки! Но! Всё не так просто! Создатель часов вложил в них ТАКОЙ ОГРОМНЫЙ СМЫСЛ.... Нам оооооочень повезло с экскурсоводом: нам он рассказал не только о самом создателе, но и раскрыл многие тайны создания! Оловянный солдатик в башне тоже интересен. Ребенку понравилась смотровая площадка и огромный бинокль)))))))",
+                "author_url": "https://reviews.yandex.ru/user/px0mw9wfv3x1vwpddf2ccr9hb8",
+                "rating": 5
+            },
+            {
+                "author_name": "Антон Б.",
+                "author_profession": 9,
+                "date": "2021-08-16",
+                "comment": "Очень красиво) отлично вписывается в панораму города. Вче новое-это хорошо забытое старое))",
+                "author_url": "https://reviews.yandex.ru/user/80yea0rh557me2ptxnuakj0ntw",
+                "rating": 5
+            },
+            {
+                "author_name": "Евгений",
+                "author_profession": 6,
+                "date": "2021-07-02",
+                "comment": "Интересная историческая экспозиция, прекрасный вид на город с балкона ратуши и хорошие сотрудники. Отдельное спасибо Игорю за интересные данные о часах.",
+                "author_url": "https://reviews.yandex.ru/user/1yrucb4tnap9an8wkbh6wacrag",
+                "rating": 5
+            },
+            {
+                "author_name": "Александр Б.",
+                "author_profession": 13,
+                "date": "2021-11-24",
+                "comment": "Красивое место. Перед ратушей красивый вид на Днепр. Музей и часовая башня достойны посещения.",
+                "author_url": "https://reviews.yandex.ru/user/heh32pkyrqm7tcubzgevuxejyc",
+                "rating": 5
+            },
+            {
+                "author_name": "Николай Ракицкий",
+                "author_profession": 13,
+                "date": "2021-09-13",
+                "comment": "Должно быть красиво. Но подсветка вся отключена. Страна в нищете. А жаль. Только вечный огонь не ОГОНЬ, а \"прорвавшийся\" \"газопровод\". Как МАРТЕН.((( Ничего нету и близко с ВЕЧНЫМ ОГНЁМ. ((((",
+                "author_url": "https://reviews.yandex.ru/user/0z2vjztdb56cg2zcmeqgrke0ug",
+                "rating": 3
+            },
+            {
+                "author_name": "Анастасия Моргунова",
+                "author_profession": 7,
+                "date": "2021-08-03",
+                "comment": "Красивое место, можно подняться на смотровую площадку и посмотреть город с высока.",
+                "author_url": "https://reviews.yandex.ru/user/u76qt1c092jr9ktyr05ff97c34",
+                "rating": 5
+            },
+            {
+                "author_name": "Олег Бабков",
+                "author_profession": 12,
+                "date": "2020-11-05",
+                "comment": "Отличное место! Обязательно нужно водить сюда детей! Были сегодня - море впечатлений. Хотелось бы конечно, чтобы экспонатов в музее было намного больше. Но понимаем, что для этого необходимы огромные суммы денег.",
+                "author_url": "https://reviews.yandex.ru/user/yfm6tw8z1qrjrhewzgnwma8fy0",
+                "rating": 5
+            },
+            {
+                "author_name": "Михаил",
+                "author_profession": 12,
+                "date": "2021-06-26",
+                "comment": "Насчёт музея не уверен, но подняться на башню обязательно! Берите экскурсию. Расскажут про часы и трубача, покажут все самые интересные здания города",
+                "author_url": "https://reviews.yandex.ru/user/kz62a9kggpmqtthtdpcvrygpnc",
+                "rating": 5
+            },
+            {
+                "author_name": "Marina Letaha",
+                "author_profession": 7,
+                "date": "2021-11-22",
+                "comment": "Могилев вообще понравился , как город. Красивый, просторный",
+                "author_url": "https://reviews.yandex.ru/user/z46182jxfk3ut97dg3gy4qzm8w",
+                "rating": 5
+            },
+            {
+                "author_name": "Владимир",
+                "author_profession": 10,
+                "date": "2021-06-09",
+                "comment": "Красивое место, имеет свою историю. Стоит посетить, чтобы полюбоваться зданиями и видом, который открывается с горы у Ратуши.",
+                "author_url": "https://reviews.yandex.ru/user/put1t9t4xtcxf20emmf37vzdyc",
+                "rating": 5
+            },
+            {
+                "author_name": "Anatoly Whiteman",
+                "author_profession": 8,
+                "date": "2021-05-31",
+                "comment": "Хороший небольшой музейчик. Подъем наверх обязателен. Уникальный часовой механизм, надеюсь они когда-нибудь его починят (в мае 2021 не работали колокола и выезжающий из окна человечек)",
+                "author_url": "https://reviews.yandex.ru/user/xda3npx63mw2r0c26qgh0wj91g",
+                "rating": 4
+            },
+            {
+                "author_name": "Наташа Марковская",
+                "author_profession": 7,
+                "date": "2021-10-04",
+                "comment": "Очень красивое место и познавательное .",
+                "author_url": "https://reviews.yandex.ru/user/f0fbkm4pbeut9tx5arwev7mcv4",
+                "rating": 5
+            },
+            {
+                "author_name": "Волков Андрей",
+                "author_profession": 11,
+                "date": "2021-05-01",
+                "comment": "Красивое здание, даже и не подумал бы, что оно восстановленное. И внутри интересно. И персонал ратуши радушный.",
+                "author_url": "https://reviews.yandex.ru/user/x78ryhtqd7jppmpa0dppzw0gbm",
+                "rating": 5
+            },
+            {
+                "author_name": "olga kunitskaya",
+                "author_profession": 7,
+                "date": "2021-06-09",
+                "comment": "Тут прекрасно. Обязательно возьмите экскурсовода, очень приятные люди",
+                "author_url": "https://reviews.yandex.ru/user/c1kz537897g3a3ya1vxp75kq9g",
+                "rating": 5
+            },
+            {
+                "author_name": "Андрей К.",
+                "author_profession": 12,
+                "date": "2021-12-29",
+                "comment": "С площадки у ратуши открывается неплохой вид на город.",
+                "author_url": "https://reviews.yandex.ru/user/bbt6cdjqhfn5v5b0meahd306cm",
+                "rating": 5
+            },
+            {
+                "author_name": "794635 Ковалёва",
+                "author_profession": 8,
+                "date": "2021-07-25",
+                "comment": "Не всегда можно попасть на площадку, посмотреть город",
+                "author_url": "https://reviews.yandex.ru/user/91u2mv77kya7d66ap8bakxtbam",
+                "rating": 4
+            },
+            {
+                "author_name": "Елизавета Г.",
+                "author_profession": 7,
+                "date": "2019-10-24",
+                "comment": "Очень хорошее место! В самой ратуше находится музей истоии Могилева, также за отдельную плату можно выйти на балкон и посмотреть в мощный бинокль, из которого видно даже буйничскую часовню! Зимой вроде бы бинокль не работает, но осенью еще можно в него посмотреть.",
+                "author_url": "https://reviews.yandex.ru/user/d6n3dvkzmx3xn60ghmpf4ge2qc",
+                "rating": 5
+            },
+            {
+                "author_name": "Аллергия на тупых людей",
+                "author_profession": 13,
+                "date": "2021-04-25",
+                "comment": "Местная достопримечательность. Ежедневно в 12 часов дня играет трубач, а также имеется внутри музей",
+                "author_url": "https://reviews.yandex.ru/user/j.o.jane.jane",
+                "rating": 4
+            },
+            {
+                "author_name": "Timur V.",
+                "author_profession": 9,
+                "date": "2019-12-30",
+                "comment": "Прекрасный музей, был в рамках программы от Гёте-института в сентябре 2019 года. Остался очень доволен. Историческая реконструкция гербового зала на 2 этаже - грандиозно!",
+                "author_url": "https://reviews.yandex.ru/user/buentjttkf2m7yqzzk5fbt0328",
+                "rating": 5
+            },
+            {
+                "author_name": "Anna Reshetnikova",
+                "author_profession": 10,
+                "date": "2021-10-07",
+                "comment": "Красивая площадь,красивая старая ратуша!",
+                "author_url": "https://reviews.yandex.ru/user/db2mfwmmx0f3tnd5hma4waerh0",
+                "rating": 5
+            },
+            {
+                "author_name": "Виолетта Ж.",
+                "author_profession": 4,
+                "date": "2022-01-06",
+                "comment": "Экскурсия была просто потрясающей!",
+                "author_url": "https://reviews.yandex.ru/user/0k45ajjcvuvx4b2mvha6nmaxww",
+                "rating": 5
+            },
+            {
+                "author_name": "Караим Олег",
+                "author_profession": 16,
+                "date": "2021-07-06",
+                "comment": "После реставрации очень красивое здание. Жаль, что больше трубач не трубит.",
+                "author_url": "https://reviews.yandex.ru/user/vvhx4da1ndvbvetbuaa72hrjxr",
+                "rating": 5
+            },
+            {
+                "author_name": "Александр Супрон",
+                "author_profession": 6,
+                "date": "2020-03-04",
+                "comment": "Огромное спасибо организаторам! Очень интересно было ознакомиться с историей Могилёва. Уютная атмосфера, вежливый персонал.",
+                "author_url": "https://reviews.yandex.ru/user/c6g7607rfendv7a8q1gy14u85g",
+                "rating": 5
+            },
+            {
+                "author_name": "Таня Манаева",
+                "author_profession": 10,
+                "date": "2021-05-24",
+                "comment": "Интересно послушать историю нашего города, очень рекомендую.",
+                "author_url": "https://reviews.yandex.ru/user/gca557n4rnq0cyc70rkkxmf088",
+                "rating": 5
+            },
+            {
+                "author_name": "Natasha Bihowcowa",
+                "author_profession": 10,
+                "date": "2021-12-16",
+                "comment": "Всем советую посетить с экскурсией",
+                "author_url": "https://reviews.yandex.ru/user/u7dz0ye5ga0m9zajzvwkwv6je8",
+                "rating": 5
+            },
+            {
+                "author_name": "dj-dmitry2018",
+                "author_profession": 8,
+                "date": "2020-04-30",
+                "comment": "Интересно и взрослым и детям, исторический памятник, возможно заказать экскурсию и выйти на балкон ратуши для обзора города",
+                "author_url": "https://reviews.yandex.ru/user/jqb97u9cdxkybypb3mvc4u3tjg",
+                "rating": 5
+            },
+            {
+                "author_name": "Дмитрий",
+                "author_profession": 11,
+                "date": "2021-06-29",
+                "comment": "Очень красивое место, сама ратуша. Так же музей тоже впечатлил!",
+                "author_url": "https://reviews.yandex.ru/user/xkctd6nkr0wq3ewfqh1pj0zdm4",
+                "rating": 5
+            },
+            {
+                "author_name": "Виктор Сороковиков",
+                "author_profession": 8,
+                "date": "2021-06-16",
+                "comment": "Очень интересная экскурсия про башню и часы, обязательно возьмите.",
+                "author_url": "https://reviews.yandex.ru/user/mubcr20qdhetb1vdj9mxzmrjwr",
+                "rating": 5
+            },
+            {
+                "author_name": "Александр",
+                "author_profession": 13,
+                "date": "2021-08-08",
+                "comment": "С площади открывается красивый вид",
+                "author_url": "https://reviews.yandex.ru/user/e729n8t34671mmx68r8ugcyv5g",
+                "rating": 4
+            },
+            {
+                "author_name": "Илья Ежелев",
+                "author_profession": 12,
+                "date": "2021-04-26",
+                "comment": "Ночью красиво, любителям просидеть и посмотреть на краски ночного города в самый раз",
+                "author_url": "https://reviews.yandex.ru/user/pfjv5kz3r0zdk765prahdjzj4c",
+                "rating": 4
+            },
+            {
+                "author_name": "Илья Л.",
+                "author_profession": 5,
+                "date": "2021-06-06",
+                "comment": "Очень красивый вид открывается с этой площади на город",
+                "author_url": "https://reviews.yandex.ru/user/dcgrfn6rmku462ddwxu63j3uu8",
+                "rating": 5
+            },
+            {
+                "author_name": "Петр Л.",
+                "author_profession": 8,
+                "date": "2021-05-13",
+                "comment": "Отличный музей, с прекрасными работниками",
+                "author_url": "https://reviews.yandex.ru/user/hymy5c1y0uvuc3ck3k3wygmxf4",
+                "rating": 5
+            },
+            {
+                "author_name": "Сашко Батин",
+                "author_profession": 13,
+                "date": "2019-06-18",
+                "comment": "Очень хороший музей, интересно было слушать рассказы гида. Немного жаль, что здание новое, но увы, в свое время вредители снесли. Экскурсия к часам была яркой, все понравилось. Но в 25кратный бинокль особо нечего глядеть .",
+                "author_url": "https://reviews.yandex.ru/user/46fnf30wrt24wr8kjtqvxfzmy4",
+                "rating": 5
+            },
+            {
+                "author_name": "Владимир Терещенко",
+                "author_profession": 27,
+                "date": "2020-04-11",
+                "comment": "Отличная городская достопримечательность, каждый должен посетить. Внутри отличный музей...",
+                "author_url": "https://reviews.yandex.ru/user/TAMADA-MOGILEV",
+                "rating": 5
+            },
+            {
+                "author_name": "Алексей Кашпур",
+                "author_profession": 13,
+                "date": "2020-12-21",
+                "comment": "Историческое место. Расположено в красивом месте.",
+                "author_url": "https://reviews.yandex.ru/user/f1ex2nwbhrd8k75ffmb6pj2g0c",
+                "rating": 5
+            },
+            {
+                "author_name": "Наталия С.",
+                "author_profession": 6,
+                "date": "2020-06-07",
+                "comment": "Обязательно посетите это место! Красиво.интересно.познавательно.Каждый раз.когда приезжаем в Могилев.обязательно приходим сюда.",
+                "author_url": "https://reviews.yandex.ru/user/e2d8pvm7efejznw6rx8quhwcd8",
+                "rating": 5
+            },
+            {
+                "author_name": "Максим Куровский",
+                "author_profession": 9,
+                "date": "2021-10-30",
+                "comment": "Интересно внутри.",
+                "author_url": "https://reviews.yandex.ru/user/ccvfcuzc5baxft342gyuuhwzy4",
+                "rating": 5
+            },
+            {
+                "author_name": "Anna G.",
+                "author_profession": 6,
+                "date": "2021-08-09",
+                "comment": "Рекомендую посетить",
+                "author_url": "https://reviews.yandex.ru/user/3wpkkktt9fmumq2ed3v3nqh00w",
+                "rating": 5
+            },
+            {
+                "author_name": "Мастер Зубр",
+                "author_profession": 12,
+                "date": "2019-05-29",
+                "comment": "Отличный музей! Особенно замечателен вид города с балкона и возможность рассмотреть все более детально в мощный бинокль.",
+                "author_url": "https://reviews.yandex.ru/user/cw01qemyuq6t2p6nabw8181v00",
+                "rating": 5
+            }
+        ]
+    }
+}

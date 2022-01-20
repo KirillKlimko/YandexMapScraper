@@ -1,0 +1,151 @@
+{
+    "object_name": "Лепельский районный краеведческий музей",
+    "object_id": 1008258625,
+    "contact": [
+        "+375213241790",
+        "+375213239490"
+    ],
+    "business_url": "museum.lepel.by",
+    "object_category": "Музей",
+    "object_links": [
+        "http://www.facebook.com/%D0%9B%D0%B5%D0%BF%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9-%D0%BA%D1%80%D0%B0%D0%B5%D0%B2%D0%B5%D0%B4%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9-%D0%BC%D1%83%D0%B7%D0%B5%D0%B9-437951586550821"
+    ],
+    "address": "Лепель, ул. Калинина, 66",
+    "work_time": {
+        "Понедельник": "Выходной",
+        "Вторник": "10:00 – 18:00",
+        "Среда": "10:00 – 18:00",
+        "Четверг": "10:00 – 18:00",
+        "Пятница": "10:00 – 18:00",
+        "Суббота": "10:00 – 18:00",
+        "Воскресенье": "10:00 – 18:00"
+    },
+    "features": null,
+    "rating": 4.0,
+    "attendance": {},
+    "number_of_votes": 42,
+    "number_of_review": 10,
+    "similar_objects": [
+        {
+            "object_id": 7160848116,
+            "object_name": "Музей народной славы им. В.Е. Лобанка",
+            "object_link": "https://yandex.by/maps/org/ushachskiy_muzey_narodnoy_slavy_imeni_v_ye_lobanka/7160848116/"
+        },
+        {
+            "object_id": 57447012157,
+            "object_name": "Водяная мельница",
+            "object_link": "https://yandex.by/maps/org/vodyanaya_melnitsa/57447012157/"
+        },
+        {
+            "object_id": 197817555860,
+            "object_name": "Святой источник",
+            "object_link": "https://yandex.by/maps/org/svyatoy_istochnik/197817555860/"
+        },
+        {
+            "object_id": 114603739621,
+            "object_name": "Городище",
+            "object_link": "https://yandex.by/maps/org/gorodishche/114603739621/"
+        },
+        {
+            "object_id": 112109095407,
+            "object_name": "Развалины Костела Святого Антония",
+            "object_link": "https://yandex.by/maps/org/razvaliny_kostela_svyatogo_antoniya/112109095407/"
+        }
+    ],
+    "reviews_info": {
+        "type_reviews": {
+            "интересно ": 4,
+            "интересные коллекции ": 1,
+            "комната с картинами ": 1,
+            "интересное изложение ": 1,
+            "замечательный музей ": 4,
+            "животный мир ": 1,
+            "хорошее состояние ": 1,
+            "современные художники ": 1,
+            "большая выставка ": 1,
+            "интересные экземпляры ": 1
+        },
+        "reviews": [
+            {
+                "author_name": "Павел Костюк",
+                "author_profession": 9,
+                "date": "2021-04-19",
+                "comment": "Очень замечательный музей для данной местности, есть несколько комнат, экспонаты в хорошем состоянии и интересно изложены в экспозициях. Много редких и интересных экземпляров. Цены очень маленькие, возможна экскурсия) интересное изложение",
+                "author_url": "https://reviews.yandex.ru/user/1axqhqfqjqteamkn7phx47qhu8",
+                "rating": 5
+            },
+            {
+                "author_name": "Евгения Д.",
+                "author_profession": 7,
+                "date": "2020-03-04",
+                "comment": "Небольшой музей, но вмещает в себя многое. Тут представлены и предметы быта разного времени, и животный мир края. Большая выставка посвящена 2й Мировой Войне. И даже есть комната с картинами современных художников.\nЭкскурсовод - очень интересно рассказывает, знает и любит свой город.",
+                "author_url": "https://reviews.yandex.ru/user/a86v31d5t0txaxhqmzjrutk46m",
+                "rating": 5
+            },
+            {
+                "author_name": "Алексей К",
+                "author_profession": 8,
+                "date": "2019-08-15",
+                "comment": "Хороший музей. Различные залы наполненные множеством экспонатов с поясняющими надписи и на русском языке. Цена за билет ничтожно маленькая!",
+                "author_url": "https://reviews.yandex.ru/user/0dz4w6u7y3qyym5hexxxcgczcg",
+                "rating": 5
+            },
+            {
+                "author_name": "Алег Шушкевіч",
+                "author_profession": 6,
+                "date": "2021-04-10",
+                "comment": "Музей нормальный, но здание старенькое",
+                "author_url": "https://reviews.yandex.ru/user/ualeh",
+                "rating": 4
+            },
+            {
+                "author_name": "Клавович Михаил",
+                "author_profession": 3,
+                "date": "2020-08-29",
+                "comment": "Очень интересное место. Много о экспонатов на тему ВОВ.",
+                "author_url": "https://reviews.yandex.ru/user/747g48ke50kzzwt2b9vzna502m",
+                "rating": 5
+            },
+            {
+                "author_name": "Михаил казак",
+                "author_profession": 5,
+                "date": "2021-02-26",
+                "comment": "Хорошее и интересное место.",
+                "author_url": "https://reviews.yandex.ru/user/2a5ad6y8hn81r82hfgg4zh9j6w",
+                "rating": 5
+            },
+            {
+                "author_name": "Оксанка Ш.",
+                "author_profession": 5,
+                "date": "2019-02-24",
+                "comment": "Руководству лучше относиться к своим работникам. Разве обязаны научные сотрудники чистить снег",
+                "author_url": "https://reviews.yandex.ru/user/vtmvtp2kq84ge6ueuxq2zrz728",
+                "rating": 2
+            },
+            {
+                "author_name": "андрей ковалевский",
+                "author_profession": 6,
+                "date": "2019-10-21",
+                "comment": "Экспозиция не менялась лет30.",
+                "author_url": "https://reviews.yandex.ru/user/hhcmvww7q41jg9xzfk61hbxtf0",
+                "rating": 5
+            },
+            {
+                "author_name": "Ирина Жерносек",
+                "author_profession": 4,
+                "date": "2019-09-12",
+                "comment": "Очень интересные коллекции",
+                "author_url": "https://reviews.yandex.ru/user/nb8d2md728y3xnac25g71rk2qw",
+                "rating": 5
+            },
+            {
+                "author_name": "Александр",
+                "author_profession": 11,
+                "date": "2019-09-12",
+                "comment": "30 лет ничего не изменялось.",
+                "author_url": "https://reviews.yandex.ru/user/5e7z9d38jnh41m27p6qw308cjm",
+                "rating": 5
+            }
+        ]
+    }
+}

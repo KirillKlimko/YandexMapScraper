@@ -1,0 +1,124 @@
+{
+    "object_name": "Вилейский краеведческий музей",
+    "object_id": 1090742869,
+    "contact": [
+        "+375177156405",
+        "+375177154147"
+    ],
+    "business_url": "www.vilmuseum.by",
+    "object_category": "Музей",
+    "object_links": [],
+    "address": "Вилейка, площадь Свободы, 1",
+    "work_time": {
+        "Понедельник": "Выходной",
+        "Вторник": "09:00 – 17:00",
+        "Среда": "09:00 – 17:00",
+        "Четверг": "09:00 – 17:00",
+        "Пятница": "09:00 – 17:00",
+        "Суббота": "09:00 – 17:00",
+        "Воскресенье": "09:00 – 17:00"
+    },
+    "features": null,
+    "rating": 3.7,
+    "attendance": {},
+    "number_of_votes": 38,
+    "number_of_review": 7,
+    "similar_objects": [
+        {
+            "object_id": 1763962536,
+            "object_name": "Краеведческий музей им. Н. Силивановича",
+            "object_link": "https://yandex.by/maps/org/krayevedcheskiy_muzey_im_nikodima_silivanovicha/1763962536/"
+        },
+        {
+            "object_id": 96452106644,
+            "object_name": "Музейный комплекс Забродье",
+            "object_link": "https://yandex.by/maps/org/muzeyny_kompleks_zabrodye/96452106644/"
+        },
+        {
+            "object_id": 168184845251,
+            "object_name": "Областной музей",
+            "object_link": "https://yandex.by/maps/org/oblastnoy_minskiy_muzey/168184845251/"
+        },
+        {
+            "object_id": 1097881310,
+            "object_name": "Ракутёвщина",
+            "object_link": "https://yandex.by/maps/org/literaturny_muzey_maksima_bogdanovicha_folvark_rakutyovshchina_filial/1097881310/"
+        },
+        {
+            "object_id": 1192635769,
+            "object_name": "Яхимовщина филиал Государственного Литературного Музея Янки Купалы",
+            "object_link": "https://yandex.by/maps/org/yakhimovshchina_filial_gosudarstvennogo_literaturnogo_muzeya_yanki_kupaly/1192635769/"
+        },
+        {
+            "object_id": 47835336017,
+            "object_name": "Корпус бывшего монастыря Тринитариев",
+            "object_link": "https://yandex.by/maps/org/korpus_byvshego_monastyrya_trinitariyev/47835336017/"
+        }
+    ],
+    "reviews_info": {
+        "type_reviews": {
+            "прекрасное заведение ": 1,
+            "небольшой музей ": 1,
+            "пожарная часть ": 1,
+            "современное финансирование ": 1
+        },
+        "reviews": [
+            {
+                "author_name": "наталия Пешехонова",
+                "author_profession": 18,
+                "date": "2019-11-26",
+                "comment": "Бедновато конечно, но,учитывая современное финансирование в провинции, можно понять(часто устраивают выставки,там бывает что-то интересное",
+                "author_url": "https://reviews.yandex.ru/user/fg53uecq1xywpqkg5jaf1g86em",
+                "rating": 4
+            },
+            {
+                "author_name": "Andrey Karkotko",
+                "author_profession": 7,
+                "date": "2020-07-27",
+                "comment": "Учреждение которое необходимо посетить в городе. Именно здесь можно узнать историю города и не только.",
+                "author_url": "https://reviews.yandex.ru/user/mz3up6cc8hwn4fpe3arhdw19yr",
+                "rating": 5
+            },
+            {
+                "author_name": "Сергей Запуняко",
+                "author_profession": 13,
+                "date": "2020-09-19",
+                "comment": "Когда-то это была городская пожарная часть",
+                "author_url": "https://reviews.yandex.ru/user/r929xkc5a4kqyxhk3gatdf81xg",
+                "rating": 5
+            },
+            {
+                "author_name": "Юрий В.",
+                "author_profession": 9,
+                "date": "2020-07-19",
+                "comment": "Давно не был, но кажется там всё хорошо.",
+                "author_url": "https://reviews.yandex.ru/user/bqmmacue2qaaphbfxdrmv4cz7r",
+                "rating": 4
+            },
+            {
+                "author_name": "SpeedRuinner",
+                "author_profession": 8,
+                "date": "2019-08-19",
+                "comment": "небольшой музей , совсем немного экспонатов но сходить можно",
+                "author_url": "https://reviews.yandex.ru/user/96qbttyherkb1y6dh0c84qvyb8",
+                "rating": 4
+            },
+            {
+                "author_name": "Руслан Кунавич",
+                "author_profession": 4,
+                "date": "2020-07-23",
+                "comment": "Прекрасное заведение",
+                "author_url": "https://reviews.yandex.ru/user/rxh81nd2pc1ddjrd2kjwra4178",
+                "rating": 5
+            },
+            {
+                "author_name": "Евгений Родионов",
+                "author_profession": 7,
+                "date": "2019-10-11",
+                "comment": "Есть что посмотреть но не долго",
+                "author_url": "https://reviews.yandex.ru/user/6g74ecgnkd9rvhv2v8xtergqyr",
+                "rating": 5
+            }
+        ]
+    }
+}

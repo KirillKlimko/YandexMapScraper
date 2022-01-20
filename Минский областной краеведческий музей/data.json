@@ -1,0 +1,139 @@
+{
+    "object_name": "Минский областной краеведческий музей",
+    "object_id": 168184845251,
+    "contact": [
+        "+375176777999",
+        "+375176771824",
+        "+375176771081"
+    ],
+    "business_url": "molodechno-mokm.museum.by",
+    "object_category": "Музей",
+    "object_links": [
+        "http://ok.ru/makm.maladziecna",
+        "http://vk.com/makm_maladziecna",
+        "http://www.youtube.com/c/%D0%9C%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D0%BD%D0%BE%D0%B9%D0%BA%D1%80%D0%B0%D0%B5%D0%B2%D0%B5%D0%B4%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9%D0%BC%D1%83%D0%B7%D0%B5%D0%B9",
+        "https://www.facebook.com/groups/makm.maladziecna",
+        "https://www.instagram.com/makm_maladziecna/"
+    ],
+    "address": "Молодечно, Партизанская ул., 3",
+    "work_time": {
+        "Понедельник": "Выходной",
+        "Вторник": "10:00 – 18:00",
+        "Среда": "10:00 – 18:00",
+        "Четверг": "10:00 – 18:00",
+        "Пятница": "10:00 – 18:00",
+        "Суббота": "10:00 – 18:00",
+        "Воскресенье": "10:00 – 18:00"
+    },
+    "features": "Билеты:2–16 бел.руб.",
+    "rating": 4.1,
+    "attendance": {},
+    "number_of_votes": 22,
+    "number_of_review": 8,
+    "similar_objects": [
+        {
+            "object_id": 47835336017,
+            "object_name": "Корпус бывшего монастыря Тринитариев",
+            "object_link": "https://yandex.by/maps/org/korpus_byvshego_monastyrya_trinitariyev/47835336017/"
+        },
+        {
+            "object_id": 1192635769,
+            "object_name": "Яхимовщина филиал Государственного Литературного Музея Янки Купалы",
+            "object_link": "https://yandex.by/maps/org/yakhimovshchina_filial_gosudarstvennogo_literaturnogo_muzeya_yanki_kupaly/1192635769/"
+        },
+        {
+            "object_id": 1097881310,
+            "object_name": "Ракутёвщина",
+            "object_link": "https://yandex.by/maps/org/literaturny_muzey_maksima_bogdanovicha_folvark_rakutyovshchina_filial/1097881310/"
+        },
+        {
+            "object_id": 96452106644,
+            "object_name": "Музейный комплекс Забродье",
+            "object_link": "https://yandex.by/maps/org/muzeyny_kompleks_zabrodye/96452106644/"
+        },
+        {
+            "object_id": 1090742869,
+            "object_name": "Краеведческий музей",
+            "object_link": "https://yandex.by/maps/org/vileyskiy_krayevedcheskiy_muzey/1090742869/"
+        },
+        {
+            "object_id": 66193513445,
+            "object_name": "Заброшенный детский лагерь",
+            "object_link": "https://yandex.by/maps/org/zabroshenny_detskiy_lager/66193513445/"
+        }
+    ],
+    "reviews_info": {
+        "type_reviews": {
+            "сделанная экспозиция ": 2,
+            "интересные выставки ": 1,
+            "интересное место ": 1,
+            "интересная экскурсия ": 2
+        },
+        "reviews": [
+            {
+                "author_name": "Егор Новик",
+                "author_profession": 8,
+                "date": "2021-07-04",
+                "comment": "Очень интересный экскурсовод - Ольга Николаевна. Продуманная и качественно сделанная экспозиция. От посещения остались в восторге, всем советую",
+                "author_url": "",
+                "rating": 5
+            },
+            {
+                "author_name": "Кот Добрый",
+                "author_profession": 7,
+                "date": "2022-01-14",
+                "comment": "Провели квест для меня и моих родителей. Очень понравилось!",
+                "author_url": "https://reviews.yandex.ru/user/cwjafbe62jb6j2fu1bh0vcx014",
+                "rating": 5
+            },
+            {
+                "author_name": "Масяня Счастливая",
+                "author_profession": 19,
+                "date": "2021-12-03",
+                "comment": "Нам провели очень интересную экскурсию.",
+                "author_url": "https://reviews.yandex.ru/user/0ctdbzrhn9rygq90bymenm48ww",
+                "rating": 5
+            },
+            {
+                "author_name": "çŤрẮχ 9.",
+                "author_profession": 4,
+                "date": "2021-01-29",
+                "comment": "Нраица в нем. Там тихо и красиво",
+                "author_url": "https://reviews.yandex.ru/user/qjn7d92xfgyg5f86xjecren35g",
+                "rating": 4
+            },
+            {
+                "author_name": "Кирилл Р.",
+                "author_profession": 5,
+                "date": "2020-06-06",
+                "comment": "Хорошие и интересные выставки",
+                "author_url": "https://reviews.yandex.ru/user/ybykj6y83ytatqvpdnx6nwkxpc",
+                "rating": 5
+            },
+            {
+                "author_name": "Сосед этажом выше",
+                "author_profession": 10,
+                "date": "2020-12-07",
+                "comment": "приятное место",
+                "author_url": "https://reviews.yandex.ru/user/94fufukzvgtwt72pthqtvetavc",
+                "rating": 4
+            },
+            {
+                "author_name": "Саша Спикулинаров",
+                "author_profession": 4,
+                "date": "2020-04-24",
+                "comment": "Порядочная экспозиция",
+                "author_url": "https://reviews.yandex.ru/user/xvjh5mput8vktty9zdxqhx8w3r",
+                "rating": 5
+            },
+            {
+                "author_name": "Виктория Петрова",
+                "author_profession": 4,
+                "date": "2020-03-08",
+                "comment": "Интересное место",
+                "author_url": "https://reviews.yandex.ru/user/vg08py2cq7wgn0zf7xnb601rug",
+                "rating": 5
+            }
+        ]
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "object_name": "Островецкий историко-этнографический музей",
+    "object_id": 125018919159,
+    "contact": [
+        "+375159170154",
+        "+375159173686"
+    ],
+    "business_url": null,
+    "object_category": "Музей",
+    "object_links": [],
+    "address": "Островец, просп. Энергетиков, 2",
+    "work_time": {
+        "Понедельник": "Выходной",
+        "Вторник": "Выходной",
+        "Среда": "10:00 – 19:00",
+        "Четверг": "10:00 – 19:00",
+        "Пятница": "10:00 – 19:00",
+        "Суббота": "09:00 – 18:00",
+        "Воскресенье": "09:00 – 18:00"
+    },
+    "features": null,
+    "rating": 3.6,
+    "attendance": {},
+    "number_of_votes": null,
+    "number_of_review": 0,
+    "similar_objects": [
+        {
+            "object_id": 41559701359,
+            "object_name": "Водяная мельница",
+            "object_link": "https://yandex.by/maps/org/vodyanaya_melnitsa/41559701359/"
+        },
+        {
+            "object_id": 1001241031,
+            "object_name": "Музей-усадьба Ф.Богушевича",
+            "object_link": "https://yandex.by/maps/org/muzey_usadba_frantishka_bogushevicha_kushlyany/1001241031/"
+        },
+        {
+            "object_id": 146903744887,
+            "object_name": "Макет Кревского замка",
+            "object_link": "https://yandex.by/maps/org/maket_krevskogo_zamka/146903744887/"
+        },
+        {
+            "object_id": 1099871257,
+            "object_name": "Краеведческий музей им. Ф. Богушевича",
+            "object_link": "https://yandex.by/maps/org/krayevedcheskiy_muzey_imeni_frantishka_bogushevicha/1099871257/"
+        }
+    ],
+    "reviews_info": {
+        "type_reviews": {},
+        "reviews": []
+    }
+}

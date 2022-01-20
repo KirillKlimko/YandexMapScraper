@@ -1,0 +1,155 @@
+{
+    "object_name": "Новогрудский историко-краеведческий музей",
+    "object_id": 1105126386,
+    "contact": [
+        "+375159721470",
+        "+375159744916",
+        "+375159745908",
+        "+375159745918"
+    ],
+    "business_url": "www.navagrudak.museum.by",
+    "object_category": "Музей",
+    "object_links": [
+        "http://ok.ru/group/56614158008429",
+        "http://vk.com/club187695928",
+        "https://www.facebook.com/novogrudok.museum",
+        "https://www.instagram.com/novogrudokmuseum/"
+    ],
+    "address": "Новогрудок, Гродненская ул., 2",
+    "work_time": {
+        "Понедельник": "Выходной",
+        "Вторник": "09:00 – 18:00",
+        "Среда": "09:00 – 18:00",
+        "Четверг": "09:00 – 18:00",
+        "Пятница": "09:00 – 18:00",
+        "Суббота": "09:00 – 18:00",
+        "Воскресенье": "09:00 – 18:00"
+    },
+    "features": null,
+    "rating": 4.1,
+    "attendance": {},
+    "number_of_votes": 34,
+    "number_of_review": 8,
+    "similar_objects": [
+        {
+            "object_id": 1107315174,
+            "object_name": "Дом-музей А. Мицкевича",
+            "object_link": "https://yandex.by/maps/org/dom_muzey_adama_mitskevicha/1107315174/"
+        },
+        {
+            "object_id": 44781075025,
+            "object_name": "Торговые ряды",
+            "object_link": "https://yandex.by/maps/org/torgovyye_ryady/44781075025/"
+        },
+        {
+            "object_id": 210475398083,
+            "object_name": "Новогрудский замок",
+            "object_link": "https://yandex.by/maps/org/novogrudskiy_zamok/210475398083/"
+        },
+        {
+            "object_id": 166195543114,
+            "object_name": "Аллея фонарей",
+            "object_link": "https://yandex.by/maps/org/alleya_fonarey/166195543114/"
+        },
+        {
+            "object_id": 202558722538,
+            "object_name": "Усадьба К. Качана",
+            "object_link": "https://yandex.by/maps/org/kartinnaya_galereya_kastusya_kachana/202558722538/"
+        },
+        {
+            "object_id": 165144987656,
+            "object_name": "Музей еврейского сопротивления",
+            "object_link": "https://yandex.by/maps/org/muzey_yevreyskogo_soprotivleniya/165144987656/"
+        },
+        {
+            "object_id": 219420416708,
+            "object_name": "Штаны",
+            "object_link": "https://yandex.by/maps/org/novogrudskiye_shtany/219420416708/"
+        },
+        {
+            "object_id": 18541312568,
+            "object_name": "Костёльная башня",
+            "object_link": "https://yandex.by/maps/org/kostyolnaya_bashnya/18541312568/"
+        },
+        {
+            "object_id": 196595250186,
+            "object_name": "Гора Миндовга",
+            "object_link": "https://yandex.by/maps/org/gora_mindovga/196595250186/"
+        }
+    ],
+    "reviews_info": {
+        "type_reviews": {
+            "отличный музей ": 3,
+            "интересные макеты ": 1,
+            "интересно ": 4,
+            "интересная экспозиция ": 1,
+            "хорошие гиды ": 1
+        },
+        "reviews": [
+            {
+                "author_name": "Вероника Цеханович",
+                "author_profession": 11,
+                "date": "2021-07-31",
+                "comment": "Обязательно к посещению место. Особенно для семей с детьми. Цена билета для взрослых 2р.",
+                "author_url": "https://reviews.yandex.ru/user/n61e1y0terb1zw53ew6fdwg20c",
+                "rating": 5
+            },
+            {
+                "author_name": "Наталия Качан",
+                "author_profession": 9,
+                "date": "2021-07-02",
+                "comment": "История нашего города Новагродка. Экскурсовод интересно всё расскажет, покажет. Спасибо большое.",
+                "author_url": "https://reviews.yandex.ru/user/yqpqqgmyz8dpygdkxqxrw5c9gm",
+                "rating": 5
+            },
+            {
+                "author_name": "Екатерина Сапега",
+                "author_profession": 9,
+                "date": "2021-05-15",
+                "comment": "Очень интересное место,каждый житель города,просто обязан хоть раз посетить музей.",
+                "author_url": "https://reviews.yandex.ru/user/144d2rz6805z77vpwz7hx1k45r",
+                "rating": 5
+            },
+            {
+                "author_name": "андрей война",
+                "author_profession": 6,
+                "date": "2021-10-19",
+                "comment": "Интересно посетить.",
+                "author_url": "https://reviews.yandex.ru/user/e8vfuyv0r32heru9ef2vt0fkg0",
+                "rating": 5
+            },
+            {
+                "author_name": "Радион Медведь",
+                "author_profession": 5,
+                "date": "2020-08-28",
+                "comment": "Очень интересный музей стоит посетить",
+                "author_url": "https://reviews.yandex.ru/user/wyy9xaftk8b2bfwzerxarfzqdg",
+                "rating": 5
+            },
+            {
+                "author_name": "ilin j",
+                "author_profession": 10,
+                "date": "2019-10-03",
+                "comment": "Много экспонатов с раскопок, интересные макеты.",
+                "author_url": "https://reviews.yandex.ru/user/xz8j8yv6bt8mfn4nyg4m13wym8",
+                "rating": 5
+            },
+            {
+                "author_name": "Ioannes",
+                "author_profession": 17,
+                "date": "2019-10-12",
+                "comment": "Отличный музей, интересная экспозиция.",
+                "author_url": "https://reviews.yandex.ru/user/77qb6ze2mzyma92e9gqn46hr6r",
+                "rating": 5
+            },
+            {
+                "author_name": "Дарина М.",
+                "author_profession": 4,
+                "date": "2020-01-15",
+                "comment": "Интересные факты и истории,хорошие гиды",
+                "author_url": "https://reviews.yandex.ru/user/ax4gdnncvgrq9f5758cn06rdpw",
+                "rating": 5
+            }
+        ]
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "object_name": "Любанский музей народной Славы",
+    "object_id": 96191677626,
+    "contact": [],
+    "business_url": null,
+    "object_category": "Музей",
+    "object_links": [],
+    "address": "Любань, ул. Кирова, 29",
+    "work_time": {},
+    "features": null,
+    "rating": 3.0,
+    "attendance": {},
+    "number_of_votes": 4,
+    "number_of_review": 1,
+    "similar_objects": [
+        {
+            "object_id": 119880965008,
+            "object_name": "Музей Анатолия Белого",
+            "object_link": "https://yandex.by/maps/org/muzey_anatoliya_belogo/119880965008/"
+        }
+    ],
+    "reviews_info": {
+        "type_reviews": {},
+        "reviews": [
+            {
+                "author_name": "Брагинец В.",
+                "author_profession": 8,
+                "date": "2020-03-18",
+                "comment": "Приезжают неплохие экспозиции",
+                "author_url": "https://reviews.yandex.ru/user/5cu82j6mxu6r0tz6kbdechzcj4",
+                "rating": 4
+            }
+        ]
+    }
+}

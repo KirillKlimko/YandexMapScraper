@@ -1,0 +1,136 @@
+{
+    "object_name": "Жодинский краеведческий музей",
+    "object_id": 1006953865,
+    "contact": [
+        "+375177546368",
+        "+375177550103"
+    ],
+    "business_url": "zhkm.by",
+    "object_category": "Музей",
+    "object_links": [
+        "https://ok.ru/zhodinomuzeum",
+        "https://vk.com/club69965936",
+        "https://www.facebook.com/groups/zhodzinamuseum",
+        "https://www.instagram.com/zhodinski_kraevedcheski_muzei/"
+    ],
+    "address": "Жодино, ул. Куприянова, 15",
+    "work_time": {
+        "Понедельник": "Выходной",
+        "Вторник": "08:00 – 18:00",
+        "Среда": "08:00 – 18:00",
+        "Четверг": "08:00 – 18:00",
+        "Пятница": "08:00 – 18:00",
+        "Суббота": "08:00 – 18:00",
+        "Воскресенье": "08:00 – 18:00"
+    },
+    "features": null,
+    "rating": 4.1,
+    "attendance": {},
+    "number_of_votes": 27,
+    "number_of_review": 7,
+    "similar_objects": [
+        {
+            "object_id": 1022854786,
+            "object_name": "Дом-музей А.Ф. Куприяновой",
+            "object_link": "https://yandex.by/maps/org/dom_muzey_a_f_kupriyanovoy_gu_krayevedcheskiy_muzey/1022854786/"
+        },
+        {
+            "object_id": 204991499151,
+            "object_name": "Музей БелАЗ",
+            "object_link": "https://yandex.by/maps/org/muzey_belaz/204991499151/"
+        },
+        {
+            "object_id": 1038568861,
+            "object_name": "ДК БелАЗ",
+            "object_link": "https://yandex.by/maps/org/dvorets_kultury_belaz/1038568861/"
+        },
+        {
+            "object_id": 1053401521,
+            "object_name": "Ровесник",
+            "object_link": "https://yandex.by/maps/org/zhodinskiy_gorodskoy_tsentr_kultury_i_dosuga/1053401521/"
+        },
+        {
+            "object_id": 87883242974,
+            "object_name": "БелДжи",
+            "object_link": "https://yandex.by/maps/org/vystavochny_zal_beldzhi/87883242974/"
+        },
+        {
+            "object_id": 226828534352,
+            "object_name": "Музей",
+            "object_link": "https://yandex.by/maps/org/muzey/226828534352/"
+        },
+        {
+            "object_id": 1110727246,
+            "object_name": "Борисовский объединенный музей",
+            "object_link": "https://yandex.by/maps/org/gu_borisovskiy_obyedinyonny_muzey/1110727246/"
+        }
+    ],
+    "reviews_info": {
+        "type_reviews": {
+            "классный персонал ": 1,
+            "единственное учреждение ": 1,
+            "взрослый билет ": 1,
+            "экскурсия ": 2,
+            "разный возраст ": 1,
+            "интересные экспозиции ": 1
+        },
+        "reviews": [
+            {
+                "author_name": "Ян Матейчик",
+                "author_profession": 3,
+                "date": "2021-12-04",
+                "comment": "Неплохо. Для жителей города и для гостей очень даже такое место",
+                "author_url": "https://reviews.yandex.ru/user/ywwexq24berpu6kkvwahg06du0",
+                "rating": 5
+            },
+            {
+                "author_name": "Nadzeya",
+                "author_profession": 14,
+                "date": "2020-07-16",
+                "comment": "Были с детьми разного возраста, самому младшему 3 года. Нам очень понравилось. Рекомендую. Береги экскурсовода, так интереснее и понятен. \nВзрослый билет - 1 рубль; детский - 0,5 рубля; дети до 7 лет - бесплатно. Экскурсия 3 рубля.",
+                "author_url": "",
+                "rating": 5
+            },
+            {
+                "author_name": "Светлана Петракова",
+                "author_profession": 8,
+                "date": "2020-03-21",
+                "comment": "Хоть и небольшие, но интересные экспозиции. Особенно понравилась экспозиция о природе!",
+                "author_url": "https://reviews.yandex.ru/user/umr5462bxu4mwaecn1ypp2xyj0",
+                "rating": 5
+            },
+            {
+                "author_name": "vladimir s.",
+                "author_profession": 7,
+                "date": "2020-01-10",
+                "comment": "Здорово,красиво,качественно,профессионально ведут экскурсии.",
+                "author_url": "https://reviews.yandex.ru/user/g78d9uxaaq4w6092pqp7m1yqzg",
+                "rating": 5
+            },
+            {
+                "author_name": "Sergey Wiesner",
+                "author_profession": 6,
+                "date": "2020-06-04",
+                "comment": "Единственное учреждение в Жодино, которое изучает историю города.",
+                "author_url": "https://reviews.yandex.ru/user/4kfdh8qp8cpk0rfuevkqg9abem",
+                "rating": 5
+            },
+            {
+                "author_name": "Alex Murashko",
+                "author_profession": 6,
+                "date": "2019-12-23",
+                "comment": "Всегда закрыт. Существует \"для галочки\" и спмсания средств.",
+                "author_url": "https://reviews.yandex.ru/user/eyz620073n6p93mu549g4rv63r",
+                "rating": 1
+            },
+            {
+                "author_name": "ООО ПК Спецрезинатехника",
+                "author_profession": 7,
+                "date": "2020-07-09",
+                "comment": "Классный персонал",
+                "author_url": "https://reviews.yandex.ru/user/a80nucjrbfx3w6wqxnag5qb9g0",
+                "rating": 5
+            }
+        ]
+    }
+}

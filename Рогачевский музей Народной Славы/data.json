@@ -1,0 +1,26 @@
+{
+    "object_name": "Рогачевский музей Народной Славы",
+    "object_id": 24538536614,
+    "contact": [],
+    "business_url": null,
+    "object_category": "Спа-салон",
+    "object_links": [],
+    "address": "Рогачёв, ул. Владимира Ленина, 58",
+    "work_time": {},
+    "features": null,
+    "rating": null,
+    "attendance": {},
+    "number_of_votes": null,
+    "number_of_review": 0,
+    "similar_objects": [
+        {
+            "object_id": 130929889892,
+            "object_name": "Костел Антония Падуанского",
+            "object_link": "https://yandex.by/maps/org/kostel_antoniya_paduanskogo/130929889892/"
+        }
+    ],
+    "reviews_info": {
+        "type_reviews": {},
+        "reviews": []
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "object_name": "Стародорожский историко-этнографический музей ",
+    "object_id": 174230235607,
+    "contact": [
+        "+375179258716"
+    ],
+    "business_url": "starodor.museum.by",
+    "object_category": "Музей",
+    "object_links": [
+        "https://ok.ru/group/55080246116531",
+        "https://vk.com/public185223968",
+        "https://www.instagram.com/museum.stdor/"
+    ],
+    "address": "Старые Дороги, Пролетарская ул., 31",
+    "work_time": {
+        "Понедельник": "08:30 – 14:0015:00 – 19:00",
+        "Вторник": "08:30 – 14:0015:00 – 19:00",
+        "Среда": "08:30 – 14:0015:00 – 19:00",
+        "Четверг": "08:30 – 14:0015:00 – 19:00",
+        "Пятница": "08:30 – 14:0015:00 – 19:00",
+        "Суббота": "10:00 – 14:0015:00 – 19:00",
+        "Воскресенье": "10:00 – 14:0015:00 – 19:00"
+    },
+    "features": null,
+    "rating": 3.9,
+    "attendance": {},
+    "number_of_votes": 9,
+    "number_of_review": 2,
+    "similar_objects": [
+        {
+            "object_id": 119880965008,
+            "object_name": "Музей Анатолия Белого",
+            "object_link": "https://yandex.by/maps/org/muzey_anatoliya_belogo/119880965008/"
+        }
+    ],
+    "reviews_info": {
+        "type_reviews": {
+            "интересные выставки ": 1,
+            "приятный экскурсовод ": 1
+        },
+        "reviews": [
+            {
+                "author_name": "Анастасия Морозова",
+                "author_profession": 6,
+                "date": "2021-03-13",
+                "comment": "Приятный экскурсовод, интересные выставки, рекомендую к посещению",
+                "author_url": "https://reviews.yandex.ru/user/1krtha118krqyem5zkyub5aadw",
+                "rating": 5
+            },
+            {
+                "author_name": "Юлия Королько",
+                "author_profession": 6,
+                "date": "2020-06-23",
+                "comment": "Познавательно для детей и взрослых",
+                "author_url": "https://reviews.yandex.ru/user/g0jqn1v41abj391yf1vm04zn44",
+                "rating": 5
+            }
+        ]
+    }
+}

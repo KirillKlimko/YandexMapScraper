@@ -1,0 +1,84 @@
+{
+    "object_name": "Ивенецкий музей традиционной культуры",
+    "object_id": 1373879489,
+    "contact": [
+        "+375177253583",
+        "+375177263541"
+    ],
+    "business_url": "imtk.museum.by",
+    "object_category": "Музей",
+    "object_links": [
+        "http://facebook.com/imtkmuzej",
+        "https://www.instagram.com/ivenets_museum",
+        "https://www.youtube.com/channel/UCrd8fu1K90AfYxVWtGjTlrw"
+    ],
+    "address": "городской посёлок Ивенец, Музейная ул., 2",
+    "work_time": {
+        "Понедельник": "Выходной",
+        "Вторник": "10:00 – 18:30",
+        "Среда": "10:00 – 18:30",
+        "Четверг": "10:00 – 18:30",
+        "Пятница": "10:00 – 18:30",
+        "Суббота": "10:00 – 18:30",
+        "Воскресенье": "10:00 – 18:30"
+    },
+    "features": "Билеты:1–6 бел.руб.",
+    "rating": 4.1,
+    "attendance": {},
+    "number_of_votes": 28,
+    "number_of_review": 3,
+    "similar_objects": [
+        {
+            "object_id": 58531567866,
+            "object_name": "Музей-усадьба Дзержиново",
+            "object_link": "https://yandex.by/maps/org/muzey_usadba_dzerzhinovo/58531567866/"
+        },
+        {
+            "object_id": 117288345396,
+            "object_name": "Музей-усадьба Ленских",
+            "object_link": "https://yandex.by/maps/org/muzey_usadba_lenskikh/117288345396/"
+        },
+        {
+            "object_id": 80784340578,
+            "object_name": "Усадьба Сула",
+            "object_link": "https://yandex.by/maps/org/park_muzey_interaktivnoy_istorii_sula/80784340578/"
+        },
+        {
+            "object_id": 1077464457,
+            "object_name": "Краеведческий музей",
+            "object_link": "https://yandex.by/maps/org/volozhinskiy_krayevedcheskiy_muzey/1077464457/"
+        }
+    ],
+    "reviews_info": {
+        "type_reviews": {
+            "хороший музей ": 2,
+            "ткацкое помещение ": 1
+        },
+        "reviews": [
+            {
+                "author_name": "Марина С.",
+                "author_profession": 9,
+                "date": "2021-12-04",
+                "comment": "Хороший музей. Есть гончарня и ткацкое помещение, кто приезжает в Ивенец - советую к посещению",
+                "author_url": "https://reviews.yandex.ru/user/958jh8qtxqnb44be7xu5muqzqw",
+                "rating": 5
+            },
+            {
+                "author_name": "жанна кажуро",
+                "author_profession": 5,
+                "date": "2020-12-02",
+                "comment": "Интересно,познавательно.Буду в Ивенце пришлю фото",
+                "author_url": "https://reviews.yandex.ru/user/zfut0u2tknu2mjqnrvz34re0ug",
+                "rating": 5
+            },
+            {
+                "author_name": "Максим Лунёв",
+                "author_profession": 12,
+                "date": "2020-07-01",
+                "comment": "Стандартный краеведческий музей",
+                "author_url": "https://reviews.yandex.ru/user/kkvpxg0qayxaea063ypwcq07j0",
+                "rating": 3
+            }
+        ]
+    }
+}

@@ -1,0 +1,96 @@
+{
+    "object_name": "Шкловский районный историко-краеведческий музей",
+    "object_id": 41786845282,
+    "contact": [
+        "+375223999905"
+    ],
+    "business_url": "shklov.museum.by",
+    "object_category": "Музей",
+    "object_links": [
+        "https://vk.com/muzeyshklov"
+    ],
+    "address": "Шклов, Советская ул., 46",
+    "work_time": {
+        "Понедельник": "08:00 – 18:00",
+        "Вторник": "08:00 – 18:00",
+        "Среда": "08:00 – 18:00",
+        "Четверг": "08:00 – 18:00",
+        "Пятница": "08:00 – 18:00",
+        "Суббота": "09:00 – 17:00",
+        "Воскресенье": "09:00 – 17:00"
+    },
+    "features": null,
+    "rating": 3.3,
+    "attendance": {},
+    "number_of_votes": 23,
+    "number_of_review": 4,
+    "similar_objects": [
+        {
+            "object_id": 42576164312,
+            "object_name": "Музей-дача Янки Купалы",
+            "object_link": "https://yandex.by/maps/org/muzey_dacha_yanki_kupaly/42576164312/"
+        },
+        {
+            "object_id": 191694783499,
+            "object_name": "Левки",
+            "object_link": "https://yandex.by/maps/org/levki/191694783499/"
+        },
+        {
+            "object_id": 1058087477,
+            "object_name": "Мельница",
+            "object_link": "https://yandex.by/maps/org/melnitsa/1058087477/"
+        },
+        {
+            "object_id": 225172438768,
+            "object_name": "Могилёвское отделение Белорусской железной дороги, музей истории",
+            "object_link": "https://yandex.by/maps/org/mogilyovskoye_otdeleniye_belorusskoy_zheleznoy_dorogi_muzey_istorii/225172438768/"
+        },
+        {
+            "object_id": 1079155760,
+            "object_name": "Музей деревянной скульптуры С.С. Шаврова",
+            "object_link": "https://yandex.by/maps/org/muzey_derevyannoy_skulptury_rezchika_s_s_shavrova/1079155760/"
+        }
+    ],
+    "reviews_info": {
+        "type_reviews": {
+            "небольшой музей ": 1,
+            "вежливый персонал ": 1,
+            "интересные выставки ": 2,
+            "детская школа ": 1
+        },
+        "reviews": [
+            {
+                "author_name": "_LM_",
+                "author_profession": 4,
+                "date": "2020-04-13",
+                "comment": "Аккуратно. Красиво. Вежливый персонал. Интересные выставки",
+                "author_url": "https://reviews.yandex.ru/user/qp0cgbpzt3hqfu9n5h173vt4rm",
+                "rating": 5
+            },
+            {
+                "author_name": "Игорь Просолович",
+                "author_profession": 10,
+                "date": "2019-12-26",
+                "comment": "Что там делать непойму. Просто занимает здание. Лучше бы детскую школу искусств сделали.",
+                "author_url": "https://reviews.yandex.ru/user/v040z0nqx13k2uy7nf7194pkx0",
+                "rating": 2
+            },
+            {
+                "author_name": "Арсений Всякий",
+                "author_profession": 6,
+                "date": "2020-04-19",
+                "comment": "Небольшой музей, ходил пару раз на выставки.",
+                "author_url": "https://reviews.yandex.ru/user/emerj25f566heynygz0d5nzx6g",
+                "rating": 4
+            },
+            {
+                "author_name": "Вячеслав С.",
+                "author_profession": 3,
+                "date": "2018-11-26",
+                "comment": "Не чего интересного",
+                "author_url": "https://reviews.yandex.ru/user/w9jzc3juku3qr308fpckk7arg8",
+                "rating": 5
+            }
+        ]
+    }
+}

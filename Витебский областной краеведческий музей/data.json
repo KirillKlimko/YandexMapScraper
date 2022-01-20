@@ -1,0 +1,932 @@
+{
+    "object_name": "Витебский областной краеведческий музей",
+    "object_id": 1057023931,
+    "contact": [
+        "+375212664712",
+        "+375292102261",
+        "+375212669406",
+        "+375212660587"
+    ],
+    "business_url": "ratusha-vit.by",
+    "object_category": "Музей",
+    "object_links": [
+        "http://youtube.com/channel/UCqDFEajTAvXEf-wehkdegrA",
+        "https://ok.ru/group/52454050955410",
+        "https://vk.com/ratusha_vit",
+        "https://www.facebook.com/museumratusha/"
+    ],
+    "address": "Витебск, ул. Ленина, 36",
+    "work_time": {
+        "Понедельник": "Выходной",
+        "Вторник": "11:00 – 19:00",
+        "Среда": "11:00 – 19:00",
+        "Четверг": "11:00 – 19:00",
+        "Пятница": "11:00 – 19:00",
+        "Суббота": "11:00 – 19:00",
+        "Воскресенье": "11:00 – 19:00"
+    },
+    "features": "Билеты:1.3–15 бел.руб.",
+    "rating": 4.4,
+    "attendance": {
+        "Пн": {
+            "00:00": 0,
+            "01:00": 0,
+            "02:00": 0,
+            "03:00": 0,
+            "04:00": 0,
+            "05:00": 0,
+            "06:00": 0,
+            "07:00": 0,
+            "08:00": 0,
+            "09:00": 0,
+            "10:00": 0,
+            "11:00": 0,
+            "12:00": 0,
+            "13:00": 0,
+            "14:00": 0,
+            "15:00": 0,
+            "16:00": 0,
+            "17:00": 0,
+            "18:00": 0,
+            "19:00": 0,
+            "20:00": 0,
+            "21:00": 0,
+            "22:00": 0,
+            "23:00": 0
+        },
+        "Вт": {
+            "00:00": 0,
+            "01:00": 0,
+            "02:00": 0,
+            "03:00": 0,
+            "04:00": 0,
+            "05:00": 0,
+            "06:00": 0,
+            "07:00": 0,
+            "08:00": 0,
+            "09:00": 0,
+            "10:00": 0,
+            "11:00": 46,
+            "12:00": 59,
+            "13:00": 61,
+            "14:00": 67,
+            "15:00": 64,
+            "16:00": 62,
+            "17:00": 54,
+            "18:00": 27,
+            "19:00": 0,
+            "20:00": 0,
+            "21:00": 0,
+            "22:00": 0,
+            "23:00": 0
+        },
+        "Ср": {
+            "00:00": 0,
+            "01:00": 0,
+            "02:00": 0,
+            "03:00": 0,
+            "04:00": 0,
+            "05:00": 0,
+            "06:00": 0,
+            "07:00": 0,
+            "08:00": 0,
+            "09:00": 0,
+            "10:00": 0,
+            "11:00": 47,
+            "12:00": 61,
+            "13:00": 63,
+            "14:00": 73,
+            "15:00": 79,
+            "16:00": 80,
+            "17:00": 64,
+            "18:00": 35,
+            "19:00": 0,
+            "20:00": 0,
+            "21:00": 0,
+            "22:00": 0,
+            "23:00": 0
+        },
+        "Чт": {
+            "00:00": 0,
+            "01:00": 0,
+            "02:00": 0,
+            "03:00": 0,
+            "04:00": 0,
+            "05:00": 0,
+            "06:00": 0,
+            "07:00": 0,
+            "08:00": 0,
+            "09:00": 0,
+            "10:00": 0,
+            "11:00": 48,
+            "12:00": 65,
+            "13:00": 73,
+            "14:00": 78,
+            "15:00": 79,
+            "16:00": 77,
+            "17:00": 67,
+            "18:00": 36,
+            "19:00": 0,
+            "20:00": 0,
+            "21:00": 0,
+            "22:00": 0,
+            "23:00": 0
+        },
+        "Пт": {
+            "00:00": 0,
+            "01:00": 0,
+            "02:00": 0,
+            "03:00": 0,
+            "04:00": 0,
+            "05:00": 0,
+            "06:00": 0,
+            "07:00": 0,
+            "08:00": 0,
+            "09:00": 0,
+            "10:00": 0,
+            "11:00": 53,
+            "12:00": 67,
+            "13:00": 70,
+            "14:00": 80,
+            "15:00": 82,
+            "16:00": 80,
+            "17:00": 68,
+            "18:00": 33,
+            "19:00": 0,
+            "20:00": 0,
+            "21:00": 0,
+            "22:00": 0,
+            "23:00": 0
+        },
+        "Сб": {
+            "00:00": 0,
+            "01:00": 0,
+            "02:00": 0,
+            "03:00": 0,
+            "04:00": 0,
+            "05:00": 0,
+            "06:00": 0,
+            "07:00": 0,
+            "08:00": 0,
+            "09:00": 0,
+            "10:00": 0,
+            "11:00": 66,
+            "12:00": 92,
+            "13:00": 96,
+            "14:00": 99,
+            "15:00": 100,
+            "16:00": 94,
+            "17:00": 74,
+            "18:00": 34,
+            "19:00": 0,
+            "20:00": 0,
+            "21:00": 0,
+            "22:00": 0,
+            "23:00": 0
+        },
+        "Вс": {
+            "00:00": 0,
+            "01:00": 0,
+            "02:00": 0,
+            "03:00": 0,
+            "04:00": 0,
+            "05:00": 0,
+            "06:00": 0,
+            "07:00": 0,
+            "08:00": 0,
+            "09:00": 0,
+            "10:00": 0,
+            "11:00": 57,
+            "12:00": 78,
+            "13:00": 86,
+            "14:00": 92,
+            "15:00": 96,
+            "16:00": 85,
+            "17:00": 69,
+            "18:00": 33,
+            "19:00": 0,
+            "20:00": 0,
+            "21:00": 0,
+            "22:00": 0,
+            "23:00": 0
+        }
+    },
+    "number_of_votes": 282,
+    "number_of_review": 81,
+    "similar_objects": [
+        {
+            "object_id": 9848714794,
+            "object_name": "Церковно-археологический музей Витебской епархии",
+            "object_link": "https://yandex.by/maps/org/tserkovno_arkheologicheskiy_muzey_vitebskoy_yeparkhii/9848714794/"
+        },
+        {
+            "object_id": 1276934167,
+            "object_name": "Дом-музей Марка Шагала",
+            "object_link": "https://yandex.by/maps/org/dom_muzey_marka_shagala/1276934167/"
+        },
+        {
+            "object_id": 163531787849,
+            "object_name": "Художественный музей",
+            "object_link": "https://yandex.by/maps/org/khudozhestvenny_muzey/163531787849/"
+        },
+        {
+            "object_id": 1276055749,
+            "object_name": "Музей памяти патриотов Витебщины",
+            "object_link": "https://yandex.by/maps/org/ekspozitsiya_pamyati_patriotov_vitebshchiny_1941_1944_g_g_/1276055749/"
+        },
+        {
+            "object_id": 72958159019,
+            "object_name": "Музей истории Витебского народного художественного училища",
+            "object_link": "https://yandex.by/maps/org/muzey_istorii_vitebskogo_narodnogo_khudozhestvennogo_uchilishcha/72958159019/"
+        },
+        {
+            "object_id": 79520000903,
+            "object_name": "Анатомический музей Вгавм",
+            "object_link": "https://yandex.by/maps/org/anatomicheskiy_muzey_vgavm/79520000903/"
+        },
+        {
+            "object_id": 1259346234,
+            "object_name": "Арт-центр Марка Шагала",
+            "object_link": "https://yandex.by/maps/org/art_tsentr_marka_shagala/1259346234/"
+        },
+        {
+            "object_id": 198528468353,
+            "object_name": "Выставка военной техники",
+            "object_link": "https://yandex.by/maps/org/ekspozitsiya_obraztsov_voyennoy_tekhniki/198528468353/"
+        },
+        {
+            "object_id": 1039730397,
+            "object_name": "Музей истории витебского трамвая",
+            "object_link": "https://yandex.by/maps/org/muzey_istorii_vitebskogo_tramvaya/1039730397/"
+        },
+        {
+            "object_id": 228992451868,
+            "object_name": "Зал истории кино",
+            "object_link": "https://yandex.by/maps/org/zal_istorii_kino/228992451868/"
+        }
+    ],
+    "reviews_info": {
+        "type_reviews": {
+            "смотровая площадка ": 11,
+            "интересно ": 7,
+            "музей ": 27,
+            "экспозиция ": 20,
+            "ратуша ": 11,
+            "природа ": 7,
+            "билет ": 4,
+            "башня ": 8,
+            "выставка ": 9,
+            "экскурсовод ": 7
+        },
+        "reviews": [
+            {
+                "author_name": "Евгений Яновский",
+                "author_profession": 4,
+                "date": "2021-08-23",
+                "comment": "Музей превзошел ожидания. Посетили семьёй 2 выставки. Природа Витебской области и защитники отечества. Хоть коллекции и не большие но интересно было даже ребенку. Каждый месяц один день вход бесплатный. На кассе все доступно рассказывают, советуют. Есть интерактивная игра для детей по следам мамонта. Ещё не были но обязательно пойдем. А цены просто смешные. На две выставки в общей сумме 12-13р (2 взрослых и один детский бесплатно (дети до 7 лет))",
+                "author_url": "https://reviews.yandex.ru/user/z0dyu2agtbhgm14mkc4ymqhy0g",
+                "rating": 5
+            },
+            {
+                "author_name": "Дмитрий Молотков",
+                "author_profession": 30,
+                "date": "2021-12-14",
+                "comment": "Витебский областной краеведческий музей расположен в здании старинной ратуши в центре. Интересная экспозиция музея, да и здание ратуши является шедевром архитектуры. Рекомендую посетить.",
+                "author_url": "https://reviews.yandex.ru/user/rnv6nqp9nh7mmtk4248m63rwug",
+                "rating": 5
+            },
+            {
+                "author_name": "максим грошев",
+                "author_profession": 9,
+                "date": "2022-01-06",
+                "comment": "В Ратуше находится краеведческий музей. Я посмотрел часть экспозиции - музей природы. Экспозиция мне понравилась. Вообще музей очень уютный, служащие музея очень приветливы.",
+                "author_url": "https://reviews.yandex.ru/user/pg0p4w4yj2ztvrrqkdxpab24nc",
+                "rating": 5
+            },
+            {
+                "author_name": "Наталья К.",
+                "author_profession": 19,
+                "date": "2021-03-21",
+                "comment": "Любимый музей с самого детства! Теперь ходим сюда с дочкой, ей очень нравится. Интересные выставки, есть экскурсия с выходом на смотровую площадку, откуда открывается замечательный вид на город!",
+                "author_url": "https://reviews.yandex.ru/user/8h2cddm6u03b80uhhumx7r9zdm",
+                "rating": 5
+            },
+            {
+                "author_name": "Николай Ковалевский",
+                "author_profession": 7,
+                "date": "2021-11-26",
+                "comment": "Витебск имеет такое историческое значение в отечественной войне 1812 года , а в местном музее ни уголка ни стенда, не говоря уже о экспозиции. Неужели нет места или нет материала или и тут политика, что бы отвернуть нас от старшего брата ,России.",
+                "author_url": "https://reviews.yandex.ru/user/vkpaxeu133wbqc1zufeyb6gp14",
+                "rating": 5
+            },
+            {
+                "author_name": "Idontknower",
+                "author_profession": 6,
+                "date": "2021-08-20",
+                "comment": "Можно подняться на смотровую площадку - не пожалеете, в ратуше отличный музей природы, очень атмосферно",
+                "author_url": "https://reviews.yandex.ru/user/7bv8w0yndvvkc7w5bm5wpdxy20",
+                "rating": 5
+            },
+            {
+                "author_name": "Антон",
+                "author_profession": 9,
+                "date": "2022-01-06",
+                "comment": "Очень большая экспозиция! Прекрасный зал экспозиции природы. Все выставки очень интересные.",
+                "author_url": "https://reviews.yandex.ru/user/gjdv7ay2fk50rr8f5p9wj1448m",
+                "rating": 5
+            },
+            {
+                "author_name": "Людмила Баньковская",
+                "author_profession": 8,
+                "date": "2021-09-17",
+                "comment": "Обязательно нужно подняться на смотровую башню Ратуши. Город всегда другой с высоты птичьего полёта. Это запоминается.",
+                "author_url": "https://reviews.yandex.ru/user/twba9g2p1u9wjecn853n5w34kr",
+                "rating": 5
+            },
+            {
+                "author_name": "Anatoly Whiteman",
+                "author_profession": 8,
+                "date": "2021-07-12",
+                "comment": "Ужасное обслуживание. Вахтерша-сопроводитель группы по подъему на ратушу вела себя максимально бестактно и некультурно. Просто представьте себе, после замечания на то, что в музее не выдаётся билет, который хотелось бы оставить на память, ваш чек (платёжный документ) рвется на пополам с ехидной улыбочкой и фразой: а не получиться ничего оставить на память. Также данный сотрудник имеет наглость спорить с кандидатом исторический наук, абсолютно никак не аргументируя свою точку зрения, отбрасывая бестактные шуточки. Полное несоблюдение масочного режима ей же. Само время предоставляемое туристам на башне ратуши всего 15 минут при цене шесть с половиной рублей. Просто позорище, больше нечего добавить.",
+                "author_url": "https://reviews.yandex.ru/user/xda3npx63mw2r0c26qgh0wj91g",
+                "rating": 1
+            },
+            {
+                "author_name": "Наталья Никитина",
+                "author_profession": 5,
+                "date": "2021-07-19",
+                "comment": "Центральное историческое место Витебска. Музейные экспозиции и смотровая площадка. Для туристов обязательна к посещению :)",
+                "author_url": "https://reviews.yandex.ru/user/ukp6vg2qzv8b0jwfczw98z1pag",
+                "rating": 5
+            },
+            {
+                "author_name": "Павел Бондаренко",
+                "author_profession": 7,
+                "date": "2022-01-13",
+                "comment": "историческое место. красивые залы - очень плохое обслуживание сотрудников музея.",
+                "author_url": "https://reviews.yandex.ru/user/evf4vrkkthg9u7qmq8ket07pkc",
+                "rating": 2
+            },
+            {
+                "author_name": "Сергей П",
+                "author_profession": 10,
+                "date": "2022-01-19",
+                "comment": "Обязательна к посещению. Непременно заберитесь на смотровую площадку и не торопитесь, там минимум минут 20 надо пробыть, осмотреться.",
+                "author_url": "https://reviews.yandex.ru/user/vgc62npcytdc8am5dpt4n7nh7w",
+                "rating": 5
+            },
+            {
+                "author_name": "Анна Владимировна",
+                "author_profession": 13,
+                "date": "2021-08-25",
+                "comment": "Очень красивое здание, в старом районе. Можно подняться на башню. Вид красивейший.",
+                "author_url": "https://reviews.yandex.ru/user/zuhv7rwqhypzqnf0ecp6bf9d30",
+                "rating": 5
+            },
+            {
+                "author_name": "Светлана Гончарова",
+                "author_profession": 10,
+                "date": "2020-04-21",
+                "comment": "Очень люблю этот музей. Атмосферное место. Чего стоит подняться на смотровую площадку и взглянуть на город с высоты птичьего полёта. Нереальная красота и романтика!!! А при подъеме по лестнице, проходишь мимо волшебного сундука, дуешь в замочную скважину и загадываешь желание и шепчешь важные слова. Класс!!!",
+                "author_url": "https://reviews.yandex.ru/user/h9x772gj8u81wtavcx8j68g844",
+                "rating": 5
+            },
+            {
+                "author_name": "Виктор",
+                "author_profession": 11,
+                "date": "2021-05-27",
+                "comment": "Сотрудницы музея позируют полуголыми на балконе перед всем городом, чтобы привлечь посетителей в музей. Интересно помогла ли такая акция увеличить посещаемость?",
+                "author_url": "https://reviews.yandex.ru/user/1xz1eazpx67u6b4t8yrx5dj6z0",
+                "rating": 1
+            },
+            {
+                "author_name": "АЛЛА КОНДРАТ",
+                "author_profession": 11,
+                "date": "2021-05-06",
+                "comment": "Очень понравилось. Особенно полезно детям, моя внучка (11 лет) впечатлилась, задумалась, посерьёзнела.",
+                "author_url": "https://reviews.yandex.ru/user/d3mhj0etbagg7zc51fh5u0kybw",
+                "rating": 5
+            },
+            {
+                "author_name": "Андрей Зеленцов",
+                "author_profession": 8,
+                "date": "2021-08-11",
+                "comment": "Всем советую посетить смотровую площадку. Таким вы город ещё не видели.",
+                "author_url": "https://reviews.yandex.ru/user/jj8zrafqfcwtg6702jx0u0azam",
+                "rating": 5
+            },
+            {
+                "author_name": "Павел Сафронов",
+                "author_profession": 15,
+                "date": "2020-10-27",
+                "comment": "Хороший музей. Есть много залов с экспозициями разного содержания. В ратуше сохранился один бесплатный день в месяц для посещения.",
+                "author_url": "https://reviews.yandex.ru/user/cgtt67q6qy6c42aed2tq4ke35w",
+                "rating": 5
+            },
+            {
+                "author_name": "Светлана Лайзина",
+                "author_profession": 6,
+                "date": "2020-10-22",
+                "comment": "Очень интересные экспозиции. Впечатляет экскурсия наверх Ратуши. Виды города сверху завораживают. Ну и, конечно, восспоминания о детстве.",
+                "author_url": "https://reviews.yandex.ru/user/qy5kwxpqqprw6xhe6k0zg7c4zm",
+                "rating": 5
+            },
+            {
+                "author_name": "Татьяна Конон",
+                "author_profession": 9,
+                "date": "2021-05-04",
+                "comment": "Здесь часто бывают выставки и не только. Много чего интересного можно посмотреть. Советую!",
+                "author_url": "https://reviews.yandex.ru/user/tfqw90fgyr62m8gmwzazuq7yu4",
+                "rating": 5
+            },
+            {
+                "author_name": "Виктор Сороковиков",
+                "author_profession": 8,
+                "date": "2020-11-13",
+                "comment": "Рекомендую именно как смотровую площадку, недорого и фотографии красивые. Можно доплатить и получить рассказ от гида.",
+                "author_url": "https://reviews.yandex.ru/user/mubcr20qdhetb1vdj9mxzmrjwr",
+                "rating": 5
+            },
+            {
+                "author_name": "Олег Пирокинезис",
+                "author_profession": 2,
+                "date": "2021-05-20",
+                "comment": "ужас, а не музей!! детей повели в музей когда покрашены двери и перила!! дети чувствовали дискомфорт во время экскурсии!! да и ещё проводили экскурсию под ливнем!! ужас.",
+                "author_url": "https://reviews.yandex.ru/user/9rq3ftmrwe8qc8hbta58we8tn8",
+                "rating": 1
+            },
+            {
+                "author_name": "Алексей Ильин",
+                "author_profession": 5,
+                "date": "2021-06-24",
+                "comment": "Всегда что-то новое экзотическое и интересное . И всегда супер .",
+                "author_url": "https://reviews.yandex.ru/user/txh5yr5ekmmmdt5kehp0a4mjg4",
+                "rating": 5
+            },
+            {
+                "author_name": "Ирина Аркадьевна",
+                "author_profession": 2,
+                "date": "2020-03-31",
+                "comment": "В этом музее сосредоточены экспонаты и свидетельства истории нашего любимого города Витебска от древних времён, когда он был основан и до настоящего времени. Каждый посетитель музея откроет для себя что-то новое.",
+                "author_url": "https://reviews.yandex.ru/user/a6ztr0541zx93mx9rzajb177m8",
+                "rating": 5
+            },
+            {
+                "author_name": "Олег Валерьевич",
+                "author_profession": 15,
+                "date": "2021-07-13",
+                "comment": "Красивая. Как и сам Витебск. Для меня это самый любимый город Беларусии.",
+                "author_url": "https://reviews.yandex.ru/user/pbnpu82k0dc5jqdbmyqef8ng84",
+                "rating": 5
+            },
+            {
+                "author_name": "Татьяна К",
+                "author_profession": 11,
+                "date": "2019-10-18",
+                "comment": "Очень интересный музей, который состоит из 5 различных секций. Можно скорее всего покупать билет на какой-то один из них на выбор, но я взяла полный билет. Плюс ещё отдельно можно покупать билет для подъёма на саму ратушу вместе с сопровождающим. Весьма интересное занятие и возможность увидеть Воскресенский храм и город сверху.",
+                "author_url": "https://reviews.yandex.ru/user/7genk9ja3awvr1mfu6hfdfah5g",
+                "rating": 5
+            },
+            {
+                "author_name": "дмитрий г.",
+                "author_profession": 7,
+                "date": "2021-10-19",
+                "comment": "Хороший музей очень познавательный",
+                "author_url": "https://reviews.yandex.ru/user/b4dgdeb5p39hjwzz2p2tp8w5qc",
+                "rating": 5
+            },
+            {
+                "author_name": "Лилианна Киселёва",
+                "author_profession": 11,
+                "date": "2021-12-28",
+                "comment": "Всё очень понравилось Замечательно",
+                "author_url": "https://reviews.yandex.ru/user/ztzhr85d3e1xgq782hkyjpzqj8",
+                "rating": 4
+            },
+            {
+                "author_name": "Евгений Суворов",
+                "author_profession": 10,
+                "date": "2020-01-19",
+                "comment": "Давно не посещал краеведческих музеев, ожидания были больше. \n\nНа каждый зал отдельный билет. Некоторые экспозиции не имеют отношения к истории Витебска :((( \n\nВ целом: интересно, красиво, чисто. Гостям города стоит посетить.",
+                "author_url": "https://reviews.yandex.ru/user/wrv1e4jwpjm7a20n1774j8hwx0",
+                "rating": 5
+            },
+            {
+                "author_name": "Валерий Иванов",
+                "author_profession": 20,
+                "date": "2020-02-15",
+                "comment": "Осень хороший музей, расположен в красивом здании Ратуши с обзорной площадки отличный вид открывается, жалко, что пускают туда только летом",
+                "author_url": "https://reviews.yandex.ru/user/0vnz78e5aj27hwkfrx3uu41k8m",
+                "rating": 5
+            },
+            {
+                "author_name": "Дмитрий В. Панкратов",
+                "author_profession": 24,
+                "date": "2019-10-31",
+                "comment": "Хорошее место, правда, слегка скудноваты экспозиции на этажах. Рекомендую на смотровую площадку подняться - это того стоит: виды прекрасные и лучше в Витебске не найти",
+                "author_url": "https://reviews.yandex.ru/user/w8d5kukp7ek7j299j0n106jdum",
+                "rating": 5
+            },
+            {
+                "author_name": "Сергей М.",
+                "author_profession": 6,
+                "date": "2019-09-06",
+                "comment": "Успех любой экскурсии зависит от профессионализма и умения экскурсовода. В этих пяти метрах помещения понравилось настолько, что с радостью посещу ещё раз. Было очень интересно: и история, и природа.",
+                "author_url": "https://reviews.yandex.ru/user/bpd3pydp4nq8n1m0patn7nd8dc",
+                "rating": 4
+            },
+            {
+                "author_name": "Valery Guletsky",
+                "author_profession": 6,
+                "date": "2021-07-16",
+                "comment": "Фантастические виды открываются со смотровой площадки",
+                "author_url": "https://reviews.yandex.ru/user/53fyjzvezgvbnwz2x11ke9xmnr",
+                "rating": 5
+            },
+            {
+                "author_name": "Ivan",
+                "author_profession": 4,
+                "date": "2021-01-28",
+                "comment": "Ходил на экскурсию ещё школьником, для ребенка - зрелище захватывающее",
+                "author_url": "https://reviews.yandex.ru/user/w3vdbtak3k0rhdynnwx75hrhnc",
+                "rating": 4
+            },
+            {
+                "author_name": "Анна Ф.",
+                "author_profession": 12,
+                "date": "2019-04-24",
+                "comment": "Приветливый персонал, очень рекомендую подъем на башню, интересно и детям и взрослым, цены демократичные, выставки разные, все понравилось. Рекомендую.",
+                "author_url": "https://reviews.yandex.ru/user/pf9jc077vrft8pcyu2xva5nttw",
+                "rating": 5
+            },
+            {
+                "author_name": "Алексей Пирогов",
+                "author_profession": 7,
+                "date": "2020-07-16",
+                "comment": "Очень красиво на ночь музеев когда открывают самый верхний балкон ночью понаблюдать за городом",
+                "author_url": "https://reviews.yandex.ru/user/9x4nq87qmq4duwqbpc72j0vckr",
+                "rating": 5
+            },
+            {
+                "author_name": "Андрей К.",
+                "author_profession": 9,
+                "date": "2019-11-25",
+                "comment": "Прекрасный советский музей с советским персоналом, полное погружение в историю. Цена посещения экспозиций более чем бюджетна и это не может не радовать.",
+                "author_url": "https://reviews.yandex.ru/user/7m0ch8fqdpn0981xwcp4nr0gjr",
+                "rating": 5
+            },
+            {
+                "author_name": "uncleserzh.ogrenich2015",
+                "author_profession": 15,
+                "date": "2021-08-25",
+                "comment": "Очень классное место.",
+                "author_url": "https://reviews.yandex.ru/user/cqy7kjfk6hzenvda4mc7aeeeyw",
+                "rating": 5
+            },
+            {
+                "author_name": "Глеб Исаченко",
+                "author_profession": 5,
+                "date": "2021-09-04",
+                "comment": "Бомба, очень круто",
+                "author_url": "https://reviews.yandex.ru/user/ftfkx05dgg52n493d8ez6ktaq8",
+                "rating": 5
+            },
+            {
+                "author_name": "Roman Boyko",
+                "author_profession": 10,
+                "date": "2019-11-05",
+                "comment": "Интересно будет людям всех возрастов, постоянные экспозиции в которых всегда находишь что-то новое. Ну и конечно бывает интересные приезжие экспозиции. Например: Гигантские пауки.",
+                "author_url": "https://reviews.yandex.ru/user/kane4na",
+                "rating": 5
+            },
+            {
+                "author_name": "Кирилл М.",
+                "author_profession": 5,
+                "date": "2019-07-25",
+                "comment": "отличное место, с большим кол-вом экспонатов и с небольшой смотровой площадкой на панораму города. Экскурсовод Анастасия- просто чудо! =)",
+                "author_url": "https://reviews.yandex.ru/user/kd3udfw15rdmjk0d6aqnwxu7zc",
+                "rating": 5
+            },
+            {
+                "author_name": "Лия Дегтярева",
+                "author_profession": 7,
+                "date": "2020-09-05",
+                "comment": "Очень красиво. Любим с ребёнком бывать в этом чудесном месте.",
+                "author_url": "https://reviews.yandex.ru/user/tf68x2bzz93hkux3upk7fr3haw",
+                "rating": 5
+            },
+            {
+                "author_name": "Александр Кузьмин",
+                "author_profession": 8,
+                "date": "2021-08-15",
+                "comment": "Клёвый вид с башни",
+                "author_url": "https://reviews.yandex.ru/user/wf3qmvkw2xmeyt2k6mc240y1x4",
+                "rating": 5
+            },
+            {
+                "author_name": "Михаил Дук",
+                "author_profession": 13,
+                "date": "2020-05-27",
+                "comment": "Символ Витебска! Есть просто уникальные экспонаты. И неповторимый вид из башни!!!",
+                "author_url": "https://reviews.yandex.ru/user/ex88uvn6c3dgnzex5abz0y8744",
+                "rating": 5
+            },
+            {
+                "author_name": "Константин Маркосов",
+                "author_profession": 6,
+                "date": "2019-10-23",
+                "comment": "Богатая экспозиция, но в большинстве залов освещение настолько слабое ( можно сказать отсутствует), что приходится подсвечивать телефоном. В одном зале экспонаты подписаны только на белорусском языке, либо не подписаны вообще.",
+                "author_url": "https://reviews.yandex.ru/user/qxf4qauccfxur7zyrg5fudt618",
+                "rating": 3
+            },
+            {
+                "author_name": "Дмитрий Алимпиев",
+                "author_profession": 5,
+                "date": "2021-02-16",
+                "comment": "Есть что посмотреть. Персонал не весь адекватный)))",
+                "author_url": "https://reviews.yandex.ru/user/udkcdj9jmf9hnjx8u7whd1brdw",
+                "rating": 5
+            },
+            {
+                "author_name": "Evgenij Klimovich",
+                "author_profession": 7,
+                "date": "2022-01-06",
+                "comment": "Красивое место",
+                "author_url": "https://reviews.yandex.ru/user/m6k32agcz0z992a5zwfc1wtrv4",
+                "rating": 5
+            },
+            {
+                "author_name": ".Андрей Карпоа",
+                "author_profession": 9,
+                "date": "2022-01-06",
+                "comment": "Красивый вид",
+                "author_url": "https://reviews.yandex.ru/user/xjgnua3854e33uqx3ktrbvk9xm",
+                "rating": 5
+            },
+            {
+                "author_name": "Аркадий Чертков",
+                "author_profession": 7,
+                "date": "2020-03-05",
+                "comment": "Ходили с внуками на выставку экзотических бабочек. Внуки в восторге - но дорого!",
+                "author_url": "https://reviews.yandex.ru/user/kj09kt58cwd90d48hymtxkvk30",
+                "rating": 4
+            },
+            {
+                "author_name": "Валерий Бутьянов",
+                "author_profession": 5,
+                "date": "2021-06-06",
+                "comment": "Рекомендую подъем на часовую башню!!!",
+                "author_url": "https://reviews.yandex.ru/user/6jfqk5etjq9dtfy2ahz3jnr6f8",
+                "rating": 5
+            },
+            {
+                "author_name": "Школа Совместного Маркетинга",
+                "author_profession": 12,
+                "date": "2021-02-21",
+                "comment": "Постоянно новые и интересные мероприятия!",
+                "author_url": "https://reviews.yandex.ru/user/dtd6hfm22jt70j29m9hjn14dzg",
+                "rating": 5
+            },
+            {
+                "author_name": "Маргарита Чернецкая",
+                "author_profession": 12,
+                "date": "2021-07-06",
+                "comment": "Обязательно к посещению",
+                "author_url": "https://reviews.yandex.ru/user/eq6df38q616q408v6az93xqzdg",
+                "rating": 5
+            },
+            {
+                "author_name": "Gray Slogan",
+                "author_profession": 16,
+                "date": "2019-08-21",
+                "comment": "Внутри Ратуши находится краеведческий музей. Можно подняться на самый верх ратуши, красивый вид.",
+                "author_url": "https://reviews.yandex.ru/user/r11cyu5qt05e6zvw4pgg3744g0",
+                "rating": 5
+            },
+            {
+                "author_name": "Гоша",
+                "author_profession": 14,
+                "date": "2019-04-23",
+                "comment": "Был на персональной выставке художника Андрея Духовникова. Море теплых эмоций, очень доволен, посещением, были с дочерью, ребенок в восторге. Побольше таких персональных выставок.",
+                "author_url": "",
+                "rating": 5
+            },
+            {
+                "author_name": "Наталья А.",
+                "author_profession": 8,
+                "date": "2020-02-29",
+                "comment": "Классная экспозиция. \nНо кассиры сами не знают что продают, вводят в заблуждение, потом хамят :(",
+                "author_url": "https://reviews.yandex.ru/user/vudze5vdxe2bd7mu4r10fxkfb0",
+                "rating": 4
+            },
+            {
+                "author_name": "Галина Ш",
+                "author_profession": 17,
+                "date": "2019-10-01",
+                "comment": "Обязателен к посещению, нельзя узнать более емко о городе в котором находишься, да и о Беларуси тоже.",
+                "author_url": "https://reviews.yandex.ru/user/qwau5zr02j0n5hj3n8np25gz78",
+                "rating": 5
+            },
+            {
+                "author_name": "Максим Емельянов",
+                "author_profession": 8,
+                "date": "2019-10-16",
+                "comment": "Хороший вид открывается с вершины ратуши на любимый город.",
+                "author_url": "https://reviews.yandex.ru/user/5z7a0gubzy2tq1m94yze4z7vwg",
+                "rating": 5
+            },
+            {
+                "author_name": "Дмитрий П.",
+                "author_profession": 5,
+                "date": "2019-08-11",
+                "comment": "Для разнообразия. Особенно понравились залы про живую природу.",
+                "author_url": "https://reviews.yandex.ru/user/2xmqf0fk8f1x0t87q0cmr7jc1w",
+                "rating": 5
+            },
+            {
+                "author_name": "Артём Дроздов",
+                "author_profession": 6,
+                "date": "2021-05-07",
+                "comment": "Красивое место",
+                "author_url": "https://reviews.yandex.ru/user/q2auzxm90mguq7qtc9wky0brd0",
+                "rating": 5
+            },
+            {
+                "author_name": "Денис Андреев",
+                "author_profession": 9,
+                "date": "2020-04-05",
+                "comment": "Часто проходят интерактивные выставки.",
+                "author_url": "https://reviews.yandex.ru/user/db3x1j827gkn1m84z12qmrtdmc",
+                "rating": 5
+            },
+            {
+                "author_name": "Андрей",
+                "author_profession": 10,
+                "date": "2019-08-31",
+                "comment": "Отличный музей. Обязательно поднимитесь на башню, незабываемые виды Витебска вам гарантированы.",
+                "author_url": "",
+                "rating": 5
+            },
+            {
+                "author_name": "Владимир М.",
+                "author_profession": 8,
+                "date": "2018-11-27",
+                "comment": "Очень красиво!!! Место в Витебеске, которое должен посетить каждый, кто приезжает в Витебск.",
+                "author_url": "https://reviews.yandex.ru/user/ce6yzc8nktdhpdw8cf2g7pqzjr",
+                "rating": 5
+            },
+            {
+                "author_name": "Эдуард Ахмеров",
+                "author_profession": 9,
+                "date": "2020-12-27",
+                "comment": "Отличный музей",
+                "author_url": "https://reviews.yandex.ru/user/55wynuu4mc9bg96t8x9fqcjhvm",
+                "rating": 5
+            },
+            {
+                "author_name": "Алексей К",
+                "author_profession": 13,
+                "date": "2018-10-31",
+                "comment": "Не очень богатая экспозиция. В большинстве залов съёмка запрещена даже без вспышки. Стоимость полного билета 5 рублей",
+                "author_url": "https://reviews.yandex.ru/user/k3k7ga0nm1f60wwp28f8rr93ym",
+                "rating": 3
+            },
+            {
+                "author_name": "Тоня",
+                "author_profession": 9,
+                "date": "2019-10-06",
+                "comment": "У музея отличная экспозиция, но она представлена скучно. Посмотрел, вышел, забыл.",
+                "author_url": "",
+                "rating": 4
+            },
+            {
+                "author_name": "Артём Лавренюк",
+                "author_profession": 13,
+                "date": "2020-03-09",
+                "comment": "Хорошее и приятное место",
+                "author_url": "https://reviews.yandex.ru/user/328pw7btmuyvzd7pp6yeaz1wj0",
+                "rating": 5
+            },
+            {
+                "author_name": "игорь",
+                "author_profession": 5,
+                "date": "2021-09-15",
+                "comment": "Хороший вид",
+                "author_url": "",
+                "rating": 5
+            },
+            {
+                "author_name": "Мила Г.",
+                "author_profession": 8,
+                "date": "2019-08-26",
+                "comment": "Много залов, хороший экскурсовод.",
+                "author_url": "https://reviews.yandex.ru/user/madhhfkjaqjfv93rzj3g4ameu0",
+                "rating": 5
+            },
+            {
+                "author_name": "Виталий Барс",
+                "author_profession": 14,
+                "date": "2019-12-12",
+                "comment": "Своих экспозиций постоянных не хватает...",
+                "author_url": "https://reviews.yandex.ru/user/adywr3yh1yng825202hn56g654",
+                "rating": 4
+            },
+            {
+                "author_name": "Кирилл П.",
+                "author_profession": 6,
+                "date": "2018-06-15",
+                "comment": "обычный музей и выставка.\nесть что посмотреть. интересно. посетить стоит",
+                "author_url": "https://reviews.yandex.ru/user/ca3z6p055zq1z0kdcbza07jau0",
+                "rating": 5
+            },
+            {
+                "author_name": "nickotinaa",
+                "author_profession": 11,
+                "date": "2019-08-03",
+                "comment": "Шикарное место! Советую посетить.",
+                "author_url": "https://reviews.yandex.ru/user/rcjx2874rf0jx5nxkzfz5uhadw",
+                "rating": 5
+            },
+            {
+                "author_name": "Aliaxander Yushkovski",
+                "author_profession": 9,
+                "date": "2020-06-14",
+                "comment": "Сымбаль Віцебска",
+                "author_url": "https://reviews.yandex.ru/user/8gcquj9092fy3n7vfv5hncztn0",
+                "rating": 5
+            },
+            {
+                "author_name": "Nika Maltseva",
+                "author_profession": 19,
+                "date": "2019-09-05",
+                "comment": "Интересная экспозиция",
+                "author_url": "https://reviews.yandex.ru/user/fr7hhmcwvaw9t139m0uc48a5b8",
+                "rating": 5
+            },
+            {
+                "author_name": "Игорь Валерьевич",
+                "author_profession": 4,
+                "date": "2019-01-31",
+                "comment": "Мало осталось настоящих вещей в этом музее",
+                "author_url": "https://reviews.yandex.ru/user/u1w41fm4qjw0h6wzb5j51ppyf0",
+                "rating": 4
+            },
+            {
+                "author_name": "Никита Б.",
+                "author_profession": 4,
+                "date": "2020-01-21",
+                "comment": "Хорошие выстовки",
+                "author_url": "https://reviews.yandex.ru/user/3415ea79y25a51u0haeu5jwkbc",
+                "rating": 5
+            },
+            {
+                "author_name": "Алексей Сергеев",
+                "author_profession": 7,
+                "date": "2019-08-31",
+                "comment": "Старый и несовременный",
+                "author_url": "https://reviews.yandex.ru/user/ap1q80y15x7rm3bz32ngjr4vtw",
+                "rating": 3
+            },
+            {
+                "author_name": "Виталий К",
+                "author_profession": 13,
+                "date": "2019-10-18",
+                "comment": "Уже хотелось бы реинновации.",
+                "author_url": "",
+                "rating": 4
+            },
+            {
+                "author_name": "Pavel O.",
+                "author_profession": 3,
+                "date": "2019-02-23",
+                "comment": "Интересный и уютный музей.",
+                "author_url": "",
+                "rating": 4
+            },
+            {
+                "author_name": "Петр Н.",
+                "author_profession": 6,
+                "date": "2018-09-09",
+                "comment": "Интересные экспозиции.",
+                "author_url": "https://reviews.yandex.ru/user/dzen8k9yq3xbgr3m14ny58kygw",
+                "rating": 5
+            },
+            {
+                "author_name": "Наталья Балашова",
+                "author_profession": 6,
+                "date": "2019-01-08",
+                "comment": "Стоит посетить!",
+                "author_url": "https://reviews.yandex.ru/user/y8kkpq4rmgmu8vf3ctt2qf0qzw",
+                "rating": 5
+            },
+            {
+                "author_name": "Катя Селёдкина",
+                "author_profession": 11,
+                "date": "2018-09-14",
+                "comment": "Советую посетить",
+                "author_url": "https://reviews.yandex.ru/user/k525nfeegyrqv4h1e62v48u1fg",
+                "rating": 5
+            }
+        ]
+    }
+}

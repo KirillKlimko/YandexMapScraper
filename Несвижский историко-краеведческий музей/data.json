@@ -1,0 +1,137 @@
+{
+    "object_name": "Несвижский историко-краеведческий музей",
+    "object_id": 181479841517,
+    "contact": [
+        "+375177051834",
+        "+375177020634",
+        "+375177052634"
+    ],
+    "business_url": "kraevednesvizh.by",
+    "object_category": "Музей",
+    "object_links": [],
+    "address": "Несвиж, Ленинская ул., 96",
+    "work_time": {
+        "Понедельник": "Выходной",
+        "Вторник": "08:00 – 12:3013:30 – 17:00",
+        "Среда": "08:00 – 12:3013:30 – 17:00",
+        "Четверг": "08:00 – 12:3013:30 – 17:00",
+        "Пятница": "08:00 – 12:3013:30 – 17:00",
+        "Суббота": "08:00 – 12:3013:30 – 17:00",
+        "Воскресенье": "08:00 – 12:3013:30 – 17:00"
+    },
+    "features": null,
+    "rating": 4.1,
+    "attendance": {},
+    "number_of_votes": 25,
+    "number_of_review": 6,
+    "similar_objects": [
+        {
+            "object_id": 1112493014,
+            "object_name": "Музей-заповедник Несвиж",
+            "object_link": "https://yandex.by/maps/org/natsionalny_istoriko_kulturny_muzey_zapovednik_nesvizh/1112493014/"
+        },
+        {
+            "object_id": 213718753726,
+            "object_name": "Несвижский замок",
+            "object_link": "https://yandex.by/maps/org/gosudarstvennoye_uchrezhdeniye_natsionalny_istoriko_kulturny_muzey_zapovednik_nesvizh/213718753726/"
+        },
+        {
+            "object_id": 213945281369,
+            "object_name": "Ратуша",
+            "object_link": "https://yandex.by/maps/org/ratusha/213945281369/"
+        },
+        {
+            "object_id": 1036939684,
+            "object_name": "Мирский замок",
+            "object_link": "https://yandex.by/maps/org/mirskiy_zamok/1036939684/"
+        },
+        {
+            "object_id": 1108389588,
+            "object_name": "Музей истории Клетчины",
+            "object_link": "https://yandex.by/maps/org/gu_muzey_istorii_kletchiny/1108389588/"
+        },
+        {
+            "object_id": 235789582778,
+            "object_name": "Музей",
+            "object_link": "https://yandex.by/maps/org/usadba_mirskiy_posad/235789582778/"
+        },
+        {
+            "object_id": 55432034288,
+            "object_name": "Альбуть",
+            "object_link": "https://yandex.by/maps/org/memorialnaya_usadba_yakuba_kolasa_albut/55432034288/"
+        },
+        {
+            "object_id": 19043532111,
+            "object_name": "Замковый комплекс Мир",
+            "object_link": "https://yandex.by/maps/org/zamkovy_kompleks_mir/19043532111/"
+        },
+        {
+            "object_id": 1177817439,
+            "object_name": "Музей Якуба Коласа",
+            "object_link": "https://yandex.by/maps/org/gosudarstvenny_literaturno_memorialny_muzey_yakuba_kolasa_filial_nikolayevshchina/1177817439/"
+        }
+    ],
+    "reviews_info": {
+        "type_reviews": {
+            "хорошие экспонаты ": 1,
+            "шикарный парк ": 1,
+            "интересный музей ": 5,
+            "живопись ": 1,
+            "ухоженная территория ": 1,
+            "богатая коллекция ": 1,
+            "приятное впечатление ": 1,
+            "старинные иконы ": 1,
+            "интересное место ": 1
+        },
+        "reviews": [
+            {
+                "author_name": "светлана и петр ардатовы",
+                "author_profession": 7,
+                "date": "2020-08-20",
+                "comment": "Очень интересное место. красота. Лебеди живут на озере. Очень ухоженная территория. Интересный и не дорогой музей. Шикарный парк на территории. С удовольствием посетили бы ещё раз.",
+                "author_url": "https://reviews.yandex.ru/user/djrqm2avzppgz5yyq590adpx54",
+                "rating": 5
+            },
+            {
+                "author_name": "Aleksandr Bobryk",
+                "author_profession": 2,
+                "date": "2020-08-06",
+                "comment": "Очень хорошие экспонаты, богатая коллекция живописи Белоруских художников и уникальные старинные иконы. Для посещения рекомендую.",
+                "author_url": "https://reviews.yandex.ru/user/p8zhmf56v56jvhbkxqf5vqywpm",
+                "rating": 5
+            },
+            {
+                "author_name": "luxemedia luxemedia",
+                "author_profession": 10,
+                "date": "2020-06-19",
+                "comment": "Исторический музей, далековато от центра, но стоит посетить",
+                "author_url": "https://reviews.yandex.ru/user/ycy3895z94xe933z3memrww4m0",
+                "rating": 5
+            },
+            {
+                "author_name": "Николай Бобко",
+                "author_profession": 5,
+                "date": "2020-11-26",
+                "comment": "Приятное впечатление от музейных экспонатов!",
+                "author_url": "https://reviews.yandex.ru/user/0q39922c83fb3z5ex7tnznbuhw",
+                "rating": 5
+            },
+            {
+                "author_name": "Юрий Фролов",
+                "author_profession": 2,
+                "date": "2020-07-15",
+                "comment": "Хороший, увлекательный интересный музей",
+                "author_url": "https://reviews.yandex.ru/user/r484zz3nph5z1pzx5avw3vf30g",
+                "rating": 4
+            },
+            {
+                "author_name": "DonYgan",
+                "author_profession": 5,
+                "date": "2020-01-08",
+                "comment": "Интересный музей",
+                "author_url": "https://reviews.yandex.ru/user/tk81ajx6xveed3f1g6h9kaky7c",
+                "rating": 5
+            }
+        ]
+    }
+}

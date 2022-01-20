@@ -1,0 +1,31 @@
+{
+    "object_name": "Мемориальный музей садовода-селекционера И. П. Сикоры",
+    "object_id": 37277626778,
+    "contact": [],
+    "business_url": null,
+    "object_category": "Музей",
+    "object_links": [],
+    "address": "Беларусь, Витебская область, Шарковщинский район, деревня Гридюшки Большие",
+    "work_time": {},
+    "features": null,
+    "rating": 4.1,
+    "attendance": {},
+    "number_of_votes": null,
+    "number_of_review": 0,
+    "similar_objects": [
+        {
+            "object_id": 197935211060,
+            "object_name": "Музей культуры и быта",
+            "object_link": "https://yandex.by/maps/org/germanovichskiy_muzey_kultury_i_byta_ya_drozdovicha/197935211060/"
+        },
+        {
+            "object_id": 1017119767,
+            "object_name": "Этнографический музей",
+            "object_link": "https://yandex.by/maps/org/glubokskiy_istoriko_etnograficheskiy_muzey/1017119767/"
+        }
+    ],
+    "reviews_info": {
+        "type_reviews": {},
+        "reviews": []
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "object_name": "Ивацевичский историко-краеведческий музей",
+    "object_id": 90619621305,
+    "contact": [
+        "+375297668106"
+    ],
+    "business_url": "ivatsevichy.museum.by",
+    "object_category": "Музей",
+    "object_links": [
+        "https://www.facebook.com/ivatsevichi.mus/"
+    ],
+    "address": "Беларусь, Брестская область, Ивацевичи, Заводская улица",
+    "work_time": {
+        "Понедельник": "Выходной",
+        "Вторник": "Выходной",
+        "Среда": "Выходной",
+        "Четверг": "Выходной",
+        "Пятница": "Выходной",
+        "Суббота": "Выходной",
+        "Воскресенье": "Выходной"
+    },
+    "features": null,
+    "rating": 4.3,
+    "attendance": {},
+    "number_of_votes": null,
+    "number_of_review": 0,
+    "similar_objects": [
+        {
+            "object_id": 49874690953,
+            "object_name": "Историко-краеведческий музей",
+            "object_link": "https://yandex.by/maps/org/guk_istoriko_krayevedcheskiy_muzey/49874690953/"
+        },
+        {
+            "object_id": 118108267982,
+            "object_name": "Усадьба Тадеуша Костюшко",
+            "object_link": "https://yandex.by/maps/org/memorialny_muzey_usadba_im_t_kostyushko/118108267982/"
+        },
+        {
+            "object_id": 60269767257,
+            "object_name": "Коссовский дворцово-парковый комплекс",
+            "object_link": "https://yandex.by/maps/org/kossovskiy_dvortsovo_parkovy_kompleks/60269767257/"
+        }
+    ],
+    "reviews_info": {
+        "type_reviews": {},
+        "reviews": []
+    }
+}

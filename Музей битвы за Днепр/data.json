@@ -1,0 +1,86 @@
+{
+    "object_name": "Музей битвы за Днепр",
+    "object_id": 1120005525,
+    "contact": [
+        "+375234740673"
+    ],
+    "business_url": "loyev.museum.by",
+    "object_category": "Музей",
+    "object_links": [
+        "https://vk.com/loevmuseum",
+        "https://www.facebook.com/%D0%9C%D1%83%D0%B7%D0%B5%D0%B9-%D0%B1%D1%96%D1%82%D0%B2%D1%8B-%D0%B7%D0%B0-%D0%94%D0%BD%D0%B5%D0%BF%D1%80-2373110852918958/",
+        "https://www.instagram.com/lojeu_museum/"
+    ],
+    "address": "городской посёлок Лоев, Советская ул., 3",
+    "work_time": {
+        "Понедельник": "Выходной",
+        "Вторник": "09:00 – 17:30",
+        "Среда": "09:00 – 17:30",
+        "Четверг": "09:00 – 17:30",
+        "Пятница": "09:00 – 17:30",
+        "Суббота": "09:00 – 17:30",
+        "Воскресенье": "09:00 – 17:30"
+    },
+    "features": null,
+    "rating": 4.2,
+    "attendance": {},
+    "number_of_votes": 24,
+    "number_of_review": 6,
+    "similar_objects": [],
+    "reviews_info": {
+        "type_reviews": {
+            "очень интересно ": 1,
+            "красивое место ": 1
+        },
+        "reviews": [
+            {
+                "author_name": "Татьяна",
+                "author_profession": 4,
+                "date": "2020-05-09",
+                "comment": "Позновательный музей для детей и взрослых.Будет очень интересно.Рекомендую.",
+                "author_url": "https://reviews.yandex.ru/user/43wv9auz0mcaaenhw7kyxmg3nm",
+                "rating": 5
+            },
+            {
+                "author_name": "Владимир Гапоненко",
+                "author_profession": 7,
+                "date": "2020-09-21",
+                "comment": "Очень красивое место на берегу Днепра",
+                "author_url": "https://reviews.yandex.ru/user/tfcwa9ftgd8phx3t670j38wd80",
+                "rating": 5
+            },
+            {
+                "author_name": "Александра Ващенко",
+                "author_profession": 5,
+                "date": "2020-07-25",
+                "comment": "Отл место, подвиги нужно помнить",
+                "author_url": "https://reviews.yandex.ru/user/ccztu8rz1te309mwxa73gppr68",
+                "rating": 5
+            },
+            {
+                "author_name": "ursdon66",
+                "author_profession": 3,
+                "date": "2020-07-24",
+                "comment": "Это наша история...Класс.",
+                "author_url": "https://reviews.yandex.ru/user/m7ev6d1cp9uxu1647y0q2gnpf0",
+                "rating": 5
+            },
+            {
+                "author_name": "TrapZiLLaS",
+                "author_profession": 6,
+                "date": "2020-06-09",
+                "comment": "Стоит посетить",
+                "author_url": "https://reviews.yandex.ru/user/8xmt1vqk5exzna87b2rypdjw6m",
+                "rating": 5
+            },
+            {
+                "author_name": "Лошкарев Всеволод",
+                "author_profession": 5,
+                "date": "2019-12-26",
+                "comment": "Это наша история!",
+                "author_url": "https://reviews.yandex.ru/user/8dwu42mk5h4kxw1fqck99h0hm0",
+                "rating": 5
+            }
+        ]
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "object_name": "Узденский районный историко-краеведческий музей",
+    "object_id": 1020801292,
+    "contact": [
+        "+375171868891"
+    ],
+    "business_url": "uzda.museum.by",
+    "object_category": "Музей",
+    "object_links": [
+        "https://ok.ru/group/67041037975607",
+        "https://vk.com/public203024441",
+        "https://www.youtube.com/channel/UCndaKPcHTOhZc3QSB-IPXQg"
+    ],
+    "address": "Узда, Школьная ул., 4",
+    "work_time": {
+        "Понедельник": "Выходной",
+        "Вторник": "09:00 – 13:0014:00 – 18:00",
+        "Среда": "09:00 – 13:0014:00 – 18:00",
+        "Четверг": "09:00 – 13:0014:00 – 18:00",
+        "Пятница": "09:00 – 13:0014:00 – 18:00",
+        "Суббота": "09:00 – 13:0014:00 – 18:00",
+        "Воскресенье": "Выходной"
+    },
+    "features": null,
+    "rating": 4.0,
+    "attendance": {},
+    "number_of_votes": 8,
+    "number_of_review": 3,
+    "similar_objects": [
+        {
+            "object_id": 18504963783,
+            "object_name": "Музей тракторной техники",
+            "object_link": "https://yandex.by/maps/org/muzey_traktornoy_tekhniki/18504963783/"
+        },
+        {
+            "object_id": 47021766532,
+            "object_name": "Музей военной техники",
+            "object_link": "https://yandex.by/maps/org/muzey_voyennoy_tekhniki/47021766532/"
+        },
+        {
+            "object_id": 1108498839,
+            "object_name": "Историко-краеведческий музей",
+            "object_link": "https://yandex.by/maps/org/gu_dzerzhinskiy_rayonny_istoriko_krayevedcheskiy_muzey/1108498839/"
+        }
+    ],
+    "reviews_info": {
+        "type_reviews": {
+            "ознакомление с историей ": 1,
+            "познавательный музей ": 1
+        },
+        "reviews": [
+            {
+                "author_name": "Рина Рова",
+                "author_profession": 6,
+                "date": "2021-06-14",
+                "comment": "Были приятно удивлены количеством экспонатов, есть что посмотреть. Рекомендую обязательно посетить для ознакомления с историей местности.",
+                "author_url": "https://reviews.yandex.ru/user/8x9hfqgv6323qxwbg78b6gn37w",
+                "rating": 5
+            },
+            {
+                "author_name": "Наталия М",
+                "author_profession": 14,
+                "date": "2020-07-24",
+                "comment": "Замечательный интересный и познавательный музей!!!",
+                "author_url": "https://reviews.yandex.ru/user/5hk3mkr9rpcbck9kxcd89a1gvg",
+                "rating": 5
+            },
+            {
+                "author_name": "Дзмітрый",
+                "author_profession": 4,
+                "date": "2020-12-14",
+                "comment": "Выдатны музейны супрацоўнік Вікторыя.\n\nВельмі цікавае месца для наведвання.",
+                "author_url": "",
+                "rating": 5
+            }
+        ]
+    }
+}

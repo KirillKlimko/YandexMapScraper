@@ -1,0 +1,88 @@
+{
+    "object_name": "Музей истории Наровлянщины",
+    "object_id": 1044911392,
+    "contact": [
+        "+375235541819"
+    ],
+    "business_url": null,
+    "object_category": "Музей",
+    "object_links": [
+        "https://vk.com/musey_narovlja"
+    ],
+    "address": "Наровля, Октябрьская ул., 12",
+    "work_time": {},
+    "features": null,
+    "rating": 3.5,
+    "attendance": {},
+    "number_of_votes": 13,
+    "number_of_review": 3,
+    "similar_objects": [
+        {
+            "object_id": 75251796803,
+            "object_name": "Дворцово-парковый ансамбль",
+            "object_link": "https://yandex.by/maps/org/dvortsovo_parkovy_ansambl/75251796803/"
+        },
+        {
+            "object_id": 218009616041,
+            "object_name": "Дом-музей Ивана Мележа",
+            "object_link": "https://yandex.by/maps/org/dom_muzey_ivana_melezha/218009616041/"
+        },
+        {
+            "object_id": 1042779295,
+            "object_name": "Мозырский замок",
+            "object_link": "https://yandex.by/maps/org/mozyrskiy_zamok/1042779295/"
+        },
+        {
+            "object_id": 1106092516,
+            "object_name": "ГУК Калинковичский краеведческий музей",
+            "object_link": "https://yandex.by/maps/org/guk_kalinkovichskiy_krayevedcheskiy_muzey/1106092516/"
+        },
+        {
+            "object_id": 1047359980,
+            "object_name": "Музей-мастерская М.М. Пушкаря",
+            "object_link": "https://yandex.by/maps/org/muzey_masterskaya_m_m_pushkarya/1047359980/"
+        },
+        {
+            "object_id": 1726077268,
+            "object_name": "Музей Туровской епархии",
+            "object_link": "https://yandex.by/maps/org/muzey_turovskoy_yeparkhii/1726077268/"
+        },
+        {
+            "object_id": 199907681657,
+            "object_name": "Краеведческий музей",
+            "object_link": "https://yandex.by/maps/org/obyedinenny_krayevedcheskiy_muzey_otdela_kultury_mozyrskogo_rayispolkoma/199907681657/"
+        }
+    ],
+    "reviews_info": {
+        "type_reviews": {
+            "отличный музей ": 2,
+            "разнообразные экспонаты ": 1
+        },
+        "reviews": [
+            {
+                "author_name": "Zina Zinaida",
+                "author_profession": 3,
+                "date": "2021-03-23",
+                "comment": "Очень уютный музей , много разнообразных экспонатов , советую побывать!",
+                "author_url": "https://reviews.yandex.ru/user/91uhw9uy6yrau3v3evbb33177w",
+                "rating": 5
+            },
+            {
+                "author_name": "Наталья Филонова",
+                "author_profession": 8,
+                "date": "2021-06-29",
+                "comment": "Отличный музей.",
+                "author_url": "https://reviews.yandex.ru/user/hyz1ttkff9j1n2j7vzex763jj0",
+                "rating": 5
+            },
+            {
+                "author_name": "Ирина Б.",
+                "author_profession": 5,
+                "date": "2020-01-29",
+                "comment": "Я ходила маленькой и мне очень понравилось",
+                "author_url": "https://reviews.yandex.ru/user/9uhm0509h7f6h7687x7w4tq8dg",
+                "rating": 4
+            }
+        ]
+    }
+}

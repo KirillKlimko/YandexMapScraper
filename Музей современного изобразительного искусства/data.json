@@ -1,0 +1,34 @@
+{
+    "object_name": "Музей современного изобразительного искусства",
+    "object_id": 183288211301,
+    "contact": [],
+    "business_url": null,
+    "object_category": "Музей",
+    "object_links": [],
+    "address": "площадь Независимости, 47",
+    "work_time": {
+        "Понедельник": "Выходной",
+        "Вторник": "Выходной",
+        "Среда": "Выходной",
+        "Четверг": "Выходной",
+        "Пятница": "Выходной",
+        "Суббота": "Выходной",
+        "Воскресенье": "Выходной"
+    },
+    "features": null,
+    "rating": 4.7,
+    "attendance": {},
+    "number_of_votes": null,
+    "number_of_review": 0,
+    "similar_objects": [
+        {
+            "object_id": 1045812099,
+            "object_name": "Музей Страна Мини",
+            "object_link": "https://yandex.by/maps/org/muzey_arkhitekturnykh_miniatyur_strana_mini/1045812099/"
+        }
+    ],
+    "reviews_info": {
+        "type_reviews": {},
+        "reviews": []
+    }
+}

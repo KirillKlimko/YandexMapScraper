@@ -1,0 +1,68 @@
+{
+    "object_name": "Жабинковский районный историко-краеведческий музей",
+    "object_id": 1255863764,
+    "contact": [
+        "+375164136345"
+    ],
+    "business_url": "zhabinka.museum.by",
+    "object_category": "Музей",
+    "object_links": [
+        "https://vk.com/club129867792"
+    ],
+    "address": "Малые Сехновичи, ул. Тадеуша Костюшко, 21",
+    "work_time": {
+        "Понедельник": "Выходной",
+        "Вторник": "Выходной",
+        "Среда": "08:00 – 13:0014:00 – 17:00",
+        "Четверг": "08:00 – 13:0014:00 – 17:00",
+        "Пятница": "08:00 – 13:0014:00 – 17:00",
+        "Суббота": "08:00 – 13:0014:00 – 17:00",
+        "Воскресенье": "08:00 – 13:0014:00 – 17:00"
+    },
+    "features": null,
+    "rating": 4.4,
+    "attendance": {},
+    "number_of_votes": null,
+    "number_of_review": 0,
+    "similar_objects": [
+        {
+            "object_id": 1084678343,
+            "object_name": "Каменецкая башня",
+            "object_link": "https://yandex.by/maps/org/kamenetskaya_bashnya_muzey_filial_uk_brestskiy_oblastnoy_krayevedcheskiy_muzey/1084678343/"
+        },
+        {
+            "object_id": 66668473175,
+            "object_name": "Экспозиция железнодорожной техники",
+            "object_link": "https://yandex.by/maps/org/ekspozitsiya_zheleznodorozhnoy_tekhniki/66668473175/"
+        },
+        {
+            "object_id": 28517444402,
+            "object_name": "Государственный музей «Смоленская крепость»",
+            "object_link": "https://yandex.by/maps/org/gosudarstvenny_muzey_smolenskaya_krepost_/28517444402/"
+        },
+        {
+            "object_id": 238349394078,
+            "object_name": "Брестская усадьба",
+            "object_link": "https://yandex.by/maps/org/brestskaya_usadba/238349394078/"
+        },
+        {
+            "object_id": 133521886987,
+            "object_name": "Iprim",
+            "object_link": "https://yandex.by/maps/org/iprim/133521886987/"
+        },
+        {
+            "object_id": 185694906322,
+            "object_name": "Iprim",
+            "object_link": "https://yandex.by/maps/org/iprim/185694906322/"
+        },
+        {
+            "object_id": 103899813664,
+            "object_name": "Музей ВДВ",
+            "object_link": "https://yandex.by/maps/org/muzey_vdv/103899813664/"
+        }
+    ],
+    "reviews_info": {
+        "type_reviews": {},
+        "reviews": []
+    }
+}

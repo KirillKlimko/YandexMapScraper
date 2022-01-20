@@ -1,0 +1,77 @@
+{
+    "object_name": "Учреждение культуры «Ганцевичский районный краеведческий музей»",
+    "object_id": 1016530703,
+    "contact": [
+        "+375164621451"
+    ],
+    "business_url": "gantsevichi.museum.by",
+    "object_category": "Музей",
+    "object_links": [
+        "https://ok.ru/group/53963280220292",
+        "https://vk.com/club169811616",
+        "https://www.instagram.com/gantsmuseum/"
+    ],
+    "address": "Ганцевичи, ул. Заслонова, 1",
+    "work_time": {
+        "Понедельник": "Выходной",
+        "Вторник": "09:00 – 13:0014:00 – 18:00",
+        "Среда": "09:00 – 13:0014:00 – 18:00",
+        "Четверг": "09:00 – 13:0014:00 – 18:00",
+        "Пятница": "09:00 – 13:0014:00 – 18:00",
+        "Суббота": "09:00 – 13:0014:00 – 18:00",
+        "Воскресенье": "09:00 – 13:0014:00 – 18:00"
+    },
+    "features": null,
+    "rating": 3.9,
+    "attendance": {},
+    "number_of_votes": 13,
+    "number_of_review": 4,
+    "similar_objects": [
+        {
+            "object_id": 1108389588,
+            "object_name": "Музей истории Клетчины",
+            "object_link": "https://yandex.by/maps/org/gu_muzey_istorii_kletchiny/1108389588/"
+        }
+    ],
+    "reviews_info": {
+        "type_reviews": {
+            "исторические памятники ": 1,
+            "креативный подход ": 1,
+            "симпатичное здание ": 1
+        },
+        "reviews": [
+            {
+                "author_name": "persik",
+                "author_profession": 7,
+                "date": "2022-01-07",
+                "comment": "Исторические памятники не как не связано с историей Ганцевич",
+                "author_url": "https://reviews.yandex.ru/user/axk59qreegyuatjjwjduu39f5c",
+                "rating": 4
+            },
+            {
+                "author_name": "МилаЛи",
+                "author_profession": 5,
+                "date": "2020-09-26",
+                "comment": "Это место куда хочется приходить. Уют, благожелательность. Интересный и креативный подход к работе",
+                "author_url": "https://reviews.yandex.ru/user/e84zx0q1te0ewrkjw1nxcthe4g",
+                "rating": 5
+            },
+            {
+                "author_name": "Андрей Коркотко",
+                "author_profession": 7,
+                "date": "2020-07-15",
+                "comment": "Неординарное ,но симпатичное здание)))",
+                "author_url": "https://reviews.yandex.ru/user/cmcr9hcp1fvuph84bupvxpb8g0",
+                "rating": 5
+            },
+            {
+                "author_name": "станислав якубовский",
+                "author_profession": 9,
+                "date": "2019-11-30",
+                "comment": "мало истории",
+                "author_url": "https://reviews.yandex.ru/user/stas-yakubovskii",
+                "rating": 4
+            }
+        ]
+    }
+}

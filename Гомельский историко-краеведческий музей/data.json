@@ -1,0 +1,89 @@
+{
+    "object_name": "Гомельский историко-краеведческий музей",
+    "object_id": 1385473887,
+    "contact": [
+        "+375232924211"
+    ],
+    "business_url": null,
+    "object_category": "Музей",
+    "object_links": [],
+    "address": "агрогородок Поколюбичи, ул. Александровка, 3",
+    "work_time": {},
+    "features": null,
+    "rating": 3.9,
+    "attendance": {},
+    "number_of_votes": 21,
+    "number_of_review": 2,
+    "similar_objects": [
+        {
+            "object_id": 138521797800,
+            "object_name": "Музей истории печати и фотографии",
+            "object_link": "https://yandex.by/maps/org/muzey_istorii_pechati_i_fotografii/138521797800/"
+        },
+        {
+            "object_id": 1282607868,
+            "object_name": "Гомельский областной музей истории образования",
+            "object_link": "https://yandex.by/maps/org/gomelskiy_oblastnoy_muzey_istorii_obrazovaniya/1282607868/"
+        },
+        {
+            "object_id": 1077525314,
+            "object_name": "Музей военной cлавы",
+            "object_link": "https://yandex.by/maps/org/gomelskiy_oblastnoy_muzey_voyennoy_clavy/1077525314/"
+        },
+        {
+            "object_id": 74461949007,
+            "object_name": "Геологический музей ГГУ им. Ф. Скорины",
+            "object_link": "https://yandex.by/maps/org/geologicheskiy_muzey_ggu_im_f_skoriny/74461949007/"
+        },
+        {
+            "object_id": 1093905356,
+            "object_name": "Музей автографа",
+            "object_link": "https://yandex.by/maps/org/muzey_avtografa/1093905356/"
+        },
+        {
+            "object_id": 1265056932,
+            "object_name": "Музей криминалистики",
+            "object_link": "https://yandex.by/maps/org/muzey_kriminalistiki/1265056932/"
+        },
+        {
+            "object_id": 1080250472,
+            "object_name": "Охотничий домик",
+            "object_link": "https://yandex.by/maps/org/okhotnichiy_domik/1080250472/"
+        },
+        {
+            "object_id": 1019118914,
+            "object_name": "Музей старообрядчества",
+            "object_link": "https://yandex.by/maps/org/vetkovskiy_muzey_staroobryadchestva_i_belorusskikh_traditsiy_imeni_f_g_shklyarova_filial/1019118914/"
+        },
+        {
+            "object_id": 160507765174,
+            "object_name": "Зимний сад",
+            "object_link": "https://yandex.by/maps/org/zimniy_sad/160507765174/"
+        }
+    ],
+    "reviews_info": {
+        "type_reviews": {
+            "не большой музей ": 1,
+            "открытое небо ": 1,
+            "очень интересно ": 1
+        },
+        "reviews": [
+            {
+                "author_name": "Кирилл Волчков",
+                "author_profession": 5,
+                "date": "2019-09-30",
+                "comment": "Не большой музей под открытым небом, и само здание музея маленькое",
+                "author_url": "https://reviews.yandex.ru/user/759v9uqfwzbctz88rb0v7w7578",
+                "rating": 5
+            },
+            {
+                "author_name": "Алексей Мухин",
+                "author_profession": 13,
+                "date": "2020-03-19",
+                "comment": "Интересно. Очень интересно",
+                "author_url": "https://reviews.yandex.ru/user/ffv77bqjzt3q2n53x7zuv6ajpc",
+                "rating": 5
+            }
+        ]
+    }
+}

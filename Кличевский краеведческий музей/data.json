@@ -1,0 +1,92 @@
+{
+    "object_name": "Кличевский краеведческий музей",
+    "object_id": 1027786526,
+    "contact": [
+        "+375223671933",
+        "+375223671932",
+        "+375223651491"
+    ],
+    "business_url": "klichev.museum.by",
+    "object_category": "Музей",
+    "object_links": [
+        "http://instagram.com/muz_klichev1969",
+        "https://twitter.com/klichevmuseum",
+        "https://vk.com/klichevmuseum",
+        "https://www.facebook.com/klichevmuseum/"
+    ],
+    "address": "Кличев, ул. Якова Зайца, 21",
+    "work_time": {
+        "Понедельник": "Выходной",
+        "Вторник": "08:00 – 12:0013:00 – 17:00",
+        "Среда": "08:00 – 12:0013:00 – 17:00",
+        "Четверг": "08:00 – 12:0013:00 – 17:00",
+        "Пятница": "08:00 – 12:0013:00 – 17:00",
+        "Суббота": "08:00 – 12:0013:00 – 17:00",
+        "Воскресенье": "08:00 – 12:0013:00 – 17:00"
+    },
+    "features": null,
+    "rating": 4.1,
+    "attendance": {},
+    "number_of_votes": 23,
+    "number_of_review": 5,
+    "similar_objects": [
+        {
+            "object_id": 1059214635,
+            "object_name": "Музей Бобруйского района",
+            "object_link": "https://yandex.by/maps/org/bobruyskiy_rayonny_istoriko_krayevedcheskiy_muzey/1059214635/"
+        }
+    ],
+    "reviews_info": {
+        "type_reviews": {
+            "аптекарский огород ": 1,
+            "хороший музей ": 3,
+            "очень интересно ": 1,
+            "приятный персонал ": 1,
+            "хорошие выставки ": 1,
+            "не дорогие экскурсии ": 1,
+            "зимний сад ": 1
+        },
+        "reviews": [
+            {
+                "author_name": "Д. М",
+                "author_profession": 4,
+                "date": "2020-04-06",
+                "comment": "Музей рассказывает об истории кличевского района. Интересные и не дорогие экскурсии по экспозиции. Есть даже свой аптекарский огород, и зимний сад.",
+                "author_url": "https://reviews.yandex.ru/user/e1uk3h7a81qc8h21dbt6mvm7c4",
+                "rating": 5
+            },
+            {
+                "author_name": "Nastasia Fedorova",
+                "author_profession": 7,
+                "date": "2020-07-02",
+                "comment": "Хорошие выставки, дворик, огород, приятный персонал.",
+                "author_url": "https://reviews.yandex.ru/user/jzvyrj6m3wzzuxxx9xkygt1cjm",
+                "rating": 5
+            },
+            {
+                "author_name": "Сергей Кривонос",
+                "author_profession": 8,
+                "date": "2020-03-12",
+                "comment": "Все очень интересно. Был несколько раз.",
+                "author_url": "https://reviews.yandex.ru/user/dm8veuzdx6tjkbmxp8kff302eg",
+                "rating": 4
+            },
+            {
+                "author_name": "Инна С.",
+                "author_profession": 2,
+                "date": "2020-12-03",
+                "comment": "Хороший музей.",
+                "author_url": "https://reviews.yandex.ru/user/bfn5q5h9hy7az34d4qj9624d0r",
+                "rating": 5
+            },
+            {
+                "author_name": "галина старпович",
+                "author_profession": 6,
+                "date": "2019-06-12",
+                "comment": "Прекрасный музей,столько интересного!",
+                "author_url": "https://reviews.yandex.ru/user/a00da5gb9kt5j75xhkxuffedw0",
+                "rating": 5
+            }
+        ]
+    }
+}

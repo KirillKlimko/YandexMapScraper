@@ -1,0 +1,70 @@
+{
+    "object_name": "Бешенковичский районный историко-краеведческий музей",
+    "object_id": 1080108206,
+    "contact": [
+        "+375213160196"
+    ],
+    "business_url": "beshenkovichi.museum.by",
+    "object_category": "Музей",
+    "object_links": [
+        "https://vk.com/beshmuz"
+    ],
+    "address": "городской посёлок Бешенковичи, ул. Володарского, 6",
+    "work_time": {
+        "Понедельник": "Выходной",
+        "Вторник": "09:00 – 13:0014:00 – 18:00",
+        "Среда": "09:00 – 13:0014:00 – 18:00",
+        "Четверг": "09:00 – 13:0014:00 – 18:00",
+        "Пятница": "09:00 – 13:0014:00 – 18:00",
+        "Суббота": "09:00 – 13:0014:00 – 18:00",
+        "Воскресенье": "09:00 – 13:0014:00 – 18:00"
+    },
+    "features": null,
+    "rating": 3.1,
+    "attendance": {},
+    "number_of_votes": 17,
+    "number_of_review": 2,
+    "similar_objects": [
+        {
+            "object_id": 1007576685,
+            "object_name": "Музей",
+            "object_link": "https://yandex.by/maps/org/guk_shumilskiy_istoriko_krayevedcheskiy_muzey/1007576685/"
+        },
+        {
+            "object_id": 65645796796,
+            "object_name": "ГУ Чашникский исторический музей",
+            "object_link": "https://yandex.by/maps/org/gu_chashnikskiy_istoricheskiy_muzey/65645796796/"
+        },
+        {
+            "object_id": 1134414018,
+            "object_name": "Историко-краеведческий музей",
+            "object_link": "https://yandex.by/maps/org/sennenskiy_istoriko_krayevedcheskiy_muzey/1134414018/"
+        },
+        {
+            "object_id": 12093105341,
+            "object_name": "Сенненский Дом ремёсел",
+            "object_link": "https://yandex.by/maps/org/sennenskiy_dom_remyosel/12093105341/"
+        }
+    ],
+    "reviews_info": {
+        "type_reviews": {},
+        "reviews": [
+            {
+                "author_name": "Лариса В.",
+                "author_profession": 5,
+                "date": "2019-11-29",
+                "comment": "Очень познавательно, есть, что посмотреть",
+                "author_url": "https://reviews.yandex.ru/user/mq8kjd7rbmbtczwq841n7kr3y0",
+                "rating": 4
+            },
+            {
+                "author_name": "Денис П.щгрекца",
+                "author_profession": 7,
+                "date": "2019-09-20",
+                "comment": "Норм",
+                "author_url": "https://reviews.yandex.ru/user/hxfnuhp65qn7fmuj9hp5dr92k0",
+                "rating": 5
+            }
+        ]
+    }
+}

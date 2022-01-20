@@ -1,0 +1,110 @@
+{
+    "object_name": "Добрушский районный краеведческий музей",
+    "object_id": 1017269882,
+    "contact": [
+        "+375233356167"
+    ],
+    "business_url": null,
+    "object_category": "Музей",
+    "object_links": [],
+    "address": "Добруш, ул. Князя Паскевича, 1",
+    "work_time": {
+        "Понедельник": "Выходной",
+        "Вторник": "08:30 – 13:0014:00 – 17:30",
+        "Среда": "08:30 – 13:0014:00 – 17:30",
+        "Четверг": "08:30 – 13:0014:00 – 17:30",
+        "Пятница": "08:30 – 13:0014:00 – 17:30",
+        "Суббота": "08:30 – 13:0014:00 – 17:30",
+        "Воскресенье": "Выходной"
+    },
+    "features": null,
+    "rating": 4.0,
+    "attendance": {},
+    "number_of_votes": 36,
+    "number_of_review": 7,
+    "similar_objects": [
+        {
+            "object_id": 1055695831,
+            "object_name": "Музей им. Шклярова",
+            "object_link": "https://yandex.by/maps/org/vetkovskiy_muzey_staroobryadchestva_i_belorusskikh_traditsiy_imeni_f_g_shklyarova/1055695831/"
+        },
+        {
+            "object_id": 1385473887,
+            "object_name": "Краеведческий музей",
+            "object_link": "https://yandex.by/maps/org/gomelskiy_istoriko_krayevedcheskiy_muzey/1385473887/"
+        },
+        {
+            "object_id": 73358279443,
+            "object_name": "Усадебный комплекс",
+            "object_link": "https://yandex.by/maps/org/usadebny_kompleks/73358279443/"
+        }
+    ],
+    "reviews_info": {
+        "type_reviews": {
+            "отличный музей ": 6,
+            "замечательный человек ": 1,
+            "большая коллекция ": 1,
+            "инвалидные коляски ": 1,
+            "маленький городок ": 1,
+            "хорошие сотрудники ": 1
+        },
+        "reviews": [
+            {
+                "author_name": "Алексей Вай-Ходц",
+                "author_profession": 8,
+                "date": "2021-12-29",
+                "comment": "хороший .красивый музей.выставки неплохие.персонал умный эрудированный.вежливый",
+                "author_url": "https://reviews.yandex.ru/user/5x6txq36nvec3zcgyvfe58hz2g",
+                "rating": 5
+            },
+            {
+                "author_name": "Антон Королев",
+                "author_profession": 6,
+                "date": "2019-09-02",
+                "comment": "Интересный музей, но не доступен для людей передвигающихся на инвалидных колясок. Работник музея очень замечательный человек, помогал поднимать по ступенькам людей на колясках.",
+                "author_url": "https://reviews.yandex.ru/user/fgrd2xrkpva3rd1am4f1u9xrbw",
+                "rating": 3
+            },
+            {
+                "author_name": "Sitpower",
+                "author_profession": 14,
+                "date": "2019-10-16",
+                "comment": "Небольшой музей. Будете в городе, для развития посетите музей. Займет немного времени.",
+                "author_url": "https://reviews.yandex.ru/user/kqbzzyq97c8axh0t0wfxgygw54",
+                "rating": 5
+            },
+            {
+                "author_name": "Валентина К.",
+                "author_profession": 5,
+                "date": "2020-04-25",
+                "comment": "Красивое и ухоженное, внутри не была, но здание впечатляет.",
+                "author_url": "https://reviews.yandex.ru/user/8q8nxp9u8qceqk0m4nazyhhvam",
+                "rating": 5
+            },
+            {
+                "author_name": "Ирина Морозова",
+                "author_profession": 5,
+                "date": "2020-03-26",
+                "comment": "Музей как музей. Для маленького городка - норм",
+                "author_url": "https://reviews.yandex.ru/user/xtztrgjnztg9tjqabew4rk2en8",
+                "rating": 5
+            },
+            {
+                "author_name": "Митя",
+                "author_profession": 16,
+                "date": "2019-02-16",
+                "comment": "Отличный музей. Был два раза - понравилось. Хорошие сотрудники.",
+                "author_url": "https://reviews.yandex.ru/user/8y8kx13q5h37ur3zmccf8wxbe8",
+                "rating": 4
+            },
+            {
+                "author_name": "Василий",
+                "author_profession": 8,
+                "date": "2018-08-16",
+                "comment": "Большая коллекция музейных экспонатов про город Добруш и его окрестности.",
+                "author_url": "https://reviews.yandex.ru/user/nqjga87tdp5we83p5dav09u8tw",
+                "rating": 5
+            }
+        ]
+    }
+}

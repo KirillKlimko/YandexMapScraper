@@ -1,0 +1,114 @@
+{
+    "object_name": "Речицкий краеведческий музей",
+    "object_id": 1093105750,
+    "contact": [
+        "+375234099198"
+    ],
+    "business_url": "rechitsamuseum.online",
+    "object_category": "Музей",
+    "object_links": [
+        "http://instagram.com/rechitsa_vteme",
+        "http://youtube.com/channel/UCet7hMAqg_xhYpaZplEmGpA"
+    ],
+    "address": "Речица, Пролетарская ул., 2",
+    "work_time": {
+        "Понедельник": "Выходной",
+        "Вторник": "09:00 – 18:00",
+        "Среда": "09:00 – 18:00",
+        "Четверг": "09:00 – 18:00",
+        "Пятница": "09:00 – 18:00",
+        "Суббота": "09:00 – 18:00",
+        "Воскресенье": "09:00 – 18:00"
+    },
+    "features": "Билеты:до 2 бел.руб.",
+    "rating": 4.2,
+    "attendance": {},
+    "number_of_votes": 31,
+    "number_of_review": 9,
+    "similar_objects": [],
+    "reviews_info": {
+        "type_reviews": {
+            "достойная экспозиция ": 3,
+            "музей ": 3,
+            "гибкий график ": 1,
+            "полноценная экскурсия ": 1,
+            "толковый персонал ": 2,
+            "советский период ": 1,
+            "интересное место ": 1
+        },
+        "reviews": [
+            {
+                "author_name": "ирина Дворник",
+                "author_profession": 4,
+                "date": "2021-11-03",
+                "comment": "Полноценная экскурсия по музею. Нет изюминки, какой-то самобытности Речицы. Были с детьми. Длительно и монотонно. Основной минус был, что мы приехали без наличных денег, а по карточке оплатить нельзя, так как только наличные. Вопрос : для кого работает музей в век компьютеризации?",
+                "author_url": "https://reviews.yandex.ru/user/7r2pkygw7ffe4thrgp5vkjz3cc",
+                "rating": 1
+            },
+            {
+                "author_name": "Generation Time",
+                "author_profession": 3,
+                "date": "2021-08-23",
+                "comment": "Хорошая экспозиция. Но слишком много советского периода для древнего города.",
+                "author_url": "https://reviews.yandex.ru/user/kvwzhxwv741g7qz6an4harp29c",
+                "rating": 4
+            },
+            {
+                "author_name": "Константин Нуммис",
+                "author_profession": 6,
+                "date": "2020-03-09",
+                "comment": "Информативные экспозиции, вежливый и толковый персонал, гибкий график работы.",
+                "author_url": "https://reviews.yandex.ru/user/jkc94btfa167nzvqvuxry6hjk8",
+                "rating": 5
+            },
+            {
+                "author_name": "Alex Svetilov",
+                "author_profession": 8,
+                "date": "2019-11-25",
+                "comment": "Хороший музей! Квалифицированный персонал! Достойная экспозиция!",
+                "author_url": "https://reviews.yandex.ru/user/kdu36d7p35389hd8jdf88rar7r",
+                "rating": 5
+            },
+            {
+                "author_name": "Дмитрий Подымов",
+                "author_profession": 6,
+                "date": "2019-08-15",
+                "comment": "музей оиличный + тут есть в продаже сувениры на любой вкус и кошелек",
+                "author_url": "https://reviews.yandex.ru/user/ehjmckfb0fe9pnk7865zcd5gcw",
+                "rating": 5
+            },
+            {
+                "author_name": "Анатолий Дудкин",
+                "author_profession": 13,
+                "date": "2019-09-05",
+                "comment": "Очень позновательно. Вежливый персонал. Наличие сувениров.",
+                "author_url": "https://reviews.yandex.ru/user/0bpumgvxa7q7a6706u4j2y3wp8",
+                "rating": 5
+            },
+            {
+                "author_name": "Марина М.",
+                "author_profession": 5,
+                "date": "2019-12-13",
+                "comment": "Стараюсь не пропускать выставки, очень обязана !",
+                "author_url": "https://reviews.yandex.ru/user/0ttph5nxneuqzf1497r0fft260",
+                "rating": 5
+            },
+            {
+                "author_name": "Pavel B.",
+                "author_profession": 11,
+                "date": "2020-01-08",
+                "comment": "Интересное место.",
+                "author_url": "https://reviews.yandex.ru/user/tkzj2nq8fe9837dv9p6p286x88",
+                "rating": 5
+            },
+            {
+                "author_name": "Михаил АСТАПЕНКО",
+                "author_profession": 4,
+                "date": "2019-08-31",
+                "comment": "Советую посетить",
+                "author_url": "https://reviews.yandex.ru/user/9hc00ppey0gy9dnqngff192eq4",
+                "rating": 5
+            }
+        ]
+    }
+}

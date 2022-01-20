@@ -1,0 +1,58 @@
+{
+    "object_name": "Чериковский историко-краеведческий музей ",
+    "object_id": 70224817898,
+    "contact": [],
+    "business_url": "cherikov.museum.by",
+    "object_category": "Музей",
+    "object_links": [],
+    "address": "Чериков, Ленинская ул., 180",
+    "work_time": {
+        "Понедельник": "08:00 – 13:0014:00 – 17:00",
+        "Вторник": "08:00 – 13:0014:00 – 17:00",
+        "Среда": "08:00 – 13:0014:00 – 17:00",
+        "Четверг": "08:00 – 13:0014:00 – 17:00",
+        "Пятница": "08:00 – 13:0014:00 – 17:00",
+        "Суббота": "08:00 – 13:0013:30 – 16:30",
+        "Воскресенье": "Выходной"
+    },
+    "features": null,
+    "rating": 3.9,
+    "attendance": {},
+    "number_of_votes": 9,
+    "number_of_review": 1,
+    "similar_objects": [
+        {
+            "object_id": 105636047544,
+            "object_name": "Народный историко - краеведческий музей СШ Г. П. Краснополье",
+            "object_link": "https://yandex.by/maps/org/narodny_istoriko_krayevedcheskiy_muzey_ssh_g_p_krasnopolye/105636047544/"
+        },
+        {
+            "object_id": 1200809378,
+            "object_name": "Историко-этнографический музей",
+            "object_link": "https://yandex.by/maps/org/istoriko_etnograficheskiy_muzey/1200809378/"
+        },
+        {
+            "object_id": 35999034249,
+            "object_name": "Дворец Потёмкина",
+            "object_link": "https://yandex.by/maps/org/dvorets_potyomkina/35999034249/"
+        },
+        {
+            "object_id": 76130529471,
+            "object_name": "Kryčaŭ District Homeland Museum",
+            "object_link": "https://yandex.by/maps/org/kry_a_district_homeland_museum/76130529471/"
+        }
+    ],
+    "reviews_info": {
+        "type_reviews": {},
+        "reviews": [
+            {
+                "author_name": "plik82",
+                "author_profession": 13,
+                "date": "2021-04-13",
+                "comment": "Это наша история",
+                "author_url": "https://reviews.yandex.ru/user/1j427r0yqjkn5487ra8jgyxzmr",
+                "rating": 5
+            }
+        ]
+    }
+}

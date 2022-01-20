@@ -1,0 +1,70 @@
+{
+    "object_name": "Столинский районный краеведческий музей",
+    "object_id": 206750567803,
+    "contact": [
+        "+375165562396"
+    ],
+    "business_url": "stolin.museum.by",
+    "object_category": "Музей",
+    "object_links": [
+        "http://ok.ru/group/54285537509519",
+        "https://vk.com/club117660101",
+        "https://www.instagram.com/stolin_museum/"
+    ],
+    "address": "Столин, Советская ул., 127",
+    "work_time": {
+        "Понедельник": "Выходной",
+        "Вторник": "08:30 – 13:0013:30 – 17:00",
+        "Среда": "08:30 – 13:0013:30 – 17:00",
+        "Четверг": "08:30 – 13:0013:30 – 17:00",
+        "Пятница": "08:30 – 13:0013:30 – 17:00",
+        "Суббота": "08:30 – 13:0013:30 – 17:00",
+        "Воскресенье": "08:30 – 13:0013:30 – 17:00"
+    },
+    "features": null,
+    "rating": 3.1,
+    "attendance": {},
+    "number_of_votes": 10,
+    "number_of_review": 3,
+    "similar_objects": [
+        {
+            "object_id": 48436568359,
+            "object_name": "Краеведческий музей",
+            "object_link": "https://yandex.by/maps/org/stolinskiy_rayonny_krayevedcheskiy_muzey_uk/48436568359/"
+        }
+    ],
+    "reviews_info": {
+        "type_reviews": {
+            "отечественная война ": 1,
+            "хороший музей ": 2,
+            "краеведческие экспонаты ": 1,
+            "очень интересно ": 1
+        },
+        "reviews": [
+            {
+                "author_name": "Валерий Пашкевич",
+                "author_profession": 6,
+                "date": "2021-08-19",
+                "comment": "Несмотря на то, что экспозиция изменилась,все равно очень интересно. Я прихожу в музей и вспоминаю своё детство и юность.",
+                "author_url": "https://reviews.yandex.ru/user/b2q9839wqd54jeh0pcx6bnxgac",
+                "rating": 5
+            },
+            {
+                "author_name": "Дмитрий Чуркин",
+                "author_profession": 3,
+                "date": "2020-01-22",
+                "comment": "Хороший музей. Много экспонатов про великую отечественную войну. Отличные краеведческие экспонаты, где описана культура, быт того времени. Для такого маленького города как Столин, очень прекрасный музей. В России во многих маленьких городах даже такого нет.",
+                "author_url": "https://reviews.yandex.ru/user/acez1kuv2wuc267xkx40jg2zyw",
+                "rating": 5
+            },
+            {
+                "author_name": "Дмитрий Белоус",
+                "author_profession": 11,
+                "date": "2020-03-05",
+                "comment": "Не большой но доволи интересный",
+                "author_url": "https://reviews.yandex.ru/user/g556ee6j71bcwhh5eb3ave1fkm",
+                "rating": 4
+            }
+        ]
+    }
+}

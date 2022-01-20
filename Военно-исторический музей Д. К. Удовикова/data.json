@@ -1,0 +1,53 @@
+{
+    "object_name": "Военно-исторический музей Д. К. Удовикова",
+    "object_id": 1018985794,
+    "contact": [
+        "+375164431422"
+    ],
+    "business_url": "d-museum.by",
+    "object_category": "Музей",
+    "object_links": [
+        "http://vk.com/dwhm_im_udovikava"
+    ],
+    "address": "Дрогичин, ул. Ленина, 163",
+    "work_time": {
+        "Понедельник": "08:00 – 13:0014:00 – 17:00",
+        "Вторник": "08:00 – 13:0014:00 – 17:00",
+        "Среда": "08:00 – 13:0014:00 – 17:00",
+        "Четверг": "08:00 – 13:0014:00 – 17:00",
+        "Пятница": "08:00 – 13:0014:00 – 17:00",
+        "Суббота": "08:00 – 13:0014:00 – 17:00",
+        "Воскресенье": "08:00 – 13:0014:00 – 17:00"
+    },
+    "features": null,
+    "rating": 4.4,
+    "attendance": {},
+    "number_of_votes": null,
+    "number_of_review": 0,
+    "similar_objects": [
+        {
+            "object_id": 67426178917,
+            "object_name": "Бездежский фартушок",
+            "object_link": "https://yandex.by/maps/org/bezdezhskiy_fartushok/67426178917/"
+        },
+        {
+            "object_id": 112156510634,
+            "object_name": "ГУК районный музейный комплекс Наполеона Орды",
+            "object_link": "https://yandex.by/maps/org/guk_rayonny_muzeyny_kompleks_napoleona_ordy/112156510634/"
+        },
+        {
+            "object_id": 68490570320,
+            "object_name": "Музей Наполеона Орды",
+            "object_link": "https://yandex.by/maps/org/muzey_napoleona_ordy/68490570320/"
+        },
+        {
+            "object_id": 139397437662,
+            "object_name": "Бабушкины вышки",
+            "object_link": "https://yandex.by/maps/org/muzey_narodnoy_meditsiny_babushkiny_vyshki/139397437662/"
+        }
+    ],
+    "reviews_info": {
+        "type_reviews": {},
+        "reviews": []
+    }
+}

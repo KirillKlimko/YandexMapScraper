@@ -1,0 +1,39 @@
+{
+    "object_name": "Белыничский районный художественный музей имени В. К. Бялыницкого-Бирули",
+    "object_id": 1096785996,
+    "contact": [],
+    "business_url": null,
+    "object_category": "Музей",
+    "object_links": [
+        "https://vk.com/museum_biruli"
+    ],
+    "address": "Белыничи, Советская ул., 13А",
+    "work_time": {
+        "Понедельник": "08:00 – 17:00",
+        "Вторник": "08:00 – 17:00",
+        "Среда": "08:00 – 17:00",
+        "Четверг": "08:00 – 17:00",
+        "Пятница": "08:00 – 17:00",
+        "Суббота": "08:00 – 17:00",
+        "Воскресенье": "Выходной"
+    },
+    "features": null,
+    "rating": 3.9,
+    "attendance": {},
+    "number_of_votes": 6,
+    "number_of_review": 1,
+    "similar_objects": [],
+    "reviews_info": {
+        "type_reviews": {},
+        "reviews": [
+            {
+                "author_name": "Ден Рум",
+                "author_profession": 11,
+                "date": "2020-09-07",
+                "comment": "Хороший новый музей.",
+                "author_url": "https://reviews.yandex.ru/user/kyt49gqv46btx1k8rqwtnedkww",
+                "rating": 5
+            }
+        ]
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "object_name": "Государственный музей истории белорусcкой литературы",
+    "object_id": 1396487970,
+    "contact": [
+        "+375173635621",
+        "",
+        ""
+    ],
+    "business_url": "bellitmuseum.by",
+    "object_category": "Музей",
+    "object_links": [
+        "https://vk.com/bellitmuseum",
+        "https://www.facebook.com/bellitmuseum",
+        "https://www.instagram.com/bellitmuseum/",
+        "https://www.youtube.com/channel/UCsLvZ2XX8Ppuh2uRlfYHbFQ"
+    ],
+    "address": "ул. Максима Богдановича, 13",
+    "work_time": null,
+    "features": null,
+    "rating": 4.0,
+    "attendance": {},
+    "number_of_votes": null,
+    "number_of_review": 0,
+    "similar_objects": [
+        {
+            "object_id": 1045812099,
+            "object_name": "Музей Страна Мини",
+            "object_link": "https://yandex.by/maps/org/muzey_arkhitekturnykh_miniatyur_strana_mini/1045812099/"
+        }
+    ],
+    "reviews_info": {
+        "type_reviews": {},
+        "reviews": []
+    }
+}

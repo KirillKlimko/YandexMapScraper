@@ -1,0 +1,238 @@
+{
+    "object_name": "Историко-культурный музей-заповедник “Заславль”",
+    "object_id": 1067383453,
+    "contact": [
+        "+375175441057",
+        "+375175177611",
+        "+375175177612",
+        "+375175177613",
+        "+375175177614"
+    ],
+    "business_url": "www.zaslaue.by",
+    "object_category": "Музей",
+    "object_links": [
+        "http://ok.ru/muszaslavl",
+        "http://www.facebook.com/zaslauemuzei",
+        "http://www.instagram.com/museum_zaslaue",
+        "http://www.youtube.com/channel/UCwqJA1aZfu8_hLWAEBOzV2w"
+    ],
+    "address": "Заславль, Советский пер., 8",
+    "work_time": {
+        "Понедельник": "Выходной",
+        "Вторник": "08:30 – 16:30",
+        "Среда": "08:30 – 16:30",
+        "Четверг": "08:30 – 16:30",
+        "Пятница": "08:30 – 16:30",
+        "Суббота": "08:30 – 16:30",
+        "Воскресенье": "08:30 – 16:30"
+    },
+    "features": null,
+    "rating": 4.3,
+    "attendance": {},
+    "number_of_votes": 75,
+    "number_of_review": 17,
+    "similar_objects": [
+        {
+            "object_id": 1045812099,
+            "object_name": "Музей Страна Мини",
+            "object_link": "https://yandex.by/maps/org/muzey_arkhitekturnykh_miniatyur_strana_mini/1045812099/"
+        },
+        {
+            "object_id": 1080972170,
+            "object_name": "Музейно-выставочный комплекс",
+            "object_link": "https://yandex.by/maps/org/muzeyno_vystavochny_kompleks/1080972170/"
+        },
+        {
+            "object_id": 166881549306,
+            "object_name": "Дом завозника",
+            "object_link": "https://yandex.by/maps/org/dom_zavoznika/166881549306/"
+        },
+        {
+            "object_id": 227370660631,
+            "object_name": "Торговая лавка",
+            "object_link": "https://yandex.by/maps/org/torgovaya_lavka/227370660631/"
+        },
+        {
+            "object_id": 206463320942,
+            "object_name": "ДОТ",
+            "object_link": "https://yandex.by/maps/org/dot/206463320942/"
+        },
+        {
+            "object_id": 18250234728,
+            "object_name": "Детский музей мифологии и леса",
+            "object_link": "https://yandex.by/maps/org/detskiy_muzey_mifologii_i_lesa/18250234728/"
+        },
+        {
+            "object_id": 202436378192,
+            "object_name": "Замэчак",
+            "object_link": "https://yandex.by/maps/org/gorodishche_zamechak/202436378192/"
+        },
+        {
+            "object_id": 34923461260,
+            "object_name": "Кузница",
+            "object_link": "https://yandex.by/maps/org/kuznitsa/34923461260/"
+        },
+        {
+            "object_id": 120788668488,
+            "object_name": "Вал",
+            "object_link": "https://yandex.by/maps/org/val_gorodishcha/120788668488/"
+        },
+        {
+            "object_id": 1113103649,
+            "object_name": "Линия Сталина",
+            "object_link": "https://yandex.by/maps/org/istoriko_kulturny_kompleks_liniya_stalina/1113103649/"
+        }
+    ],
+    "reviews_info": {
+        "type_reviews": {
+            "городские линии ": 1,
+            "музей ": 4,
+            "хороший рассказ ": 2,
+            "экскурсия ": 7,
+            "атмосферное место ": 1,
+            "очень здорово ": 1,
+            "современные дети ": 1,
+            "белорусский язык ": 1,
+            "исторические здания ": 2,
+            "интересное место ": 5
+        },
+        "reviews": [
+            {
+                "author_name": "Дмитрий Молотков",
+                "author_profession": 30,
+                "date": "2021-12-19",
+                "comment": "Хороший этнокомплекс, на территории расположено несколько зданий, все открыты для посещения. Часть предметов можно трогать руками и опробовать в действии, интересно посетить с экскурсией. Хороший рассказ о быте и технологии, рекомендую.",
+                "author_url": "https://reviews.yandex.ru/user/rnv6nqp9nh7mmtk4248m63rwug",
+                "rating": 5
+            },
+            {
+                "author_name": "Мария Демьяненко",
+                "author_profession": 9,
+                "date": "2021-08-31",
+                "comment": "Спасибо большое Игорю за прекрасную индивидуальную экскурсию. Очень здорово, что она была на белорусском языке! Полное погружение, так сказать. Очень аутентично.",
+                "author_url": "https://reviews.yandex.ru/user/p3391bqh69wjhf67w1mxtebkp8",
+                "rating": 5
+            },
+            {
+                "author_name": "Дмитрий и Ольга Зайченко",
+                "author_profession": 4,
+                "date": "2021-07-04",
+                "comment": "Интересно зайти. Ездили с детьми из Минска на городских линиях. Музей совсем рядом с вокзалом. Дети на поезде покатались, по старой мельнице прошлись и в парке погуляли. Посещение недорогое: 3 рубля с человека, ещё и экскурсию бесплатную и интересную сделали!",
+                "author_url": "https://reviews.yandex.ru/user/m7qh8jtqgrutuwhrfnmcd1m438",
+                "rating": 5
+            },
+            {
+                "author_name": "Вера Позитивчик",
+                "author_profession": 5,
+                "date": "2021-09-30",
+                "comment": "Очень интересное место, рядом с минском, можно добраться как и на авто так и на электрички. Кроме этого рядом можно посмотреть и другие интересные места.",
+                "author_url": "https://reviews.yandex.ru/user/huy03xgf2rgxbcy30jqj53tzdg",
+                "rating": 5
+            },
+            {
+                "author_name": "Olga S",
+                "author_profession": 11,
+                "date": "2020-07-10",
+                "comment": "Посещаю не первый раз. Были с детьми. Не брали экскурсию. Но смотритель (смотрительница) рассказала все не хуже экскурсовода. Дети смогли все рассмотреть, все потрогать и жернова покрутили на мельнице и меха раздували в кузнк и ножи точили и все корзины на себя примерили и на полатях полежали. Все представили, все порасспрашивали. Очень полезно для современных детей. А рассказ смотрительница был настолько ярким, с колоритными белорусским словечками. Очень понравилось.",
+                "author_url": "https://reviews.yandex.ru/user/32jpx417wz9dx6muyb9zndv4kw",
+                "rating": 5
+            },
+            {
+                "author_name": "Воўк Вова",
+                "author_profession": 8,
+                "date": "2021-07-11",
+                "comment": "Написал отзыв па-беларуску - отклонили. Яндекс, вы работаете в Беларуси, прОсите отзыв о Заславле, беларуском городке, у нас два гос языка. Не буду отзыв писать.",
+                "author_url": "https://reviews.yandex.ru/user/qu0jr9138kzf2uuq2k7wvxcg9w",
+                "rating": 5
+            },
+            {
+                "author_name": "Andrey M.",
+                "author_profession": 2,
+                "date": "2022-01-17",
+                "comment": "Круто моя любимая экскурсия топ топ топ",
+                "author_url": "https://reviews.yandex.ru/user/5uk7ng9wg883dpyyzhpz6dk3bc",
+                "rating": 5
+            },
+            {
+                "author_name": "алексей",
+                "author_profession": 10,
+                "date": "2021-04-30",
+                "comment": "Очень интересное место. Обязательно посещать с экскурсоводом",
+                "author_url": "https://reviews.yandex.ru/user/ux4b961hvu7j9kc91wm8udbedr",
+                "rating": 5
+            },
+            {
+                "author_name": "Саша Г.",
+                "author_profession": 15,
+                "date": "2020-01-07",
+                "comment": "Очень атмосферное место. Мельница великолепна. Понимаешь что наши предки были очень умны. Видишь как были сделаны механизмы, как они взаимодействовали. Это великолепно.",
+                "author_url": "https://reviews.yandex.ru/user/m2cbwu3pkut3dzxh7y4pc2wvew",
+                "rating": 5
+            },
+            {
+                "author_name": "Людмила Игнатьева",
+                "author_profession": 6,
+                "date": "2021-07-15",
+                "comment": "Супер приятные сотрудники!! Спасибо)",
+                "author_url": "https://reviews.yandex.ru/user/kn164x838498f1q3t7621bx8gr",
+                "rating": 5
+            },
+            {
+                "author_name": "Евгений Будкин",
+                "author_profession": 10,
+                "date": "2019-12-19",
+                "comment": "Хорошее место, пропитанное стариной. Как же приятно, что такие места ещё сохранились. Будете в тех краях, посетите.",
+                "author_url": "https://reviews.yandex.ru/user/vdbzvtfw56n9x7c9tv7eypmjbr",
+                "rating": 5
+            },
+            {
+                "author_name": "aryna karshunova",
+                "author_profession": 4,
+                "date": "2021-06-25",
+                "comment": "Вельмі крутыя будынкі і цікавая мясціна.",
+                "author_url": "https://reviews.yandex.ru/user/eycz0yh6etxjxr4gcwgup6xe80",
+                "rating": 5
+            },
+            {
+                "author_name": "Елена Нефедова",
+                "author_profession": 12,
+                "date": "2018-08-16",
+                "comment": "Отличный музей! Состоит из четырех помещений: постоялый двор, мельница, амбар, дом кузнеца. Все это не реконструкция, а подлинные исторические здания.",
+                "author_url": "https://reviews.yandex.ru/user/2fx9xwff3fgjqnh89d1enxgua4",
+                "rating": 5
+            },
+            {
+                "author_name": "Эдуард Румянцев",
+                "author_profession": 8,
+                "date": "2020-08-10",
+                "comment": "Экскурсовод - милейшей души человек! от Души",
+                "author_url": "https://reviews.yandex.ru/user/z5rtkt3uyfth6c56j9x1chvp88",
+                "rating": 5
+            },
+            {
+                "author_name": "alex112134 неизвестно",
+                "author_profession": 12,
+                "date": "2019-04-23",
+                "comment": "Музей интересный (для провинциального города). Работники очень душевные.",
+                "author_url": "https://reviews.yandex.ru/user/c1wu8kj7wtkcv6x2hk79u8ynt0",
+                "rating": 4
+            },
+            {
+                "author_name": "Евгений Нестеренко",
+                "author_profession": 12,
+                "date": "2019-04-08",
+                "comment": "не правильно Яндекс карта показывает!. Будете в Заславле сходите и в мельницу и музей! копейки стоит, а впечатления останутся позитивные",
+                "author_url": "https://reviews.yandex.ru/user/9mduhw845tmv1px11anmmnn3ac",
+                "rating": 5
+            },
+            {
+                "author_name": "Max.Krukovsky",
+                "author_profession": 15,
+                "date": "2018-09-02",
+                "comment": "Весьма любопытно",
+                "author_url": "https://reviews.yandex.ru/user/cpvrk6fj12ebcbg0qgvu5tc4nc",
+                "rating": 5
+            }
+        ]
+    }
+}

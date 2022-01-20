@@ -1,0 +1,128 @@
+{
+    "object_name": "Витебский районный историко-краеведческий музей",
+    "object_id": 70034851617,
+    "contact": [
+        "+375212690570"
+    ],
+    "business_url": "vrgkm.museum.by",
+    "object_category": "Музей",
+    "object_links": [
+        "http://vk.com/beshmuz",
+        "https://www.instagram.com/vrgkm/"
+    ],
+    "address": "агрогородок Октябрьская, Солнечная ул., 1",
+    "work_time": {
+        "Понедельник": "Выходной",
+        "Вторник": "10:00 – 14:0014:30 – 19:00",
+        "Среда": "10:00 – 14:0014:30 – 19:00",
+        "Четверг": "10:00 – 14:0014:30 – 19:00",
+        "Пятница": "10:00 – 14:0014:30 – 19:00",
+        "Суббота": "10:00 – 14:0014:30 – 19:00",
+        "Воскресенье": "10:00 – 14:0014:30 – 19:00"
+    },
+    "features": null,
+    "rating": 4.1,
+    "attendance": {},
+    "number_of_votes": 25,
+    "number_of_review": 4,
+    "similar_objects": [
+        {
+            "object_id": 1211343506,
+            "object_name": "Зал спортивной славы Витебщины",
+            "object_link": "https://yandex.by/maps/org/zal_sportivnoy_slavy_vitebshchiny/1211343506/"
+        },
+        {
+            "object_id": 198528468353,
+            "object_name": "Выставка военной техники",
+            "object_link": "https://yandex.by/maps/org/ekspozitsiya_obraztsov_voyennoy_tekhniki/198528468353/"
+        },
+        {
+            "object_id": 72958159019,
+            "object_name": "Музей истории Витебского народного художественного училища",
+            "object_link": "https://yandex.by/maps/org/muzey_istorii_vitebskogo_narodnogo_khudozhestvennogo_uchilishcha/72958159019/"
+        },
+        {
+            "object_id": 1057023931,
+            "object_name": "Ратуша",
+            "object_link": "https://yandex.by/maps/org/ratusha/1057023931/"
+        },
+        {
+            "object_id": 1259346234,
+            "object_name": "Арт-центр Марка Шагала",
+            "object_link": "https://yandex.by/maps/org/art_tsentr_marka_shagala/1259346234/"
+        },
+        {
+            "object_id": 69146433838,
+            "object_name": "Экспозиция авиа и бронетехники",
+            "object_link": "https://yandex.by/maps/org/ekspozitsiya_sovremennoy_avia_i_bronetekhniki/69146433838/"
+        },
+        {
+            "object_id": 1006695322,
+            "object_name": "Музей современного искусства",
+            "object_link": "https://yandex.by/maps/org/vystavochny_zal_vitebskogo_tsentra_sovremennogo_iskusstva/1006695322/"
+        },
+        {
+            "object_id": 163531787849,
+            "object_name": "Художественный музей",
+            "object_link": "https://yandex.by/maps/org/khudozhestvenny_muzey/163531787849/"
+        },
+        {
+            "object_id": 1000692127,
+            "object_name": "Музей воинов-интернационалистов",
+            "object_link": "https://yandex.by/maps/org/vitebskiy_gorodskoy_muzey_voinov_internatsionalistov/1000692127/"
+        },
+        {
+            "object_id": 9848714794,
+            "object_name": "Церковно-археологический музей Витебской епархии",
+            "object_link": "https://yandex.by/maps/org/tserkovno_arkheologicheskiy_muzey_vitebskoy_yeparkhii/9848714794/"
+        }
+    ],
+    "reviews_info": {
+        "type_reviews": {
+            "отечественные события ": 1,
+            "уникальный музей ": 2,
+            "известный великан ": 1,
+            "хороший друг ": 1,
+            "тематические занятия ": 1,
+            "отличные сотрудники ": 1,
+            "неожиданные вещи ": 1,
+            "увлекательная форма ": 1,
+            "интересные выставки ": 3,
+            "замечательное место ": 1
+        },
+        "reviews": [
+            {
+                "author_name": "Андрей М.",
+                "author_profession": 6,
+                "date": "2021-05-14",
+                "comment": "За городом есть уникальный музей, который сможет рассказать в увлекательной форме про самые неожиданные вещи. Здесь и Витебские великаны, и машина времени, и всегла проводятся тематические занятия и выставки посвящённые важным мировым и отечественным событиям и трендам",
+                "author_url": "https://reviews.yandex.ru/user/h0bkvvnnycgjyhu4mrfhj26970",
+                "rating": 5
+            },
+            {
+                "author_name": "Павел Гороховский",
+                "author_profession": 11,
+                "date": "2021-02-03",
+                "comment": "Отличное место. Директор этого учреждения культуры мой хороший друг. В музее действует постоянная экспозиция посвященная известному великану Витебщины Федору Махнову, выставка посвященная произведениям Джуан Роллинг отприключениях Гарри Поттера и другие интересные выставки.",
+                "author_url": "https://reviews.yandex.ru/user/gorohovsky.pasha",
+                "rating": 5
+            },
+            {
+                "author_name": "Аня Л.",
+                "author_profession": 2,
+                "date": "2020-09-03",
+                "comment": "Интересные выставки, всегда что-то новенькое, отличные сотрудники!!!",
+                "author_url": "https://reviews.yandex.ru/user/eguyn2wpnd1pf3vype1mvgngzw",
+                "rating": 5
+            },
+            {
+                "author_name": "Natallia L.",
+                "author_profession": 3,
+                "date": "2020-05-04",
+                "comment": "Замечательное место!",
+                "author_url": "https://reviews.yandex.ru/user/hg8mfacg7pfz4f5btygw388apr",
+                "rating": 5
+            }
+        ]
+    }
+}

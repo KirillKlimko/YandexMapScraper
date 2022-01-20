@@ -1,0 +1,137 @@
+{
+    "object_name": "Литературный музей Максима Богдановича",
+    "object_id": 1043576978,
+    "contact": [
+        "+375173552295",
+        "+375173340761",
+        "+375173344269"
+    ],
+    "business_url": "bellitmuseum.by",
+    "object_category": "Музей",
+    "object_links": [
+        "https://facebook.com/maksimbagdanovich",
+        "https://vk.com/maksim_bagdanovich"
+    ],
+    "address": "ул. Максима Богдановича, 7А",
+    "work_time": {
+        "Понедельник": "10:00 – 18:30",
+        "Вторник": "10:00 – 18:30",
+        "Среда": "10:00 – 18:30",
+        "Четверг": "10:00 – 18:30",
+        "Пятница": "10:00 – 18:30",
+        "Суббота": "Выходной",
+        "Воскресенье": "Выходной"
+    },
+    "features": "Билеты:1 бел.руб.",
+    "rating": 4.3,
+    "attendance": {},
+    "number_of_votes": 42,
+    "number_of_review": 11,
+    "similar_objects": [
+        {
+            "object_id": 1045812099,
+            "object_name": "Музей Страна Мини",
+            "object_link": "https://yandex.by/maps/org/muzey_arkhitekturnykh_miniatyur_strana_mini/1045812099/"
+        }
+    ],
+    "reviews_info": {
+        "type_reviews": {
+            "потрясающие сотрудники ": 1,
+            "музей ": 6,
+            "современные технологии ": 1,
+            "национальные герои ": 1,
+            "отлично ": 2,
+            "экскурсовод ": 3
+        },
+        "reviews": [
+            {
+                "author_name": "Настя П.",
+                "author_profession": 4,
+                "date": "2022-01-05",
+                "comment": "Музей, который стоит посетить, чтобы ближе познакомиться с творчеством и жизнью поэта",
+                "author_url": "https://reviews.yandex.ru/user/1mqtb1mhba8j7af5j9rfd291m4",
+                "rating": 5
+            },
+            {
+                "author_name": "Богдан Штундер",
+                "author_profession": 2,
+                "date": "2022-01-17",
+                "comment": "Очень интересный музей про биографию Максима Богдановича",
+                "author_url": "https://reviews.yandex.ru/user/x7xa3nb7apbjun4p1mvzt36zfw",
+                "rating": 5
+            },
+            {
+                "author_name": "Юлия Чиркова",
+                "author_profession": 4,
+                "date": "2022-01-10",
+                "comment": "Очень понравилась экскурсия по музею🤩",
+                "author_url": "https://reviews.yandex.ru/user/90pv9735mewgarv89g9hj9a3qw",
+                "rating": 5
+            },
+            {
+                "author_name": "Никита",
+                "author_profession": 9,
+                "date": "2021-07-23",
+                "comment": "Сильно музей не удивит, но персонал очень приятный.",
+                "author_url": "https://reviews.yandex.ru/user/nikitavitkov",
+                "rating": 5
+            },
+            {
+                "author_name": "Максим Щербицкий",
+                "author_profession": 5,
+                "date": "2020-01-29",
+                "comment": "Экспозиция музея слабовата, но экскурсовод прекрасно это скрашивает. Без него там делать нечего.",
+                "author_url": "https://reviews.yandex.ru/user/t9wqha76mw7wrbn3xrn454jdtr",
+                "rating": 5
+            },
+            {
+                "author_name": "Светлана О.",
+                "author_profession": 7,
+                "date": "2020-01-06",
+                "comment": "Один из лучших музеев Минска! Потрясающие сотрудники, сделан с любовью",
+                "author_url": "https://reviews.yandex.ru/user/64nqqutvna5kqq10jx2yq6cf9r",
+                "rating": 5
+            },
+            {
+                "author_name": "АЛЕКСЕЙ",
+                "author_profession": 3,
+                "date": "2020-02-07",
+                "comment": "Хорошо оформлены экспозиции, есть интерактивная информация",
+                "author_url": "https://reviews.yandex.ru/user/85qvba1rm6wpch6gk68dca1jmg",
+                "rating": 5
+            },
+            {
+                "author_name": "Фёдор Ларионов",
+                "author_profession": 13,
+                "date": "2020-10-03",
+                "comment": "Интересно для любого возраста...",
+                "author_url": "https://reviews.yandex.ru/user/5zuw3u4qzbcnztnmauqw6hp7j4",
+                "rating": 5
+            },
+            {
+                "author_name": "Маргарита К.",
+                "author_profession": 4,
+                "date": "2019-05-23",
+                "comment": "Хорошие экскурсоводы. Современные технологии. Все отлично",
+                "author_url": "https://reviews.yandex.ru/user/6xythaatyeezbf5ad80caj6ugc",
+                "rating": 5
+            },
+            {
+                "author_name": "елена",
+                "author_profession": 28,
+                "date": "2020-11-16",
+                "comment": "Очень интересный",
+                "author_url": "https://reviews.yandex.ru/user/u95r925vpyjuc2y7p7tgcjhuvc",
+                "rating": 5
+            },
+            {
+                "author_name": "Ирина",
+                "author_profession": 16,
+                "date": "2019-08-16",
+                "comment": "Радостно, что у нас есть такие национальные герои.",
+                "author_url": "https://reviews.yandex.ru/user/tnmw861htr6x37rnr2jpar7z80",
+                "rating": 4
+            }
+        ]
+    }
+}

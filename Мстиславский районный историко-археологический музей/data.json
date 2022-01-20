@@ -1,0 +1,96 @@
+{
+    "object_name": "Мстиславский районный историко-археологический музей",
+    "object_id": 134806052018,
+    "contact": [
+        "+375224020015"
+    ],
+    "business_url": null,
+    "object_category": "Музей",
+    "object_links": [],
+    "address": "Мстиславль, ул. Калинина, 49",
+    "work_time": {
+        "Понедельник": "Выходной",
+        "Вторник": "08:00 – 13:0014:00 – 17:00",
+        "Среда": "08:00 – 13:0014:00 – 18:00",
+        "Четверг": "08:00 – 13:0014:00 – 18:00",
+        "Пятница": "08:00 – 13:0014:00 – 18:00",
+        "Суббота": "08:00 – 13:0014:00 – 17:00",
+        "Воскресенье": "10:00 – 15:00"
+    },
+    "features": null,
+    "rating": 4.1,
+    "attendance": {},
+    "number_of_votes": 18,
+    "number_of_review": 6,
+    "similar_objects": [
+        {
+            "object_id": 35999034249,
+            "object_name": "Дворец Потёмкина",
+            "object_link": "https://yandex.by/maps/org/dvorets_potyomkina/35999034249/"
+        },
+        {
+            "object_id": 76130529471,
+            "object_name": "Kryčaŭ District Homeland Museum",
+            "object_link": "https://yandex.by/maps/org/kry_a_district_homeland_museum/76130529471/"
+        }
+    ],
+    "reviews_info": {
+        "type_reviews": {
+            "внешний вид ": 1,
+            "экспозиция ": 3,
+            "квалифицированные смотрители-экскурсоводы ": 1,
+            "музей ": 6,
+            "вежливые работники ": 1
+        },
+        "reviews": [
+            {
+                "author_name": "Петр Л.",
+                "author_profession": 8,
+                "date": "2021-08-19",
+                "comment": "Очень не плохой районный музей. Экспозиция интересная, а внешний вид музея очень хороший. Особенно стоит отметить очень вежливых работников, и отдельное спасибо за увлекательную и позновательную экскурсию Юлии Игоревне)))",
+                "author_url": "https://reviews.yandex.ru/user/hymy5c1y0uvuc3ck3k3wygmxf4",
+                "rating": 5
+            },
+            {
+                "author_name": "Аleksandr Svedomski",
+                "author_profession": 5,
+                "date": "2020-08-29",
+                "comment": "Обязательно стоит посетить музей и узнать прошлое своего любимого города",
+                "author_url": "https://reviews.yandex.ru/user/v0c16mckp72654xybva2eknp04",
+                "rating": 5
+            },
+            {
+                "author_name": "Алексей ZZZ",
+                "author_profession": 3,
+                "date": "2020-01-07",
+                "comment": "Очень интересная экспозиция. Заказывали экскурсию сразу по музею и Замковой Горе",
+                "author_url": "https://reviews.yandex.ru/user/rrabjfqd0zzf6948kwn5kzy504",
+                "rating": 5
+            },
+            {
+                "author_name": "Aleks S.",
+                "author_profession": 4,
+                "date": "2020-11-28",
+                "comment": "Хороший музей и коллектив.",
+                "author_url": "https://reviews.yandex.ru/user/4krnh3ckepr4t43n8v23hakw1c",
+                "rating": 3
+            },
+            {
+                "author_name": "Нина Л.",
+                "author_profession": 3,
+                "date": "2018-08-03",
+                "comment": "Очень приятный музей! Квалифицированные смотрители-экскурсоводы. Достойная экспозиция. Советую посетить",
+                "author_url": "https://reviews.yandex.ru/user/pfe1btkebnq02vu5fu4u0a1u3m",
+                "rating": 5
+            },
+            {
+                "author_name": "Дмитрий Коротцов",
+                "author_profession": 6,
+                "date": "2020-09-10",
+                "comment": "Он самый , музей!!!",
+                "author_url": "https://reviews.yandex.ru/user/er994w67bfe61894j1cjaxfxcr",
+                "rating": 5
+            }
+        ]
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "object_name": "Осиповичский районный историко-краеведческий музей",
+    "object_id": 197617914637,
+    "contact": [
+        "+375223565277",
+        "+375223577293"
+    ],
+    "business_url": "osipovichi.museum.by",
+    "object_category": "Музей",
+    "object_links": [],
+    "address": "Осиповичи, Интернациональная ул., 48",
+    "work_time": {
+        "Понедельник": "09:00 – 18:00",
+        "Вторник": "09:00 – 18:00",
+        "Среда": "09:00 – 18:00",
+        "Четверг": "09:00 – 18:00",
+        "Пятница": "09:00 – 18:00",
+        "Суббота": "09:00 – 18:00",
+        "Воскресенье": "09:00 – 18:00"
+    },
+    "features": null,
+    "rating": 4.0,
+    "attendance": {},
+    "number_of_votes": 16,
+    "number_of_review": 2,
+    "similar_objects": [
+        {
+            "object_id": 16515877215,
+            "object_name": "Музей ремёсел",
+            "object_link": "https://yandex.by/maps/org/muzey_remyosel/16515877215/"
+        }
+    ],
+    "reviews_info": {
+        "type_reviews": {},
+        "reviews": [
+            {
+                "author_name": "Дмитирий Акилин",
+                "author_profession": 9,
+                "date": "2021-12-17",
+                "comment": "Часто бываю в городе,иногда посещаю музей. Память должна быть у людей на события тех лет. Что в музее и делают. Спасибо!",
+                "author_url": "https://reviews.yandex.ru/user/qktnp7bw54hneu41m4gfxc2vq4",
+                "rating": 5
+            },
+            {
+                "author_name": "Катя Г.",
+                "author_profession": 5,
+                "date": "2018-11-16",
+                "comment": "Всегда интересно.Радует то,что в музее всегда что-то новенькое",
+                "author_url": "https://reviews.yandex.ru/user/9g3mgf10w08tuvvp3ujx8wtax0",
+                "rating": 5
+            }
+        ]
+    }
+}

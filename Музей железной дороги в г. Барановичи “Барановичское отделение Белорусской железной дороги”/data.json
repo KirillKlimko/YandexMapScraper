@@ -1,0 +1,109 @@
+{
+    "object_name": "Музей железной дороги в г. Барановичи “Барановичское отделение Белорусской железной дороги”",
+    "object_id": 1058047310,
+    "contact": [
+        "+375163493145",
+        "+375163454564",
+        "+375163493353"
+    ],
+    "business_url": "www.baranovichi.rw.by",
+    "object_category": "Железнодорожные грузоперевозки",
+    "object_links": [
+        "https://twitter.com/belrw_official",
+        "https://vk.com/belrw_official",
+        "https://www.facebook.com/belrw.official",
+        "https://www.youtube.com/user/belarussianrailway"
+    ],
+    "address": "Барановичи, ул. Фроленкова, 54",
+    "work_time": {
+        "Понедельник": "08:00 – 12:0013:00 – 17:00",
+        "Вторник": "08:00 – 12:0013:00 – 17:00",
+        "Среда": "08:00 – 12:0013:00 – 17:00",
+        "Четверг": "08:00 – 12:0013:00 – 17:00",
+        "Пятница": "08:00 – 12:0013:00 – 17:00",
+        "Суббота": "Выходной",
+        "Воскресенье": "Выходной"
+    },
+    "features": null,
+    "rating": 4.1,
+    "attendance": {},
+    "number_of_votes": 41,
+    "number_of_review": 7,
+    "similar_objects": [
+        {
+            "object_id": 33160590626,
+            "object_name": "Авт-Сервис",
+            "object_link": "https://yandex.by/maps/org/avt_servis/33160590626/"
+        }
+    ],
+    "reviews_info": {
+        "type_reviews": {
+            "чудовищная машина ": 1,
+            "не удобный подъезд ": 1,
+            "дружный коллектив ": 1,
+            "маленький винтик ": 1,
+            "охраняемое место ": 1,
+            "диспетчерский аппарат ": 1,
+            "разбитые дороги ": 1,
+            "серьезные люди ": 1
+        },
+        "reviews": [
+            {
+                "author_name": "Олег Клявда",
+                "author_profession": 8,
+                "date": "2021-12-16",
+                "comment": "Здание управление Барановичского отделения , БЖД. Отсюда происходит управление поездами по всему отделению. Но в перспективе перевод диспетчерского аппарата в ЦУП. Дружный коллектив единомышленников.",
+                "author_url": "https://reviews.yandex.ru/user/zw16hf9fxv132v32m630pd1utc",
+                "rating": 5
+            },
+            {
+                "author_name": "Олег Тукай",
+                "author_profession": 10,
+                "date": "2022-01-01",
+                "comment": "Работают профессионалы!!!!",
+                "author_url": "https://reviews.yandex.ru/user/vgc5p54b2qmkzm7bh6hbh3ve3m",
+                "rating": 5
+            },
+            {
+                "author_name": "Иван С.",
+                "author_profession": 2,
+                "date": "2019-11-17",
+                "comment": "Для тех кто хочет работать здесь - не советую. Бюрократизм здесь зашкаливает, за человека тебя здесь никто не считает. Ты просто будешь маленьким винтиком в этой чудовищной машине. Хочешь долго жить в этом мире - лучше хорошо подумай.",
+                "author_url": "https://reviews.yandex.ru/user/j7gwrqm6kqqrdy64ha4hcbhvh8",
+                "rating": 1
+            },
+            {
+                "author_name": "мила ми",
+                "author_profession": 13,
+                "date": "2019-10-13",
+                "comment": "Как и любая госструктура со своими плюсами и минусами...",
+                "author_url": "https://reviews.yandex.ru/user/nvc5aef3rv2htahd3jqxnrtf80",
+                "rating": 3
+            },
+            {
+                "author_name": "ЖУКОВСКИЙ СЕРГЕЙ",
+                "author_profession": 12,
+                "date": "2019-09-09",
+                "comment": "Охраняемое место, серьёзные люди.",
+                "author_url": "https://reviews.yandex.ru/user/xacjhn02yw85rg9z3a5vfp9m78",
+                "rating": 4
+            },
+            {
+                "author_name": "Самый ТОП",
+                "author_profession": 6,
+                "date": "2019-07-31",
+                "comment": "Немного не удобный подъезд, разбитые дороги",
+                "author_url": "https://reviews.yandex.ru/user/adv1nwr1n7ejwkx1c133j2088m",
+                "rating": 4
+            },
+            {
+                "author_name": "Олег Симакович",
+                "author_profession": 5,
+                "date": "2020-02-23",
+                "comment": "Ну такое",
+                "author_url": "https://reviews.yandex.ru/user/51rbgcrxf1ktyacxv26nbk4tur",
+                "rating": 5
+            }
+        ]
+    }
+}

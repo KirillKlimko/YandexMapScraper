@@ -1,0 +1,64 @@
+{
+    "object_name": "Ивьевский музей национальных культур",
+    "object_id": 1033275841,
+    "contact": [
+        "+375159568035",
+        "+375159568036"
+    ],
+    "business_url": "ivye-museum.by",
+    "object_category": "Музей",
+    "object_links": [
+        "http://www.facebook.com/ivyemuseum",
+        "http://www.instagram.com/ivye_museum",
+        "http://www.youtube.com/channel/UCSeIpQ7mHp-E5JZFera9OQg",
+        "https://vk.com/club93873305"
+    ],
+    "address": "Ивье, ул. 17 Сентября, 9",
+    "work_time": {
+        "Понедельник": "Выходной",
+        "Вторник": "09:00 – 18:00",
+        "Среда": "09:00 – 18:00",
+        "Четверг": "09:00 – 18:00",
+        "Пятница": "09:00 – 18:00",
+        "Суббота": "09:00 – 18:00",
+        "Воскресенье": "09:00 – 18:00"
+    },
+    "features": "Билеты:1–2 бел.руб.",
+    "rating": 4.0,
+    "attendance": {},
+    "number_of_votes": 9,
+    "number_of_review": 2,
+    "similar_objects": [
+        {
+            "object_id": 8680173691,
+            "object_name": "Усадьба Знахаря",
+            "object_link": "https://yandex.by/maps/org/dom_muzey_usadba_znakharya/8680173691/"
+        },
+        {
+            "object_id": 181628522428,
+            "object_name": "Музей",
+            "object_link": "https://yandex.by/maps/org/muzey/181628522428/"
+        }
+    ],
+    "reviews_info": {
+        "type_reviews": {},
+        "reviews": [
+            {
+                "author_name": "Дмитрий Дмитрий",
+                "author_profession": 13,
+                "date": "2021-11-23",
+                "comment": "Был пару часов в этом замечательном городе, решил скоротать время в музее, но одному там находится неловко, когда сзади ходит смотрительница, по-быстрому пробежал и уехаил, но суть музея - во всем виноваты евреи",
+                "author_url": "https://reviews.yandex.ru/user/6j37hm0fzx1zk55mewtx9mtz18",
+                "rating": 5
+            },
+            {
+                "author_name": "Misha109",
+                "author_profession": 8,
+                "date": "2022-01-16",
+                "comment": "В музее ,как для города ивье, много экспанатов , много залов, хороший персонал",
+                "author_url": "https://reviews.yandex.ru/user/7k8v7ez34nzrrfj010u4crp8xw",
+                "rating": 5
+            }
+        ]
+    }
+}

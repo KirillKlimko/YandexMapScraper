@@ -1,0 +1,109 @@
+{
+    "object_name": "Бобруйский художественный музей",
+    "object_id": 1158663064,
+    "contact": [
+        "+375225764864",
+        "+375225732808",
+        "+375225732678",
+        "+375225708811",
+        "+375225732882"
+    ],
+    "business_url": "artbobruisk.museum.by",
+    "object_category": "Музей",
+    "object_links": [
+        "http://vk.com/art_bobruisk",
+        "http://www.instagram.com/art_bobruisk"
+    ],
+    "address": "Бобруйск, ул. Максима Горького, 28",
+    "work_time": {
+        "Понедельник": "Выходной",
+        "Вторник": "Выходной",
+        "Среда": "10:00 – 18:00",
+        "Четверг": "10:00 – 18:00",
+        "Пятница": "10:00 – 18:00",
+        "Суббота": "10:00 – 18:00",
+        "Воскресенье": "10:00 – 18:00"
+    },
+    "features": "Билеты:1–2 бел.руб.",
+    "rating": 3.8,
+    "attendance": {},
+    "number_of_votes": 23,
+    "number_of_review": 5,
+    "similar_objects": [
+        {
+            "object_id": 1687624776,
+            "object_name": "Художественный музей им. Поплавского",
+            "object_link": "https://yandex.by/maps/org/khudozhestvenny_muzey_im_poplavskogo/1687624776/"
+        },
+        {
+            "object_id": 217874871009,
+            "object_name": "Музей Олимпийской славы",
+            "object_link": "https://yandex.by/maps/org/muzey_olimpiyskoy_slavy/217874871009/"
+        },
+        {
+            "object_id": 225636726236,
+            "object_name": "Бобруйский краеведческий музей",
+            "object_link": "https://yandex.by/maps/org/bobruyskiy_krayevedcheskiy_muzey/225636726236/"
+        },
+        {
+            "object_id": 1228696066,
+            "object_name": "Краеведческий музей",
+            "object_link": "https://yandex.by/maps/org/krayevedcheskiy_muzey/1228696066/"
+        },
+        {
+            "object_id": 1059214635,
+            "object_name": "Музей Бобруйского района",
+            "object_link": "https://yandex.by/maps/org/bobruyskiy_rayonny_istoriko_krayevedcheskiy_muzey/1059214635/"
+        }
+    ],
+    "reviews_info": {
+        "type_reviews": {
+            "советский союз ": 1,
+            "выставочный зал ": 1,
+            "просто интересно ": 1,
+            "приветливый персонал ": 1
+        },
+        "reviews": [
+            {
+                "author_name": "Olga Ag",
+                "author_profession": 4,
+                "date": "2021-11-26",
+                "comment": "Была только раз. Очень впечатлил. На улице ощущение застывшего времени. Ощущение Советского Союза. Немноголюдно.Тихо.А внутри современно и прогресивно. Словно перешагиваешь из одного времени в другое. Как путешествие на машине времени. Советую всем! К посещению обязательно!",
+                "author_url": "https://reviews.yandex.ru/user/jejmtqnf66d1e6ncayf185r8n4",
+                "rating": 5
+            },
+            {
+                "author_name": "Елена",
+                "author_profession": 6,
+                "date": "2020-11-26",
+                "comment": "Красивый выставочный зал. Хорошие выставки. Приветливый персонал",
+                "author_url": "https://reviews.yandex.ru/user/8ag7gk1ehz256gegukkhg3gm5r",
+                "rating": 5
+            },
+            {
+                "author_name": "Андрей",
+                "author_profession": 4,
+                "date": "2020-07-02",
+                "comment": "Приятно прогуляться по площади и зайти в храм исскуства",
+                "author_url": "https://reviews.yandex.ru/user/0kkqme14u6a6ex59np8cbb0rwm",
+                "rating": 4
+            },
+            {
+                "author_name": "Ольга Момот",
+                "author_profession": 11,
+                "date": "2020-01-09",
+                "comment": "Нет ничего интересного, не понимаю в чем смысл и для чего он нужен.",
+                "author_url": "https://reviews.yandex.ru/user/f081zhn2q1xz4j11pcu445ekw8",
+                "rating": 1
+            },
+            {
+                "author_name": "Андрей Пищик",
+                "author_profession": 6,
+                "date": "2020-01-04",
+                "comment": "Просто интересно.",
+                "author_url": "https://reviews.yandex.ru/user/0tkmta2arqca95n52nbqqwyb40",
+                "rating": 5
+            }
+        ]
+    }
+}

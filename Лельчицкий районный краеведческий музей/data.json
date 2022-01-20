@@ -1,0 +1,55 @@
+{
+    "object_name": "Лельчицкий районный краеведческий музей",
+    "object_id": 111469919416,
+    "contact": [
+        "+375235650323",
+        "+7(08356)50323"
+    ],
+    "business_url": "lelchitsy.museum.by",
+    "object_category": "Музей",
+    "object_links": [
+        "https://vk.com/muzey90"
+    ],
+    "address": "Лельчицы, Красноармейская ул., 1",
+    "work_time": {
+        "Понедельник": "Выходной",
+        "Вторник": "08:30 – 13:0014:00 – 17:30",
+        "Среда": "08:30 – 13:0014:00 – 17:30",
+        "Четверг": "08:30 – 13:0014:00 – 17:30",
+        "Пятница": "08:30 – 13:0014:00 – 17:30",
+        "Суббота": "08:30 – 13:0014:00 – 17:30",
+        "Воскресенье": "08:30 – 13:0014:00 – 17:30"
+    },
+    "features": null,
+    "rating": 4.0,
+    "attendance": {},
+    "number_of_votes": 16,
+    "number_of_review": 2,
+    "similar_objects": [],
+    "reviews_info": {
+        "type_reviews": {
+            "красивые экспозиции ": 1,
+            "сувенирная лавка ": 1,
+            "хороший музей ": 1,
+            "интересные экскурсии ": 1
+        },
+        "reviews": [
+            {
+                "author_name": "Анастасия",
+                "author_profession": 8,
+                "date": "2020-03-13",
+                "comment": "Очень хороший музей. Красивые экспозиции, интересные экскурсии. Так же имеется хорошая сувенирная лавка.",
+                "author_url": "https://reviews.yandex.ru/user/gtfv0na66zyuzec3qur9jrv1mc",
+                "rating": 5
+            },
+            {
+                "author_name": "Дмитрий Андриковец",
+                "author_profession": 7,
+                "date": "2020-08-21",
+                "comment": "Такое себе",
+                "author_url": "https://reviews.yandex.ru/user/96k7bexye42m6kp5p8zwxaqv6m",
+                "rating": 5
+            }
+        ]
+    }
+}

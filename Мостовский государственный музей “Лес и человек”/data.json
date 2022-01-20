@@ -1,0 +1,57 @@
+{
+    "object_name": "Мостовский государственный музей “Лес и человек”",
+    "object_id": 1108833728,
+    "contact": [],
+    "business_url": "лес-и-человек.бел",
+    "object_category": "Музей",
+    "object_links": [],
+    "address": "Мосты, Советская ул., 34",
+    "work_time": {},
+    "features": null,
+    "rating": 2.8,
+    "attendance": {},
+    "number_of_votes": 8,
+    "number_of_review": 2,
+    "similar_objects": [
+        {
+            "object_id": 50906374087,
+            "object_name": "Бункер 77",
+            "object_link": "https://yandex.by/maps/org/muzey_kholodnoy_voyny_bunker_77/50906374087/"
+        },
+        {
+            "object_id": 1067140995,
+            "object_name": "Военно-исторический музей",
+            "object_link": "https://yandex.by/maps/org/volkovysskiy_voyenno_istoricheskiy_muzey_imeni_p_i_bagrationa/1067140995/"
+        },
+        {
+            "object_id": 195638005382,
+            "object_name": "Музей Элизы Ожешко",
+            "object_link": "https://yandex.by/maps/org/muzey_elizy_ozheshko/195638005382/"
+        }
+    ],
+    "reviews_info": {
+        "type_reviews": {
+            "профессиональные сотрудники ": 1,
+            "интересные выставки ": 1,
+            "интересные экскурсии ": 1
+        },
+        "reviews": [
+            {
+                "author_name": "Татьяна",
+                "author_profession": 5,
+                "date": "2021-11-17",
+                "comment": "Периодически приезжают интересные выставки, ну и персонал там отличный",
+                "author_url": "https://reviews.yandex.ru/user/e824u6bpmghu6t90fejtm7f53m",
+                "rating": 5
+            },
+            {
+                "author_name": "Александр Шевчик",
+                "author_profession": 12,
+                "date": "2019-12-18",
+                "comment": "Интересные экскурсии. Профессиональные сотрудники, работающие часто на энтузиазм.",
+                "author_url": "https://reviews.yandex.ru/user/7dnfr30wy0fmk0znra21pr3kjr",
+                "rating": 4
+            }
+        ]
+    }
+}

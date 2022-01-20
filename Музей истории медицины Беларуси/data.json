@@ -1,0 +1,86 @@
+{
+    "object_name": "Музей истории медицины Беларуси",
+    "object_id": 1008605435,
+    "contact": [],
+    "business_url": "rsml.med.by",
+    "object_category": "Музей",
+    "object_links": [
+        "http://instagram.com/medlibrary_minsk",
+        "http://www.facebook.com/pages/%D0%A0%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B0%D0%BD%D1%81%D0%BA%D0%B0%D1%8F-%D0%BD%D0%B0%D1%83%D1%87%D0%BD%D0%B0%D1%8F-%D0%BC%D0%B5%D0%B4%D0%B8%D1%86%D0%B8%D0%BD%D1%81%D0%BA%D0%B0%D1%8F-%D0%B1%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B0-RSML/280649658659705",
+        "https://vk.com/club21388306",
+        "https://www.youtube.com/channel/UCbSwyiGfqurmmvz5eJSQteg"
+    ],
+    "address": "ул. Фабрициуса, 28",
+    "work_time": {
+        "Понедельник": "10:00 – 12:4013:00 – 17:15",
+        "Вторник": "10:00 – 12:4013:00 – 17:15",
+        "Среда": "10:00 – 12:4013:00 – 17:15",
+        "Четверг": "10:00 – 12:4013:00 – 17:15",
+        "Пятница": "10:00 – 12:4013:00 – 16:00",
+        "Суббота": "Выходной",
+        "Воскресенье": "Выходной"
+    },
+    "features": null,
+    "rating": 4.1,
+    "attendance": {},
+    "number_of_votes": 11,
+    "number_of_review": 5,
+    "similar_objects": [
+        {
+            "object_id": 1045812099,
+            "object_name": "Музей Страна Мини",
+            "object_link": "https://yandex.by/maps/org/muzey_arkhitekturnykh_miniatyur_strana_mini/1045812099/"
+        }
+    ],
+    "reviews_info": {
+        "type_reviews": {
+            "замечательный музей ": 1,
+            "компетентные сотрудники ": 1,
+            "медицинская тематика ": 1,
+            "подобная тема ": 1,
+            "белорусская медицина ": 1
+        },
+        "reviews": [
+            {
+                "author_name": "Таня К.",
+                "author_profession": 5,
+                "date": "2020-07-09",
+                "comment": "Много интересных экспонатов и очень компетентные сотрудники!",
+                "author_url": "https://reviews.yandex.ru/user/u1a8averk5986858m31hz1n6vc",
+                "rating": 5
+            },
+            {
+                "author_name": "Александра Рагалевич",
+                "author_profession": 10,
+                "date": "2020-07-21",
+                "comment": "Находится вблизи бел медпрепоатов, в нем можно узнать всё об истории белорусской медицины.",
+                "author_url": "https://reviews.yandex.ru/user/72m08f198zgpmfrtqe9mnazgvg",
+                "rating": 5
+            },
+            {
+                "author_name": "Мария Харитонова",
+                "author_profession": 7,
+                "date": "2020-03-31",
+                "comment": "Замечательный музей для тех, кому интерестна медицинская тематика",
+                "author_url": "https://reviews.yandex.ru/user/r8pgww241jrrpex8x9t4n9kqqm",
+                "rating": 5
+            },
+            {
+                "author_name": "Анна Чон",
+                "author_profession": 6,
+                "date": "2020-03-31",
+                "comment": "если нравится подобная тема, то можно и сходить",
+                "author_url": "https://reviews.yandex.ru/user/q79uj3x031gy1t2p8bj4uxw5br",
+                "rating": 4
+            },
+            {
+                "author_name": "Ирина Назарова",
+                "author_profession": 5,
+                "date": "2019-11-14",
+                "comment": "Стоит сходить, интересно.",
+                "author_url": "https://reviews.yandex.ru/user/c8jjkx87ncwyncehu3qb0mt1tw",
+                "rating": 5
+            }
+        ]
+    }
+}

@@ -1,0 +1,99 @@
+{
+    "object_name": "Червенский районный краеведческий музей",
+    "object_id": 1022438853,
+    "contact": [],
+    "business_url": null,
+    "object_category": "Музей",
+    "object_links": [],
+    "address": "Червень, площадь Свободы, 8",
+    "work_time": {
+        "Понедельник": "Выходной",
+        "Вторник": "10:00 – 13:0014:00 – 18:00",
+        "Среда": "10:00 – 13:0014:00 – 18:00",
+        "Четверг": "10:00 – 13:0014:00 – 18:00",
+        "Пятница": "10:00 – 13:0014:00 – 18:00",
+        "Суббота": "10:00 – 13:0014:00 – 18:00",
+        "Воскресенье": "10:00 – 13:0014:00 – 18:00"
+    },
+    "features": null,
+    "rating": 3.9,
+    "attendance": {},
+    "number_of_votes": 12,
+    "number_of_review": 6,
+    "similar_objects": [
+        {
+            "object_id": 1216879817,
+            "object_name": "Художественная Галерея отдел ГУ Пуховичский Районный Краеведческий Музей",
+            "object_link": "https://yandex.by/maps/org/khudozhestvennaya_galereya_otdel_gu_pukhovichskiy_rayonny_krayevedcheskiy_muzey/1216879817/"
+        },
+        {
+            "object_id": 104484103435,
+            "object_name": "Краеведческий музей",
+            "object_link": "https://yandex.by/maps/org/pukhovichskiy_rayonny_krayevedcheskiy_muzey/104484103435/"
+        },
+        {
+            "object_id": 19115135448,
+            "object_name": "Музей В.Ф. Купревича",
+            "object_link": "https://yandex.by/maps/org/muzey_v_f_kuprevicha/19115135448/"
+        }
+    ],
+    "reviews_info": {
+        "type_reviews": {
+            "внешний вид ": 1,
+            "новая экспозиция ": 1,
+            "новое здание ": 1,
+            "интересные выставки ": 1,
+            "музей ": 4
+        },
+        "reviews": [
+            {
+                "author_name": "camp@tut.by",
+                "author_profession": 4,
+                "date": "2021-11-26",
+                "comment": "У нас новый музей, новая экспозиция, и большое количество интересных выставок!",
+                "author_url": "https://reviews.yandex.ru/user/hf6mhe4gzup0cee22921p96kgm",
+                "rating": 5
+            },
+            {
+                "author_name": "Оксана",
+                "author_profession": 8,
+                "date": "2020-12-05",
+                "comment": "Музей у нас новый!!! Побывать нужно ещё.",
+                "author_url": "https://reviews.yandex.ru/user/k4rxqf8u205an543r68jpauag0",
+                "rating": 5
+            },
+            {
+                "author_name": "Владимир Братченя",
+                "author_profession": 7,
+                "date": "2020-03-03",
+                "comment": "Идёт строительство нового здания музея. Пока внешний вид впечатляет!",
+                "author_url": "https://reviews.yandex.ru/user/n8tht3c81e53mqf06uu53f0ey4",
+                "rating": 5
+            },
+            {
+                "author_name": "Борис Б.",
+                "author_profession": 4,
+                "date": "2020-06-13",
+                "comment": "Закрыт на ремонт",
+                "author_url": "https://reviews.yandex.ru/user/4r70zw304bcggzxby13z35m06m",
+                "rating": 1
+            },
+            {
+                "author_name": "Любовь Джафарова",
+                "author_profession": 9,
+                "date": "2019-09-22",
+                "comment": "Его практически нету",
+                "author_url": "https://reviews.yandex.ru/user/53u5rh6pycy8z8qgvundgcq46g",
+                "rating": 1
+            },
+            {
+                "author_name": "Анастасия Рабкина",
+                "author_profession": 6,
+                "date": "2018-09-21",
+                "comment": "Интересный музей",
+                "author_url": "https://reviews.yandex.ru/user/0hu3jnkk8m3urfacpbeztxeynm",
+                "rating": 5
+            }
+        ]
+    }
+}

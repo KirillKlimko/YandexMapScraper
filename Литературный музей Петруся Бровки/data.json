@@ -1,0 +1,34 @@
+{
+    "object_name": "Литературный музей Петруся Бровки",
+    "object_id": 1013761246,
+    "contact": [
+        "+375173639750",
+        ""
+    ],
+    "business_url": "brouka.museum.by",
+    "object_category": "Музей",
+    "object_links": [
+        "http://facebook.com/museum.brovka",
+        "http://instagram.com/museum_brovka",
+        "http://vk.com/museum_brovka",
+        "http://youtube.com/channel/UCCPZqEFRqUwU6vLrTJ1ENmw"
+    ],
+    "address": "ул. Карла Маркса, 30",
+    "work_time": null,
+    "features": "Билеты:3–5 бел.руб.",
+    "rating": 4.0,
+    "attendance": {},
+    "number_of_votes": null,
+    "number_of_review": 0,
+    "similar_objects": [
+        {
+            "object_id": 1045812099,
+            "object_name": "Музей Страна Мини",
+            "object_link": "https://yandex.by/maps/org/muzey_arkhitekturnykh_miniatyur_strana_mini/1045812099/"
+        }
+    ],
+    "reviews_info": {
+        "type_reviews": {},
+        "reviews": []
+    }
+}

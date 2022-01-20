@@ -1,0 +1,68 @@
+{
+    "object_name": "Брагинский исторический музей с картинной галереей",
+    "object_id": 1129201355,
+    "contact": [
+        "+375234439321",
+        "+375234421121",
+        "+375234439341",
+        "+375234421841"
+    ],
+    "business_url": "bragin.museum.by",
+    "object_category": "Музей",
+    "object_links": [
+        "https://ok.ru/group/52580754653394"
+    ],
+    "address": "Брагин, Советская ул., 79",
+    "work_time": {
+        "Понедельник": "Выходной",
+        "Вторник": "09:00 – 18:00",
+        "Среда": "09:00 – 18:00",
+        "Четверг": "09:00 – 18:00",
+        "Пятница": "09:00 – 18:00",
+        "Суббота": "09:00 – 18:00",
+        "Воскресенье": "Выходной"
+    },
+    "features": "Музей:общеисторический, театральный, изобразительное искусство",
+    "rating": 3.7,
+    "attendance": {},
+    "number_of_votes": 15,
+    "number_of_review": 2,
+    "similar_objects": [
+        {
+            "object_id": 200095195151,
+            "object_name": "Замчище",
+            "object_link": "https://yandex.by/maps/org/zamchishche/200095195151/"
+        },
+        {
+            "object_id": 35616754936,
+            "object_name": "Усадебный дом Ваньковичей",
+            "object_link": "https://yandex.by/maps/org/usadebny_dom_vankovichey/35616754936/"
+        },
+        {
+            "object_id": 222620546378,
+            "object_name": "Бровар",
+            "object_link": "https://yandex.by/maps/org/brovar/222620546378/"
+        }
+    ],
+    "reviews_info": {
+        "type_reviews": {},
+        "reviews": [
+            {
+                "author_name": "Вечеслав К.",
+                "author_profession": 9,
+                "date": "2021-03-16",
+                "comment": "Можна посетить",
+                "author_url": "https://reviews.yandex.ru/user/zrfgjn0ay0xtgjk6t8rxkde0vg",
+                "rating": 4
+            },
+            {
+                "author_name": "Оксана Порутчик",
+                "author_profession": 6,
+                "date": "2019-03-17",
+                "comment": "Есть на что посмотреть.",
+                "author_url": "https://reviews.yandex.ru/user/dtrxeu3v0zcnu7av0fchmueth8",
+                "rating": 4
+            }
+        ]
+    }
+}

@@ -1,0 +1,270 @@
+{
+    "object_name": "Дом-музей Адама Мицкевича в Новогрудке",
+    "object_id": 1107315174,
+    "contact": [
+        "+375159724340",
+        "+375159734210",
+        "+375159734212",
+        "+375159734211",
+        "+375159724243",
+        "+375159723267"
+    ],
+    "business_url": "www.mickiewicz-museum.narod.ru",
+    "object_category": "Музей",
+    "object_links": [
+        "http://vk.com/public114921212",
+        "https://www.facebook.com/dommickiewicz/",
+        "https://www.instagram.com/ukdommuzei/"
+    ],
+    "address": "Новогрудок, ул. Ленина, 1",
+    "work_time": {
+        "Понедельник": "Выходной",
+        "Вторник": "09:00 – 18:00",
+        "Среда": "09:00 – 18:00",
+        "Четверг": "09:00 – 18:00",
+        "Пятница": "09:00 – 18:00",
+        "Суббота": "09:00 – 18:00",
+        "Воскресенье": "09:00 – 18:00"
+    },
+    "features": null,
+    "rating": 4.2,
+    "attendance": {},
+    "number_of_votes": 79,
+    "number_of_review": 21,
+    "similar_objects": [
+        {
+            "object_id": 210475398083,
+            "object_name": "Новогрудский замок",
+            "object_link": "https://yandex.by/maps/org/novogrudskiy_zamok/210475398083/"
+        },
+        {
+            "object_id": 1105126386,
+            "object_name": "Историко-краеведческий музей",
+            "object_link": "https://yandex.by/maps/org/istoriko_krayevedcheskiy_muzey/1105126386/"
+        },
+        {
+            "object_id": 202558722538,
+            "object_name": "Усадьба К. Качана",
+            "object_link": "https://yandex.by/maps/org/kartinnaya_galereya_kastusya_kachana/202558722538/"
+        },
+        {
+            "object_id": 166195543114,
+            "object_name": "Аллея фонарей",
+            "object_link": "https://yandex.by/maps/org/alleya_fonarey/166195543114/"
+        },
+        {
+            "object_id": 44781075025,
+            "object_name": "Торговые ряды",
+            "object_link": "https://yandex.by/maps/org/torgovyye_ryady/44781075025/"
+        },
+        {
+            "object_id": 196595250186,
+            "object_name": "Гора Миндовга",
+            "object_link": "https://yandex.by/maps/org/gora_mindovga/196595250186/"
+        },
+        {
+            "object_id": 165144987656,
+            "object_name": "Музей еврейского сопротивления",
+            "object_link": "https://yandex.by/maps/org/muzey_yevreyskogo_soprotivleniya/165144987656/"
+        },
+        {
+            "object_id": 127311351690,
+            "object_name": "Литовка",
+            "object_link": "https://yandex.by/maps/org/fentezi_usadba_litovka/127311351690/"
+        },
+        {
+            "object_id": 18541312568,
+            "object_name": "Костёльная башня",
+            "object_link": "https://yandex.by/maps/org/kostyolnaya_bashnya/18541312568/"
+        },
+        {
+            "object_id": 219420416708,
+            "object_name": "Штаны",
+            "object_link": "https://yandex.by/maps/org/novogrudskiye_shtany/219420416708/"
+        }
+    ],
+    "reviews_info": {
+        "type_reviews": {
+            "душевное место ": 1,
+            "отличная атмосфера ": 3,
+            "писатель ": 1,
+            "дружеские отношения ": 1,
+            "прекрасное место ": 2,
+            "приятный персонал ": 1,
+            "родной край ": 1,
+            "экскурсия ": 8,
+            "ухоженная усадьба ": 1,
+            "музей ": 8
+        },
+        "reviews": [
+            {
+                "author_name": "Николай Чиж",
+                "author_profession": 11,
+                "date": "2021-08-10",
+                "comment": "Очень камерный музей! Отличная атмосфера, попытка передать элементы условий жизни, с некоторыми деталями личности великого писателя и гражданина Мира! Однако, вот есть нюанс: сейчас экскурсии представляют из себя своего рода отредактированный сюжет. Почему? Все мы знаем почему: Адам Мицкевич, был всегда за независимость нашей страны, был в авангарде всех движений за независимость, за что платил изгнанием с Родины, но про это ни слова. Верю, что будет то время, когда народу историю перестанут коверкать и искажать, преподнося состоявшийся факт. Грустно от этого и ни очень понятно зачем, в такой ситуации вообще проводить экскурсии по музею, если мы не можем узнать о личности писателя и поэта!",
+                "author_url": "https://reviews.yandex.ru/user/wmbq8raxacmz0fbb9fcypk4gtc",
+                "rating": 5
+            },
+            {
+                "author_name": "Лиза",
+                "author_profession": 14,
+                "date": "2021-11-20",
+                "comment": "Прекрасное место. Гордость берет, что у нас в стране умеют делать такие музеи. Очень аутентичный, стильный. Экскурсовод супер профессионал который с большой любовью относится кисточки своего родного края и местного героя. Интересный проект музея, как оказалось основное здание соеденино с хозпостройкой (в которой сейчас зал для мероприятий) подземным переходом. Однозначно рекомендую к посещению.",
+                "author_url": "https://reviews.yandex.ru/user/rpy395p88uyy7b01w080weyc6g",
+                "rating": 5
+            },
+            {
+                "author_name": "Вячеслав Усков",
+                "author_profession": 8,
+                "date": "2021-09-23",
+                "comment": "Любопытное место в уютном г Новогрудок. До его посещения я не был в курсе о беларусского- польском писатиле Адеме Мицкевиче. Советую всем посетить это место и вы узнаете о жизни интересного человека который был современником Пушкина и его другом. Экскурсия достаточно постепенно проходит, у кого мало терпения или не любит погружаться в историю не советую",
+                "author_url": "https://reviews.yandex.ru/user/q21y4qubnjxn16vxr68kdj7a7g",
+                "rating": 5
+            },
+            {
+                "author_name": "Екатерина Сапега",
+                "author_profession": 9,
+                "date": "2021-05-15",
+                "comment": "Одно из самых известных и красивых мест в Новогрудке,побывавшие там хоть раз,точно захотят вернуться ещё и ещё в музей,прикоснуться и окунуться к тому времени когда жил Адам Мицкевич.",
+                "author_url": "https://reviews.yandex.ru/user/144d2rz6805z77vpwz7hx1k45r",
+                "rating": 5
+            },
+            {
+                "author_name": "Светлана Г.",
+                "author_profession": 3,
+                "date": "2021-06-07",
+                "comment": "Душевное место. Замечательная экскурсия.\nОчень трогает отношение сотрудников музея к посетителям.",
+                "author_url": "https://reviews.yandex.ru/user/0m8a3xq2c3uchdf4eyz1h1kqhg",
+                "rating": 5
+            },
+            {
+                "author_name": "Tatiana Myshkalik",
+                "author_profession": 16,
+                "date": "2020-06-16",
+                "comment": "Интесно посетить и 10 раз подряд,много познавательного и увлекательного,хорошо акунутся в атмосферу жизни музея.",
+                "author_url": "https://reviews.yandex.ru/user/2j1y0we7zxwqygp3nbt9vxnzrr",
+                "rating": 5
+            },
+            {
+                "author_name": "Inna L.",
+                "author_profession": 3,
+                "date": "2021-06-14",
+                "comment": "Очень интересная экскурсия! Обязательно к посещению!)",
+                "author_url": "https://reviews.yandex.ru/user/nfuyq2gcmdrf40buvacvm69ve4",
+                "rating": 5
+            },
+            {
+                "author_name": "Вася",
+                "author_profession": 3,
+                "date": "2021-10-11",
+                "comment": "Супер городок я восторге",
+                "author_url": "https://reviews.yandex.ru/user/gjkng5u00waf7zhmgqjqywgcmw",
+                "rating": 5
+            },
+            {
+                "author_name": "Людмила Т.",
+                "author_profession": 6,
+                "date": "2019-09-01",
+                "comment": "С экскурсоводом дорого, без экскурсовода-скучновато. Да и Мицкевич-не Пушкин.Ухоженная усадьба. Материалы музея подобраны хорошо, представление о быте сложилось.",
+                "author_url": "https://reviews.yandex.ru/user/7t0er27xfr5bhwzxkd06w0d04g",
+                "rating": 3
+            },
+            {
+                "author_name": "Игорь Сильванович",
+                "author_profession": 15,
+                "date": "2020-01-01",
+                "comment": "Интересная экспозиция, дополненная рассказами экскурсоводов, перенесёт на некоторое время на пару веков назад",
+                "author_url": "https://reviews.yandex.ru/user/bftt37ge84dm11e3uucnaufdzw",
+                "rating": 5
+            },
+            {
+                "author_name": "Наталья Т.",
+                "author_profession": 4,
+                "date": "2020-10-21",
+                "comment": "Экскурсию брать необязательно. Можно все самостоятельно рассмотреть.",
+                "author_url": "https://reviews.yandex.ru/user/q05hp0y2cp72crkj493e810x9c",
+                "rating": 5
+            },
+            {
+                "author_name": "Юра В.",
+                "author_profession": 4,
+                "date": "2019-09-11",
+                "comment": "Мне очень нравится, приятно когда знающие свою работу гиды так подробно рассказывают.",
+                "author_url": "https://reviews.yandex.ru/user/xb64h0y2dh1vn4cm3pm5560t2c",
+                "rating": 5
+            },
+            {
+                "author_name": "Алена М.",
+                "author_profession": 7,
+                "date": "2019-10-06",
+                "comment": "интересная архитектура, ухоженная территория ( отличное место для фотосессий)",
+                "author_url": "https://reviews.yandex.ru/user/9jrz7acjpvm0qg2tjc3p1ey9uw",
+                "rating": 5
+            },
+            {
+                "author_name": "Алексей Чайков",
+                "author_profession": 5,
+                "date": "2021-06-11",
+                "comment": "Прекрасное место.",
+                "author_url": "https://reviews.yandex.ru/user/cegj5he34zm5qyyrwya7zbdqhw",
+                "rating": 5
+            },
+            {
+                "author_name": "светлана маханько",
+                "author_profession": 7,
+                "date": "2020-08-29",
+                "comment": "Знающие гиды,приятная атмосфера",
+                "author_url": "https://reviews.yandex.ru/user/fpgz5zvgycg78hnm01kmz9dh80",
+                "rating": 5
+            },
+            {
+                "author_name": "николай",
+                "author_profession": 4,
+                "date": "2019-03-05",
+                "comment": "Нужно дополнить новыми сведениями о А.С.Пушкине/предположение,что он похоронен в Новогрудке/.\nПушкин и Мицкевич были в дружеских отношениях.",
+                "author_url": "https://reviews.yandex.ru/user/f9587myhkagwztjec4k8pr54am",
+                "rating": 5
+            },
+            {
+                "author_name": "Alex Rai",
+                "author_profession": 19,
+                "date": "2019-12-14",
+                "comment": "Музей всегда здорово, а дом музей ещё лучше.",
+                "author_url": "https://reviews.yandex.ru/user/mjhawuku0kckwn2g68gxr9rjym",
+                "rating": 5
+            },
+            {
+                "author_name": "Виталий Гр.",
+                "author_profession": 7,
+                "date": "2019-12-06",
+                "comment": "Культовое место, обязательное для посещения",
+                "author_url": "https://reviews.yandex.ru/user/q6ngf9uyx2che0amg5fgfxy19m",
+                "rating": 4
+            },
+            {
+                "author_name": "Сергей П.",
+                "author_profession": 3,
+                "date": "2019-08-06",
+                "comment": "Директор больше похож на деревенского алкаша, нежели на деятеля культуры",
+                "author_url": "https://reviews.yandex.ru/user/81b2t4vvtz0tuc3qexrp4c115c",
+                "rating": 1
+            },
+            {
+                "author_name": "Ioannes",
+                "author_profession": 17,
+                "date": "2019-10-12",
+                "comment": "Музей интересный. Фото платное, за этим следят.",
+                "author_url": "https://reviews.yandex.ru/user/77qb6ze2mzyma92e9gqn46hr6r",
+                "rating": 4
+            },
+            {
+                "author_name": "KnelL",
+                "author_profession": 9,
+                "date": "2019-01-25",
+                "comment": "Приятный персонал",
+                "author_url": "https://reviews.yandex.ru/user/bmuc82pny0gn9e4y2w77fvechw",
+                "rating": 4
+            }
+        ]
+    }
+}

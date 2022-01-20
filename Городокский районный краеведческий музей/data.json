@@ -1,0 +1,94 @@
+{
+    "object_name": "Городокский районный краеведческий музей",
+    "object_id": 1080287552,
+    "contact": [
+        "+375213945749"
+    ],
+    "business_url": "haradok.museum.by",
+    "object_category": "Музей",
+    "object_links": [
+        "http://ok.ru/ukgorodok",
+        "https://vk.com/myzey_gorodok",
+        "https://www.instagram.com/gorodok_musey/"
+    ],
+    "address": "Городок, Ленинская ул., 4",
+    "work_time": {
+        "Понедельник": "Выходной",
+        "Вторник": "10:00 – 14:0015:00 – 19:00",
+        "Среда": "10:00 – 14:0015:00 – 19:00",
+        "Четверг": "10:00 – 14:0015:00 – 19:00",
+        "Пятница": "10:00 – 14:0015:00 – 19:00",
+        "Суббота": "10:00 – 14:0015:00 – 19:00",
+        "Воскресенье": "10:00 – 14:0015:00 – 19:00"
+    },
+    "features": null,
+    "rating": 4.1,
+    "attendance": {},
+    "number_of_votes": 10,
+    "number_of_review": 2,
+    "similar_objects": [
+        {
+            "object_id": 1202916166,
+            "object_name": "Экскурс",
+            "object_link": "https://yandex.by/maps/org/vitebskoye_ekskursionnoye_byuro_ekskurs/1202916166/"
+        },
+        {
+            "object_id": 1352211543,
+            "object_name": "Турне Мечты",
+            "object_link": "https://yandex.by/maps/org/turne_mechty/1352211543/"
+        },
+        {
+            "object_id": 68028167888,
+            "object_name": "TimeTravel",
+            "object_link": "https://yandex.by/maps/org/timetravel/68028167888/"
+        },
+        {
+            "object_id": 96995187143,
+            "object_name": "Грин Тур",
+            "object_link": "https://yandex.by/maps/org/grin_tur/96995187143/"
+        },
+        {
+            "object_id": 1359245346,
+            "object_name": "Мир на Ладони",
+            "object_link": "https://yandex.by/maps/org/mir_na_ladoni/1359245346/"
+        },
+        {
+            "object_id": 168963046797,
+            "object_name": "On Lenina",
+            "object_link": "https://yandex.by/maps/org/on_lenina/168963046797/"
+        },
+        {
+            "object_id": 57668018087,
+            "object_name": "On Lazo",
+            "object_link": "https://yandex.by/maps/org/on_lazo/57668018087/"
+        }
+    ],
+    "reviews_info": {
+        "type_reviews": {
+            "индивидуальный подход ": 1,
+            "населенные пункты ": 1,
+            "вопросы ": 1,
+            "научный сотрудник ": 1,
+            "немецко-фашистские захватчики ": 1,
+            "очень интересно ": 1
+        },
+        "reviews": [
+            {
+                "author_name": "татьяна бекасова",
+                "author_profession": 2,
+                "date": "2022-01-11",
+                "comment": "26 декабря были на экспозиции, посвященной освобождению Городокского района от немецко-фашистских захватчиков. Огромное спасибо организаторам экспозиции, директору музея, отдельное спасибо научному сотруднику Леоновой ЛМ, за индивидуальный подход к каждому из посетителей нашей группы, ответы на наши вопросы, помощь в поиске давно не существующих населенных пунктов района. Удачи в делах! Спасибо!",
+                "author_url": "https://reviews.yandex.ru/user/k4yeeabcjk6904c30nnq18pwjm",
+                "rating": 5
+            },
+            {
+                "author_name": "Ярослав Степаньков",
+                "author_profession": 8,
+                "date": "2020-07-18",
+                "comment": "Всё очень интересно, каждый месяц привозят что-то новое",
+                "author_url": "https://reviews.yandex.ru/user/ngk9hpuf2aqdmcawyfheb4x0k0",
+                "rating": 5
+            }
+        ]
+    }
+}

@@ -1,0 +1,138 @@
+{
+    "object_name": "Браславское районное объединение музеев",
+    "object_id": 1041188484,
+    "contact": [
+        "+375215365062"
+    ],
+    "business_url": "braslav.museum.by",
+    "object_category": "Музей",
+    "object_links": [
+        "https://www.instagram.com/muzei_braslawa/"
+    ],
+    "address": "Браслав, ул. Энгельса, 39",
+    "work_time": {
+        "Понедельник": "Выходной",
+        "Вторник": "09:00 – 18:00",
+        "Среда": "09:00 – 18:00",
+        "Четверг": "09:00 – 18:00",
+        "Пятница": "09:00 – 18:00",
+        "Суббота": "09:00 – 18:00",
+        "Воскресенье": "09:00 – 18:00"
+    },
+    "features": null,
+    "rating": 4.0,
+    "attendance": {},
+    "number_of_votes": 40,
+    "number_of_review": 11,
+    "similar_objects": [
+        {
+            "object_id": 115527442262,
+            "object_name": "Музей традиционной культуры",
+            "object_link": "https://yandex.by/maps/org/etnograficheskiy_muzey_traditsionnoy_kultury/115527442262/"
+        }
+    ],
+    "reviews_info": {
+        "type_reviews": {
+            "регулярные набеги ": 1,
+            "помещение без кондиционера ": 1,
+            "прочие конфликты ": 1,
+            "экспозиция ": 3,
+            "экспонаты ": 3,
+            "хорошая коллекция ": 1,
+            "закрытая дверь ": 1,
+            "поделка из глины ": 1,
+            "исторический бизнес ": 1,
+            "музей ": 6
+        },
+        "reviews": [
+            {
+                "author_name": "Палазков В.",
+                "author_profession": 4,
+                "date": "2021-06-10",
+                "comment": "был там три года назад\n\nсразу скажу: лучше взять экскурсию у скучающих девушек, что заведуют этим местом\n\nпо факту получил представление о том как жил этот край со времен его основания\n\nдоложу: скучно жил, из исторического бизнеса рыболовство да всякие поделки из глины типа изразцов и облицовочной плитки на печи (регулярные набеги и прочие конфликты скрашивали эту ситуацию)\n\nно все равно - лучше сходить чтобы этот город запомнился не только бухлом да пляжем :)\n\nP.S.\n\nиз недостатков могу упомянуть разве что помещение без кондиционера - оч. жарко было, но баллы снижать за это не буду",
+                "author_url": "https://reviews.yandex.ru/user/fu9udvfeppe7836r1u06x28qnm",
+                "rating": 5
+            },
+            {
+                "author_name": "Наталия С.",
+                "author_profession": 7,
+                "date": "2021-07-29",
+                "comment": "Пыталась попасть в музей в рабочее время - наткнулась на закрытую дверь, ни объявления, ни записочки о причине этой ситуации, увы, не обнаружила. Стучала, звонила, вернулась через пару часов - увы...",
+                "author_url": "https://reviews.yandex.ru/user/e4n7pd7bwgfjea5uh6n7d82uq4",
+                "rating": 2
+            },
+            {
+                "author_name": "Марк Л.",
+                "author_profession": 6,
+                "date": "2021-06-19",
+                "comment": "Хорошая коллекция быта древне Белорусскких времен, и вперед через историю до пост советских времен. Жаль что музей маленький. Есть классные экспонаты времен 2-й мировой",
+                "author_url": "",
+                "rating": 4
+            },
+            {
+                "author_name": "RNV",
+                "author_profession": 6,
+                "date": "2021-10-05",
+                "comment": "Очень интересно, рекомендую.",
+                "author_url": "https://reviews.yandex.ru/user/jhezv0xruvhe25vmguk99nnf9g",
+                "rating": 5
+            },
+            {
+                "author_name": "Геннадий",
+                "author_profession": 14,
+                "date": "2020-08-04",
+                "comment": "Краеведческий музей города Браслав, неплохая экспозиция поведёт о истории этих мест.",
+                "author_url": "https://reviews.yandex.ru/user/5xgw5weqjh6yaevueaje8bnb2c",
+                "rating": 5
+            },
+            {
+                "author_name": "инна шевченко",
+                "author_profession": 7,
+                "date": "2019-09-15",
+                "comment": "Была очень приятно удивлена количеством экспонатов. Интересная экспозиция. Много разных тем по Браславскому району",
+                "author_url": "https://reviews.yandex.ru/user/v1499v7wt108vyaedta4jfnpk0",
+                "rating": 5
+            },
+            {
+                "author_name": "Елена Кривель",
+                "author_profession": 7,
+                "date": "2019-11-25",
+                "comment": "Много разных исторических экспонатов, интересно как для детей, так и для взрослых",
+                "author_url": "https://reviews.yandex.ru/user/m1xnqx33vnjyjk9g3pyx22zna4",
+                "rating": 5
+            },
+            {
+                "author_name": "Александр Леонов",
+                "author_profession": 5,
+                "date": "2019-08-28",
+                "comment": "Интересный музей, кто мало что знает про историю Браслава и Друи могут найти инресные факты.",
+                "author_url": "https://reviews.yandex.ru/user/32mzjfhz1bg4vk6q14qgxnggrg",
+                "rating": 4
+            },
+            {
+                "author_name": "Александр Р.",
+                "author_profession": 2,
+                "date": "2019-02-28",
+                "comment": "Небольшой, но полноценный музей, освещающий историю Браславщины.",
+                "author_url": "https://reviews.yandex.ru/user/k2daxvqbdcd2g3c879hfr840y0",
+                "rating": 5
+            },
+            {
+                "author_name": "Александр К.",
+                "author_profession": 8,
+                "date": "2019-07-17",
+                "comment": "Часть экспозиции в отсыревшем подвале, помещение требует ремонта.",
+                "author_url": "https://reviews.yandex.ru/user/cjx0k45efrc4ed7rqf00bwm4c8",
+                "rating": 3
+            },
+            {
+                "author_name": "Кристина Б.",
+                "author_profession": 3,
+                "date": "2020-05-19",
+                "comment": "Интересный музей",
+                "author_url": "https://reviews.yandex.ru/user/gux8fkq4jhct6c3f89n1d9v39g",
+                "rating": 5
+            }
+        ]
+    }
+}

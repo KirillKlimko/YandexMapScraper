@@ -1,0 +1,55 @@
+{
+    "object_name": "Круглянский районный историко-краеведческий музей",
+    "object_id": 1048344369,
+    "contact": [],
+    "business_url": null,
+    "object_category": "Музей",
+    "object_links": [],
+    "address": "Круглое, Советская ул., 40",
+    "work_time": {},
+    "features": null,
+    "rating": 4.0,
+    "attendance": {},
+    "number_of_votes": 25,
+    "number_of_review": 3,
+    "similar_objects": [
+        {
+            "object_id": 1096785996,
+            "object_name": "Музей им.В.К. Бялыницкого-Бирули",
+            "object_link": "https://yandex.by/maps/org/muzey_imeni_v_k_byalynitskogo_biruli/1096785996/"
+        }
+    ],
+    "reviews_info": {
+        "type_reviews": {
+            "маловатые залы ": 1,
+            "интересное место ": 1,
+            "познавательный музей ": 1
+        },
+        "reviews": [
+            {
+                "author_name": "Андрей",
+                "author_profession": 15,
+                "date": "2020-02-02",
+                "comment": "Интересное место. Но часто не сходишь т.к. маловатые залы за пару раз можно всё разглядеть (наверное)",
+                "author_url": "https://reviews.yandex.ru/user/1wjcy20hgmeenh3cdbbp9tre6w",
+                "rating": 5
+            },
+            {
+                "author_name": "Павел Залётин",
+                "author_profession": 4,
+                "date": "2020-05-02",
+                "comment": "Очень познавательный музей.",
+                "author_url": "https://reviews.yandex.ru/user/7aav5qx5qjehy567pr3hmgmaq0",
+                "rating": 5
+            },
+            {
+                "author_name": "Влад Б.",
+                "author_profession": 5,
+                "date": "2018-12-25",
+                "comment": "Крутые чучела!",
+                "author_url": "https://reviews.yandex.ru/user/k57y9u26ryb0tzrzqrmapr1r70",
+                "rating": 4
+            }
+        ]
+    }
+}

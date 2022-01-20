@@ -1,0 +1,70 @@
+{
+    "object_name": "Берёзовский историко-краеведческий музей ",
+    "object_id": 1014261546,
+    "contact": [
+        "+375164345661",
+        "+375164345660"
+    ],
+    "business_url": "bereza.museum.by",
+    "object_category": "Музей",
+    "object_links": [
+        "http://youtube.com/channel/UCCSLsENCixpj1rSd14pv6gg",
+        "https://vk.com/club139705831",
+        "https://www.instagram.com/berezaartgallery/"
+    ],
+    "address": "Берёза, ул. Владимира Ленина, 67",
+    "work_time": {
+        "Понедельник": "Выходной",
+        "Вторник": "Выходной",
+        "Среда": "10:00 – 19:00",
+        "Четверг": "10:00 – 19:00",
+        "Пятница": "10:00 – 19:00",
+        "Суббота": "10:00 – 19:00",
+        "Воскресенье": "10:00 – 19:00"
+    },
+    "features": null,
+    "rating": 3.8,
+    "attendance": {},
+    "number_of_votes": 19,
+    "number_of_review": 1,
+    "similar_objects": [
+        {
+            "object_id": 86942695433,
+            "object_name": "Руины монастыря картезианцев",
+            "object_link": "https://yandex.by/maps/org/ruiny_monastyrya_karteziantsev/86942695433/"
+        },
+        {
+            "object_id": 60150820668,
+            "object_name": "Башня-звонница",
+            "object_link": "https://yandex.by/maps/org/bashnya_zvonnitsa/60150820668/"
+        },
+        {
+            "object_id": 97812579550,
+            "object_name": "Красные казармы",
+            "object_link": "https://yandex.by/maps/org/krasnyye_kazarmy/97812579550/"
+        },
+        {
+            "object_id": 118108267982,
+            "object_name": "Усадьба Тадеуша Костюшко",
+            "object_link": "https://yandex.by/maps/org/memorialny_muzey_usadba_im_t_kostyushko/118108267982/"
+        },
+        {
+            "object_id": 127122671320,
+            "object_name": "Дворец Пусловских",
+            "object_link": "https://yandex.by/maps/org/dvorets_puslovskikh/127122671320/"
+        }
+    ],
+    "reviews_info": {
+        "type_reviews": {},
+        "reviews": [
+            {
+                "author_name": "Кари Барбарис",
+                "author_profession": 11,
+                "date": "2021-04-04",
+                "comment": "Делали бы рекламу какую экскурсий,а то такое впечатление,что там всегда закрыто",
+                "author_url": "https://reviews.yandex.ru/user/3t3qwm3zwvh80dj6uqabj0u9cw",
+                "rating": 1
+            }
+        ]
+    }
+}

@@ -1,0 +1,99 @@
+{
+    "object_name": "Музей истории города Минска",
+    "object_id": 1186073616,
+    "contact": [
+        "+375173372430"
+    ],
+    "business_url": "www.minskmuseum.by",
+    "object_category": "Музей",
+    "object_links": [
+        "https://vk.com/club24666665",
+        "https://www.facebook.com/minskmuseum/",
+        "https://www.instagram.com/minskmuseum/"
+    ],
+    "address": "площадь Свободы, 15",
+    "work_time": {
+        "Понедельник": "Выходной",
+        "Вторник": "Выходной",
+        "Среда": "11:00 – 19:00",
+        "Четверг": "11:00 – 19:00",
+        "Пятница": "11:00 – 19:00",
+        "Суббота": "11:00 – 19:00",
+        "Воскресенье": "11:00 – 19:00"
+    },
+    "features": "Билеты:2.5–6 бел.руб.",
+    "rating": 4.1,
+    "attendance": {},
+    "number_of_votes": 31,
+    "number_of_review": 6,
+    "similar_objects": [
+        {
+            "object_id": 1045812099,
+            "object_name": "Музей Страна Мини",
+            "object_link": "https://yandex.by/maps/org/muzey_arkhitekturnykh_miniatyur_strana_mini/1045812099/"
+        }
+    ],
+    "reviews_info": {
+        "type_reviews": {
+            "отличный музей ": 4,
+            "хорошее размещение ": 1,
+            "очень приятно ": 1,
+            "прекрасный директор ": 1,
+            "оформленные выставки ": 1,
+            "прекрасное расположение ": 1,
+            "отстойный совок ": 1,
+            "отзывчивые сотрудники ": 1,
+            "нелюбопытные граждане ": 1
+        },
+        "reviews": [
+            {
+                "author_name": "Хорошая Ставка",
+                "author_profession": 3,
+                "date": "2020-08-13",
+                "comment": "Прекрасное расположение музея, отзывчивые сотрудники, прекрасный директор Ладисова Г. П. Шикарно оборудованы залы, выставляться было очень приятно.",
+                "author_url": "https://reviews.yandex.ru/user/r55n0qbeaw85bh3g8h5ntfrwe0",
+                "rating": 5
+            },
+            {
+                "author_name": "Анастасия П.",
+                "author_profession": 3,
+                "date": "2021-07-21",
+                "comment": "Хорошее размещение, хорошо оформленные выставки. Персонал вежливый.",
+                "author_url": "https://reviews.yandex.ru/user/2kauwadxmf16fkfxwymh4h52ng",
+                "rating": 4
+            },
+            {
+                "author_name": "Александр Нацкий",
+                "author_profession": 12,
+                "date": "2020-03-05",
+                "comment": "Отличный музей. График работы конечно адский! Рассчитан видимо на нелюбопытных граждан! В Москве и других странах европы давно удлинили режим работы за счет вечернего времени и выходных!! Сделайте пожалуйста так и больше людей смогут ознакомиться с экспозициями!!\nСделаны видно что с любовью к своему делу!",
+                "author_url": "https://reviews.yandex.ru/user/ktk3pcgg9g1338t6rn1h8cad48",
+                "rating": 5
+            },
+            {
+                "author_name": "Владимир К.",
+                "author_profession": 9,
+                "date": "2020-04-24",
+                "comment": "Стоит взглянуть, если есть время и ты рядом",
+                "author_url": "https://reviews.yandex.ru/user/mb0z1t6qb3hffd9n904879dfv0",
+                "rating": 5
+            },
+            {
+                "author_name": "Анастасия",
+                "author_profession": 8,
+                "date": "2020-03-13",
+                "comment": "Очень хороший музей",
+                "author_url": "https://reviews.yandex.ru/user/gtfv0na66zyuzec3qur9jrv1mc",
+                "rating": 5
+            },
+            {
+                "author_name": "Андрей Трор",
+                "author_profession": 20,
+                "date": "2019-12-02",
+                "comment": "И это музей города?! Отстойный совок",
+                "author_url": "https://reviews.yandex.ru/user/bg1gtkvda2kbd6qxczmrb8aj6w",
+                "rating": 1
+            }
+        ]
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "object_name": "Музей истории Клетчины",
+    "object_id": 1108389588,
+    "contact": [
+        "+375179365068"
+    ],
+    "business_url": "muzeikletsk.wixsite.com",
+    "object_category": "Музей",
+    "object_links": [
+        "https://www.facebook.com/pages/category/Museum/110118637840939/"
+    ],
+    "address": "Клецк, ул. Гагарина, 6",
+    "work_time": {
+        "Понедельник": "08:00 – 13:0014:00 – 17:00",
+        "Вторник": "08:00 – 13:0014:00 – 17:00",
+        "Среда": "08:00 – 13:0014:00 – 17:00",
+        "Четверг": "08:00 – 13:0014:00 – 17:00",
+        "Пятница": "08:00 – 13:0014:00 – 17:00",
+        "Суббота": "Выходной",
+        "Воскресенье": "Выходной"
+    },
+    "features": null,
+    "rating": 3.8,
+    "attendance": {},
+    "number_of_votes": 12,
+    "number_of_review": 1,
+    "similar_objects": [
+        {
+            "object_id": 1112493014,
+            "object_name": "Музей-заповедник Несвиж",
+            "object_link": "https://yandex.by/maps/org/natsionalny_istoriko_kulturny_muzey_zapovednik_nesvizh/1112493014/"
+        },
+        {
+            "object_id": 213718753726,
+            "object_name": "Несвижский замок",
+            "object_link": "https://yandex.by/maps/org/gosudarstvennoye_uchrezhdeniye_natsionalny_istoriko_kulturny_muzey_zapovednik_nesvizh/213718753726/"
+        },
+        {
+            "object_id": 181479841517,
+            "object_name": "Историко-краеведческий музей",
+            "object_link": "https://yandex.by/maps/org/istoriko_krayevedcheskiy_muzey/181479841517/"
+        },
+        {
+            "object_id": 1016530703,
+            "object_name": "Краеведческий музей",
+            "object_link": "https://yandex.by/maps/org/krayevedcheskiy_muzey/1016530703/"
+        },
+        {
+            "object_id": 213945281369,
+            "object_name": "Ратуша",
+            "object_link": "https://yandex.by/maps/org/ratusha/213945281369/"
+        }
+    ],
+    "reviews_info": {
+        "type_reviews": {},
+        "reviews": [
+            {
+                "author_name": "Артём",
+                "author_profession": 10,
+                "date": "2021-02-28",
+                "comment": "Хорошое место",
+                "author_url": "https://reviews.yandex.ru/user/zvc8hq1gc79ub82nutkrjbya6g",
+                "rating": 5
+            }
+        ]
+    }
+}

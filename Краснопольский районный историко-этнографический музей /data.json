@@ -1,0 +1,58 @@
+{
+    "object_name": "Краснопольский районный историко-этнографический музей ",
+    "object_id": 1200809378,
+    "contact": [
+        "+375223871678"
+    ],
+    "business_url": null,
+    "object_category": "Музей",
+    "object_links": [],
+    "address": "Краснополье, ул. Антонова, 2",
+    "work_time": {
+        "Понедельник": "08:00 – 13:0014:00 – 17:00",
+        "Вторник": "08:00 – 13:0014:00 – 17:00",
+        "Среда": "08:00 – 13:0014:00 – 17:00",
+        "Четверг": "08:00 – 13:0014:00 – 17:00",
+        "Пятница": "08:00 – 13:0014:00 – 17:00",
+        "Суббота": "08:00 – 13:0014:00 – 17:00",
+        "Воскресенье": "Выходной"
+    },
+    "features": null,
+    "rating": 4.1,
+    "attendance": {},
+    "number_of_votes": 7,
+    "number_of_review": 2,
+    "similar_objects": [
+        {
+            "object_id": 105636047544,
+            "object_name": "Народный историко - краеведческий музей СШ Г. П. Краснополье",
+            "object_link": "https://yandex.by/maps/org/narodny_istoriko_krayevedcheskiy_muzey_ssh_g_p_krasnopolye/105636047544/"
+        },
+        {
+            "object_id": 70224817898,
+            "object_name": "Историко-краеведческий музей",
+            "object_link": "https://yandex.by/maps/org/uk_cherikovskiy_istoriko_krayevedcheskiy_muzey/70224817898/"
+        }
+    ],
+    "reviews_info": {
+        "type_reviews": {},
+        "reviews": [
+            {
+                "author_name": "Любовь К.",
+                "author_profession": 8,
+                "date": "2021-07-30",
+                "comment": "Красиво и аккуратно!",
+                "author_url": "https://reviews.yandex.ru/user/v0bqhvj0tu5g44bqfkcdputkqg",
+                "rating": 5
+            },
+            {
+                "author_name": "Людмила Б.",
+                "author_profession": 4,
+                "date": "2020-03-08",
+                "comment": "Всем советую посетить",
+                "author_url": "https://reviews.yandex.ru/user/qazcj7dzenb0v8q9ym94ew4ng8",
+                "rating": 5
+            }
+        ]
+    }
+}

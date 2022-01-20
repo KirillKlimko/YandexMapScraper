@@ -1,0 +1,97 @@
+{
+    "object_name": "Музей Белки в Большой Берестовице",
+    "object_id": 1803071264,
+    "contact": [
+        "+375151121878"
+    ],
+    "business_url": "berestovitsa.grodno-region.by",
+    "object_category": "Музей",
+    "object_links": [
+        "http://twitter.com/vuCzl8BKYvW16R9",
+        "https://ok.ru/muzey.vaverki",
+        "https://vk.com/museum_squirrel",
+        "https://www.instagram.com/museumbelki"
+    ],
+    "address": "городской посёлок Большая Берестовица, Советская ул., 17",
+    "work_time": {
+        "Понедельник": "09:00 – 18:00",
+        "Вторник": "09:00 – 18:00",
+        "Среда": "09:00 – 18:00",
+        "Четверг": "09:00 – 18:00",
+        "Пятница": "09:00 – 18:00",
+        "Суббота": "09:00 – 18:00",
+        "Воскресенье": "09:00 – 18:00"
+    },
+    "features": null,
+    "rating": 4.1,
+    "attendance": {},
+    "number_of_votes": 20,
+    "number_of_review": 7,
+    "similar_objects": [],
+    "reviews_info": {
+        "type_reviews": {
+            "замечательный экскурсовод ": 2,
+            "хороший музей ": 3,
+            "добродушный персонал ": 1,
+            "низкие цены ": 1
+        },
+        "reviews": [
+            {
+                "author_name": "Anna Y.",
+                "author_profession": 4,
+                "date": "2021-08-22",
+                "comment": "Уникальный музей, низкие цены, приятный персонал, замечательный экскурсовод. Обязательно берите экскурсию, это интересно",
+                "author_url": "https://reviews.yandex.ru/user/h584ct8njyxm8ztkg6k35ngjvw",
+                "rating": 5
+            },
+            {
+                "author_name": "Павел М.",
+                "author_profession": 9,
+                "date": "2021-08-05",
+                "comment": "Интересно, живая белка в подарок)))",
+                "author_url": "https://reviews.yandex.ru/user/axk4gj2u1aynqcndqkr71au7jw",
+                "rating": 5
+            },
+            {
+                "author_name": "юлия п.",
+                "author_profession": 4,
+                "date": "2020-02-12",
+                "comment": "Классные экскурсоводы, заслушаетесь и узнаете много нового. Вам там будут рады, загляните обязательно)))",
+                "author_url": "https://reviews.yandex.ru/user/kh99m0p3fduraf4deu4yr9unkg",
+                "rating": 5
+            },
+            {
+                "author_name": "Станислав Кошкин",
+                "author_profession": 4,
+                "date": "2021-12-30",
+                "comment": "Классный сэмузей",
+                "author_url": "https://reviews.yandex.ru/user/tq9e98enr4n4337yjnyyk0bnqw",
+                "rating": 5
+            },
+            {
+                "author_name": "козейко александр",
+                "author_profession": 3,
+                "date": "2019-12-01",
+                "comment": "Хороший музей,и люди там работают приветливые,всё расскажут и покажут,советую посетить.",
+                "author_url": "https://reviews.yandex.ru/user/r4239zg0zvuemjev11qnz1yfmg",
+                "rating": 5
+            },
+            {
+                "author_name": "Любовь С.",
+                "author_profession": 4,
+                "date": "2020-01-31",
+                "comment": "Очень внимательный и добродушный персонал. В музее понравилось.",
+                "author_url": "https://reviews.yandex.ru/user/v1bjzqd48y9pc1063rzduxx36r",
+                "rating": 5
+            },
+            {
+                "author_name": "LoLi Finder",
+                "author_profession": 4,
+                "date": "2020-07-27",
+                "comment": "Скучно нечего смотреть кроме 2 живых белок.",
+                "author_url": "https://reviews.yandex.ru/user/jmygxdkxtgh1mdrb1pb3edjk60",
+                "rating": 1
+            }
+        ]
+    }
+}

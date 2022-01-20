@@ -1,0 +1,50 @@
+{
+    "object_name": "Кормянский районный мемориальный музей П. Н. Лепешинского",
+    "object_id": 1106497184,
+    "contact": [
+        "+375233794319"
+    ],
+    "business_url": null,
+    "object_category": "Музей",
+    "object_links": [],
+    "address": "агрогородок Литвиновичи, Крестьянская ул., 9А",
+    "work_time": {
+        "Понедельник": "Выходной",
+        "Вторник": "09:00 – 18:00",
+        "Среда": "09:00 – 18:00",
+        "Четверг": "09:00 – 18:00",
+        "Пятница": "09:00 – 18:00",
+        "Суббота": "09:00 – 18:00",
+        "Воскресенье": "Выходной"
+    },
+    "features": null,
+    "rating": 3.6,
+    "attendance": {},
+    "number_of_votes": 10,
+    "number_of_review": 1,
+    "similar_objects": [
+        {
+            "object_id": 79584938479,
+            "object_name": "Усадебный комплекс Дориа-Дерналовичей",
+            "object_link": "https://yandex.by/maps/org/usadebny_kompleks_doria_dernalovichey/79584938479/"
+        },
+        {
+            "object_id": 1003348639,
+            "object_name": "Историко-Этнографический Музей",
+            "object_link": "https://yandex.by/maps/org/checherskiy_istoriko_etnograficheskiy_muzey/1003348639/"
+        }
+    ],
+    "reviews_info": {
+        "type_reviews": {},
+        "reviews": [
+            {
+                "author_name": "Александр",
+                "author_profession": 9,
+                "date": "2019-09-18",
+                "comment": "Музей очень много интересного",
+                "author_url": "https://reviews.yandex.ru/user/fbhf1qnc2pvk0pmafc9a1pde5w",
+                "rating": 5
+            }
+        ]
+    }
+}

@@ -1,0 +1,101 @@
+{
+    "object_name": "Свислочский историко-краеведческий музей",
+    "object_id": 1093686217,
+    "contact": [
+        "+375151333292",
+        "+375151334148"
+    ],
+    "business_url": "svisloch-museum.by",
+    "object_category": "Музей",
+    "object_links": [],
+    "address": "Свислочь, ул. Ленина, 8",
+    "work_time": {},
+    "features": null,
+    "rating": 3.8,
+    "attendance": {},
+    "number_of_votes": 17,
+    "number_of_review": 5,
+    "similar_objects": [
+        {
+            "object_id": 140456115556,
+            "object_name": "Здание бывшей гимназии",
+            "object_link": "https://yandex.by/maps/org/zdaniye_byvshey_gimnazii/140456115556/"
+        },
+        {
+            "object_id": 1803071264,
+            "object_name": "Государственное учреждение культуры Музей Белки в Большой Берестовице",
+            "object_link": "https://yandex.by/maps/org/gosudarstvennoye_uchrezhdeniye_kultury_muzey_belki_v_bolshoy_berestovitse/1803071264/"
+        },
+        {
+            "object_id": 100413738029,
+            "object_name": "Бункер Брежнева",
+            "object_link": "https://yandex.by/maps/org/obyekt_1161_bunker_brezhneva/100413738029/"
+        },
+        {
+            "object_id": 242170252150,
+            "object_name": "Усадьба де Вирионов",
+            "object_link": "https://yandex.by/maps/org/usadba_frantsuzskikh_dvoryan_de_virionov/242170252150/"
+        },
+        {
+            "object_id": 34329515816,
+            "object_name": "Дворец Солтанов",
+            "object_link": "https://yandex.by/maps/org/dvorets_soltanov/34329515816/"
+        },
+        {
+            "object_id": 179240140079,
+            "object_name": "Усадьба Залютинских",
+            "object_link": "https://yandex.by/maps/org/usadba_zalyutinskikh/179240140079/"
+        }
+    ],
+    "reviews_info": {
+        "type_reviews": {
+            "интересная экспозиция ": 2,
+            "красивое здание ": 1,
+            "приветливые сотрудники ": 1,
+            "чудесный коллектив ": 1,
+            "польский язык ": 1
+        },
+        "reviews": [
+            {
+                "author_name": "Антон Ю.",
+                "author_profession": 2,
+                "date": "2021-08-06",
+                "comment": "Здоровская экспозиция и приветливые сотрудники. Так держать!",
+                "author_url": "https://reviews.yandex.ru/user/8ky1hwxekrgcgfj8evmyvv3fyg",
+                "rating": 5
+            },
+            {
+                "author_name": "Лена П.",
+                "author_profession": 4,
+                "date": "2019-12-21",
+                "comment": "Чудесный коллектив. Возможность организавать интерактив. Польский язык.",
+                "author_url": "https://reviews.yandex.ru/user/gngqbyp2pga5e837ya5gyy44t0",
+                "rating": 5
+            },
+            {
+                "author_name": "Григорий Ширяев",
+                "author_profession": 8,
+                "date": "2019-07-26",
+                "comment": "Интересная экспозиция музея, красивое здание и территория. Периодически проходят выставки.",
+                "author_url": "",
+                "rating": 5
+            },
+            {
+                "author_name": "Людмила Соловей",
+                "author_profession": 4,
+                "date": "2020-10-29",
+                "comment": "Все супер",
+                "author_url": "https://reviews.yandex.ru/user/uy59wdn64fnjmndwd5wea2ktdc",
+                "rating": 5
+            },
+            {
+                "author_name": "Владимир Степанович",
+                "author_profession": 7,
+                "date": "2019-12-31",
+                "comment": "Даже не знаю кто туда ходит.Нет рекламы.",
+                "author_url": "",
+                "rating": 1
+            }
+        ]
+    }
+}

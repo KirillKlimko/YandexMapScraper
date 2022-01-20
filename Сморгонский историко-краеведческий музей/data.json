@@ -1,0 +1,109 @@
+{
+    "object_name": "Сморгонский историко-краеведческий музей",
+    "object_id": 1108497349,
+    "contact": [
+        "+375159238849",
+        "+375159246973",
+        "+375159234492",
+        "+375159238852"
+    ],
+    "business_url": "museumsmorgon.by",
+    "object_category": "Музей",
+    "object_links": [
+        "http://ok.ru/group/52816051896448",
+        "http://vk.com/club115617235",
+        "https://www.instagram.com/smorgonskimuzei/"
+    ],
+    "address": "Сморгонь, ул. Кутузова, 23",
+    "work_time": {
+        "Понедельник": "Выходной",
+        "Вторник": "09:00 – 18:00",
+        "Среда": "09:00 – 18:00",
+        "Четверг": "09:00 – 18:00",
+        "Пятница": "09:00 – 18:00",
+        "Суббота": "09:00 – 18:00",
+        "Воскресенье": "09:00 – 18:00"
+    },
+    "features": null,
+    "rating": 4.1,
+    "attendance": {},
+    "number_of_votes": 37,
+    "number_of_review": 6,
+    "similar_objects": [
+        {
+            "object_id": 1120860666,
+            "object_name": "Усадьба Огинского",
+            "object_link": "https://yandex.by/maps/org/giku_muzey_usadba_m_k_oginskogo/1120860666/"
+        },
+        {
+            "object_id": 1001241031,
+            "object_name": "Музей-усадьба Ф.Богушевича",
+            "object_link": "https://yandex.by/maps/org/muzey_usadba_frantishka_bogushevicha_kushlyany/1001241031/"
+        },
+        {
+            "object_id": 146903744887,
+            "object_name": "Макет Кревского замка",
+            "object_link": "https://yandex.by/maps/org/maket_krevskogo_zamka/146903744887/"
+        }
+    ],
+    "reviews_info": {
+        "type_reviews": {
+            "знающие гиды ": 1,
+            "персональная экскурсия ": 1,
+            "малое здание ": 1,
+            "интересный музей ": 2,
+            "достойные экспонаты ": 1,
+            "приятная девушка ": 1
+        },
+        "reviews": [
+            {
+                "author_name": "Анастасия Шуркина",
+                "author_profession": 7,
+                "date": "2020-03-13",
+                "comment": "Интересный музей с достойными экспонатами) заказывали персональную экскурсию, очень познавательно 👍🏻",
+                "author_url": "",
+                "rating": 5
+            },
+            {
+                "author_name": "Алексей Н",
+                "author_profession": 19,
+                "date": "2021-07-10",
+                "comment": "Красиво",
+                "author_url": "https://reviews.yandex.ru/user/m65qbk59n2urpcpfw4v03pdra8",
+                "rating": 5
+            },
+            {
+                "author_name": "Ольга Г.",
+                "author_profession": 3,
+                "date": "2020-03-25",
+                "comment": "Очень приятная девушка на кассе работает!!!!",
+                "author_url": "https://reviews.yandex.ru/user/c3cvcyyjky46cck24kwxphh6n8",
+                "rating": 5
+            },
+            {
+                "author_name": "Натали",
+                "author_profession": 9,
+                "date": "2018-09-01",
+                "comment": "Очень интересный музей, хотя и небольшой. Спасибо!",
+                "author_url": "https://reviews.yandex.ru/user/g6n0wmbuctcpea3w5taacvaz1g",
+                "rating": 5
+            },
+            {
+                "author_name": "Пётр Смушко",
+                "author_profession": 8,
+                "date": "2019-12-15",
+                "comment": "Знающие гиды.",
+                "author_url": "https://reviews.yandex.ru/user/yb5mnkmge6f29am7xv6gqgdd3g",
+                "rating": 5
+            },
+            {
+                "author_name": "Дмитрий Августинович",
+                "author_profession": 4,
+                "date": "2020-01-21",
+                "comment": "Малое здание",
+                "author_url": "https://reviews.yandex.ru/user/mxcpacfvdza3twfwqpw6r941e8",
+                "rating": 2
+            }
+        ]
+    }
+}

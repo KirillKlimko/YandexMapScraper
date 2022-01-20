@@ -1,0 +1,168 @@
+{
+    "object_name": "Музей народного творчества “Бездежский фартушок”",
+    "object_id": 67426178917,
+    "contact": [
+        "+375164474999",
+        "+375292018892"
+    ],
+    "business_url": "fartushok.by",
+    "object_category": "Музей",
+    "object_links": [],
+    "address": "агрогородок Бездеж, Пионерская ул., 9",
+    "work_time": {
+        "Понедельник": "09:00 – 18:00",
+        "Вторник": "09:00 – 18:00",
+        "Среда": "09:00 – 18:00",
+        "Четверг": "09:00 – 18:00",
+        "Пятница": "09:00 – 18:00",
+        "Суббота": "09:00 – 18:00",
+        "Воскресенье": "09:00 – 18:00"
+    },
+    "features": null,
+    "rating": 4.4,
+    "attendance": {},
+    "number_of_votes": 44,
+    "number_of_review": 13,
+    "similar_objects": [
+        {
+            "object_id": 112156510634,
+            "object_name": "ГУК районный музейный комплекс Наполеона Орды",
+            "object_link": "https://yandex.by/maps/org/guk_rayonny_muzeyny_kompleks_napoleona_ordy/112156510634/"
+        },
+        {
+            "object_id": 139397437662,
+            "object_name": "Бабушкины вышки",
+            "object_link": "https://yandex.by/maps/org/muzey_narodnoy_meditsiny_babushkiny_vyshki/139397437662/"
+        },
+        {
+            "object_id": 68490570320,
+            "object_name": "Музей Наполеона Орды",
+            "object_link": "https://yandex.by/maps/org/muzey_napoleona_ordy/68490570320/"
+        },
+        {
+            "object_id": 1018985794,
+            "object_name": "Музей им. Д.К. Удовикова",
+            "object_link": "https://yandex.by/maps/org/voyenno_istoricheskiy_muzey_im_d_k_udovikova/1018985794/"
+        }
+    ],
+    "reviews_info": {
+        "type_reviews": {
+            "прекрасная атмосфера ": 1,
+            "гостеприимные люди ": 1,
+            "отличное место ": 2,
+            "интересная экспозиция ": 1,
+            "буквальный смысл ": 1,
+            "квалифицированный персонал ": 1,
+            "красивый отдых ": 1,
+            "быт ": 3,
+            "интересные мастер-классы ": 1,
+            "очень интересно ": 1
+        },
+        "reviews": [
+            {
+                "author_name": "UNmoda pinsk",
+                "author_profession": 8,
+                "date": "2021-11-07",
+                "comment": "Отличное место, превосходный квалифицированный персонал!",
+                "author_url": "https://reviews.yandex.ru/user/0bm30m4xd55jrnbrnqr1f191c8",
+                "rating": 5
+            },
+            {
+                "author_name": "yana_rumachik",
+                "author_profession": 5,
+                "date": "2021-08-21",
+                "comment": "Очень колоритный музей. Рекомендую к посещению!",
+                "author_url": "https://reviews.yandex.ru/user/p1433ac6d55m5aujc68bxh02bg",
+                "rating": 5
+            },
+            {
+                "author_name": "Андрей Брестчанин",
+                "author_profession": 14,
+                "date": "2021-06-18",
+                "comment": "Прекрасно показывает мастерство рукодельниц деревни, а так же быт в прежние времена.",
+                "author_url": "https://reviews.yandex.ru/user/047jmacwjggkufccefn99g9mk8",
+                "rating": 5
+            },
+            {
+                "author_name": "Xkdksj",
+                "author_profession": 3,
+                "date": "2020-11-06",
+                "comment": "Я была там на экскурсии, очень понравилось! Замечательное место, прекрасная атмосфера.",
+                "author_url": "https://reviews.yandex.ru/user/diana.pavlyuchuk",
+                "rating": 5
+            },
+            {
+                "author_name": "Александр Михалыч",
+                "author_profession": 8,
+                "date": "2020-03-02",
+                "comment": "Был приятно удивлен этим местом.\nСоветую посетить. Увидеть своими глазами быт и рукоделие наших дедушек и бабушек. И не только увидеть, а в буквальном смысле, - прикоснуться к нему.",
+                "author_url": "https://reviews.yandex.ru/user/1q5j8k2kka56dhw5nfxjfxg7c4",
+                "rating": 5
+            },
+            {
+                "author_name": "Людмила",
+                "author_profession": 2,
+                "date": "2019-12-01",
+                "comment": "Отличное место для отдыха. Музей народного быта. С разными интересными мастер-классами.",
+                "author_url": "https://reviews.yandex.ru/user/ugdvqemxm48rwp95aapxj4abpm",
+                "rating": 5
+            },
+            {
+                "author_name": "Людмила Храпунова",
+                "author_profession": 6,
+                "date": "2019-07-11",
+                "comment": "Очень понравилось! Всем рекомендую здесь побывать. Особенно на праздник Ивана Купалы. Очень интересно!",
+                "author_url": "https://reviews.yandex.ru/user/gmh4j2t7j6mptnyz80wtnun2bg",
+                "rating": 5
+            },
+            {
+                "author_name": "Александр М.",
+                "author_profession": 4,
+                "date": "2020-08-30",
+                "comment": "Не хватает дегустации самогона",
+                "author_url": "https://reviews.yandex.ru/user/q3hc9wr5vbuczt6x3ejb9v4ctw",
+                "rating": 5
+            },
+            {
+                "author_name": "Людмила",
+                "author_profession": 9,
+                "date": "2019-07-18",
+                "comment": "Интересное и колоритное место,особенно на купалье",
+                "author_url": "https://reviews.yandex.ru/user/xnu1hfe2azb68aunrhn00u0pnm",
+                "rating": 5
+            },
+            {
+                "author_name": "Сергей К.",
+                "author_profession": 5,
+                "date": "2019-01-09",
+                "comment": "Интересная экспозиция, гостеприимные люди!",
+                "author_url": "https://reviews.yandex.ru/user/cg4t0jj6nyxcb5vq8hvu78er80",
+                "rating": 5
+            },
+            {
+                "author_name": "Михаил Король",
+                "author_profession": 2,
+                "date": "2019-08-19",
+                "comment": "Там бывал там красиво",
+                "author_url": "https://reviews.yandex.ru/user/75q0ezgfn1x8g5yje2zb6pp7y8",
+                "rating": 5
+            },
+            {
+                "author_name": "Наталья Веренич",
+                "author_profession": 6,
+                "date": "2019-07-23",
+                "comment": "Интересное место",
+                "author_url": "https://reviews.yandex.ru/user/bdu6f7j0kd2pjnyjtf0jm4b7yw",
+                "rating": 5
+            },
+            {
+                "author_name": "Евгений С.",
+                "author_profession": 3,
+                "date": "2019-05-11",
+                "comment": "Красивый отдых.",
+                "author_url": "https://reviews.yandex.ru/user/upf7jk7qhwhn9wa9t06f1r221g",
+                "rating": 4
+            }
+        ]
+    }
+}

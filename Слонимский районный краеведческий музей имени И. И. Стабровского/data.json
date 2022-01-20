@@ -1,0 +1,91 @@
+{
+    "object_name": "Слонимский районный краеведческий музей имени И. И. Стабровского",
+    "object_id": 1099210192,
+    "contact": [
+        "+375156263409",
+        "+375156263410"
+    ],
+    "business_url": "slmuz.by",
+    "object_category": "Музей",
+    "object_links": [
+        "http://ok.ru/group/53442265284757",
+        "http://vk.com/club115102838",
+        "http://www.youtube.com/channel/UCqkhjFcE0zk42qCtQ1cycvw",
+        "https://www.instagram.com/slonimmuzey/"
+    ],
+    "address": "Слоним, площадь Ленина, 1",
+    "work_time": {
+        "Понедельник": "Выходной",
+        "Вторник": "09:00 – 17:30",
+        "Среда": "09:00 – 17:30",
+        "Четверг": "09:00 – 17:30",
+        "Пятница": "09:00 – 17:30",
+        "Суббота": "09:00 – 17:30",
+        "Воскресенье": "09:00 – 17:30"
+    },
+    "features": null,
+    "rating": 3.6,
+    "attendance": {},
+    "number_of_votes": 24,
+    "number_of_review": 6,
+    "similar_objects": [],
+    "reviews_info": {
+        "type_reviews": {
+            "отличный музей ": 4,
+            "интересные выставки ": 1,
+            "лучшее место ": 1,
+            "очень интересно ": 1,
+            "культурные достояния ": 1
+        },
+        "reviews": [
+            {
+                "author_name": "Катюшка",
+                "author_profession": 5,
+                "date": "2020-08-10",
+                "comment": "Этот музей классный, мне нравится сюда ходить,, не зря называется Исторический.. Тут очень интересно!!!+10",
+                "author_url": "https://reviews.yandex.ru/user/xgbw9naard09ntkcu3h174c3rc",
+                "rating": 5
+            },
+            {
+                "author_name": "Игорь",
+                "author_profession": 14,
+                "date": "2020-12-25",
+                "comment": "Всегда интересные выставки,много культурных достояний нашей родины",
+                "author_url": "https://reviews.yandex.ru/user/14nfga6hqdk9fw9mmrc4b2trjm",
+                "rating": 5
+            },
+            {
+                "author_name": "Ясос Биба",
+                "author_profession": 9,
+                "date": "2021-03-05",
+                "comment": "Узнал много нового про нашу Родину, отличный музей.",
+                "author_url": "https://reviews.yandex.ru/user/d3n7jkr9e3tb0hbzr263pdkj6w",
+                "rating": 5
+            },
+            {
+                "author_name": "Олег К.",
+                "author_profession": 8,
+                "date": "2019-11-26",
+                "comment": "Хороший музей жаль мало пополняется экспозиция по ВМВ",
+                "author_url": "https://reviews.yandex.ru/user/j4g4nwjq1fac8zrf4chd1by3ac",
+                "rating": 4
+            },
+            {
+                "author_name": "Дмитрий",
+                "author_profession": 6,
+                "date": "2019-08-01",
+                "comment": "Если Вы хотите побольше узнать о истории Слонима, то лучшего места не найти.",
+                "author_url": "https://reviews.yandex.ru/user/uqy5f7287r8zaqfg66djzbz6hg",
+                "rating": 5
+            },
+            {
+                "author_name": "Инна И.",
+                "author_profession": 7,
+                "date": "2019-08-22",
+                "comment": "Музей, любимый с детства)",
+                "author_url": "https://reviews.yandex.ru/user/w5q1y8x7044mk95hwg6fdtp7e8",
+                "rating": 5
+            }
+        ]
+    }
+}

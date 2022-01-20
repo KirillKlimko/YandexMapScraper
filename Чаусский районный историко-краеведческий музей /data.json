@@ -1,0 +1,105 @@
+{
+    "object_name": "Чаусский районный историко-краеведческий музей ",
+    "object_id": 1060438782,
+    "contact": [
+        "+375224221237"
+    ],
+    "business_url": "chausy.museum.by",
+    "object_category": "Музей",
+    "object_links": [
+        "https://www.instagram.com/museum.chausy/"
+    ],
+    "address": "Чаусы, Советская ул., 1",
+    "work_time": {
+        "Понедельник": "08:00 – 13:0014:00 – 18:00",
+        "Вторник": "08:00 – 13:0014:00 – 18:00",
+        "Среда": "08:00 – 13:0014:00 – 18:00",
+        "Четверг": "08:00 – 13:0014:00 – 18:00",
+        "Пятница": "08:00 – 13:0014:00 – 18:00",
+        "Суббота": "08:00 – 13:0014:00 – 17:00",
+        "Воскресенье": "Выходной"
+    },
+    "features": null,
+    "rating": 3.8,
+    "attendance": {},
+    "number_of_votes": 27,
+    "number_of_review": 8,
+    "similar_objects": [],
+    "reviews_info": {
+        "type_reviews": {
+            "хороший музей ": 4,
+            "отличное заведение ": 1,
+            "братская могила ": 1,
+            "родной край ": 1,
+            "маленькое население ": 1,
+            "очень интересно ": 1,
+            "интересные экспонаты ": 1
+        },
+        "reviews": [
+            {
+                "author_name": "Андрей Александров",
+                "author_profession": 5,
+                "date": "2020-01-18",
+                "comment": "Приезжал осенью 2019г, в Чаусы, почьтить память деда, погибшего в 1943 г. похороненного в братской могиле, село Высокое.Посетил краеведческий музей. Понравилась экспозиция, отдельное спасибо экскурсоводу, очень интересно рассказывала, узнал много нового, о боях на Прилеповском пладздарме 1943-1944, год.Оставил фото деда, и его биографию.Еще раз спасибо!",
+                "author_url": "https://reviews.yandex.ru/user/ym2fh7bpwzf2g1v9904p3x48pc",
+                "rating": 5
+            },
+            {
+                "author_name": "Дмитрий А.",
+                "author_profession": 8,
+                "date": "2021-04-18",
+                "comment": "Довольно таки не плохой музей. Водил сына, все понравилось!",
+                "author_url": "https://reviews.yandex.ru/user/dvc2tc625zjk590hu3e1npz36w",
+                "rating": 5
+            },
+            {
+                "author_name": "Сергей Левшуков",
+                "author_profession": 14,
+                "date": "2019-07-10",
+                "comment": "Для города с таким маленьким населением, отличное заведение, очень позновательно, и здание красивое",
+                "author_url": "https://reviews.yandex.ru/user/4d3wq2a3abzzw8qzph9wruf4j0",
+                "rating": 5
+            },
+            {
+                "author_name": "WebMaster Mogilev",
+                "author_profession": 6,
+                "date": "2019-07-09",
+                "comment": "Всегда приветливы и готовы показать и рассказать много интересного о родном крае!",
+                "author_url": "https://reviews.yandex.ru/user/778zmh6fdbq9b9ey8uake5fygw",
+                "rating": 5
+            },
+            {
+                "author_name": "денис.",
+                "author_profession": 10,
+                "date": "2019-12-28",
+                "comment": "Средний музей,есть на что посмотреть.",
+                "author_url": "https://reviews.yandex.ru/user/mr1833zf01z7tcwzrdzxym4u20",
+                "rating": 3
+            },
+            {
+                "author_name": "Анатолий В.",
+                "author_profession": 5,
+                "date": "2019-05-26",
+                "comment": "Чучила животных как настоящие",
+                "author_url": "https://reviews.yandex.ru/user/hmca7f13ex3ubj6vamcfqta8vr",
+                "rating": 5
+            },
+            {
+                "author_name": "Любовь Жукова",
+                "author_profession": 5,
+                "date": "2019-12-28",
+                "comment": "Хороший музей.",
+                "author_url": "https://reviews.yandex.ru/user/kgddm2u2n06wgcdnvpw1rxzm64",
+                "rating": 3
+            },
+            {
+                "author_name": "юра г.",
+                "author_profession": 8,
+                "date": "2018-08-25",
+                "comment": "Много всяких интересных экспонатов",
+                "author_url": "https://reviews.yandex.ru/user/f07rkppg3y9qwpe0y71pp3x73c",
+                "rating": 4
+            }
+        ]
+    }
+}

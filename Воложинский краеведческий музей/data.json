@@ -1,0 +1,71 @@
+{
+    "object_name": "Воложинский краеведческий музей",
+    "object_id": 1077464457,
+    "contact": [
+        "+375177255865"
+    ],
+    "business_url": null,
+    "object_category": "Музей",
+    "object_links": [],
+    "address": "Воложин, ул. Максима Горького, 9",
+    "work_time": {
+        "Понедельник": "08:00 – 18:00",
+        "Вторник": "08:00 – 18:00",
+        "Среда": "08:00 – 18:00",
+        "Четверг": "08:00 – 18:00",
+        "Пятница": "08:00 – 18:00",
+        "Суббота": "10:00 – 17:00",
+        "Воскресенье": "Выходной"
+    },
+    "features": null,
+    "rating": 3.4,
+    "attendance": {},
+    "number_of_votes": 18,
+    "number_of_review": 2,
+    "similar_objects": [
+        {
+            "object_id": 58531567866,
+            "object_name": "Музей-усадьба Дзержиново",
+            "object_link": "https://yandex.by/maps/org/muzey_usadba_dzerzhinovo/58531567866/"
+        },
+        {
+            "object_id": 1192635769,
+            "object_name": "Яхимовщина филиал Государственного Литературного Музея Янки Купалы",
+            "object_link": "https://yandex.by/maps/org/yakhimovshchina_filial_gosudarstvennogo_literaturnogo_muzeya_yanki_kupaly/1192635769/"
+        },
+        {
+            "object_id": 1373879489,
+            "object_name": "Краеведческий музей",
+            "object_link": "https://yandex.by/maps/org/gu_ivenetskiy_muzey_traditsionnoy_kultury/1373879489/"
+        },
+        {
+            "object_id": 146903744887,
+            "object_name": "Макет Кревского замка",
+            "object_link": "https://yandex.by/maps/org/maket_krevskogo_zamka/146903744887/"
+        }
+    ],
+    "reviews_info": {
+        "type_reviews": {
+            "интересная женщина ": 1,
+            "обычные селяне ": 1
+        },
+        "reviews": [
+            {
+                "author_name": "Прото Настя",
+                "author_profession": 13,
+                "date": "2021-07-27",
+                "comment": "Интересно было посетить",
+                "author_url": "https://reviews.yandex.ru/user/h8n635h7tpzq738f72gpde0pnm",
+                "rating": 4
+            },
+            {
+                "author_name": "s_levengo",
+                "author_profession": 15,
+                "date": "2018-06-25",
+                "comment": "Директор данного музея, очень приветливая и интересная женщина!!! Очень понравилось поднесение истории Воложина и быта обычных селян.",
+                "author_url": "",
+                "rating": 5
+            }
+        ]
+    }
+}

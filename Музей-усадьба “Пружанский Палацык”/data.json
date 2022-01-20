@@ -1,0 +1,179 @@
+{
+    "object_name": "Музей-усадьба “Пружанский Палацык”",
+    "object_id": 1045431151,
+    "contact": [
+        "+375163221896",
+        "+375333711342",
+        "+375163290306",
+        "+375163271896"
+    ],
+    "business_url": "museum.pruzhany.by",
+    "object_category": "Музей",
+    "object_links": [
+        "http://twitter.com/museum_palacyk",
+        "http://vk.com/museum_palatsyk",
+        "http://www.facebook.com/pruzhanypalacyk"
+    ],
+    "address": "Пружаны, Советская ул., 50",
+    "work_time": {
+        "Понедельник": "Выходной",
+        "Вторник": "09:30 – 18:00",
+        "Среда": "09:30 – 18:00",
+        "Четверг": "09:30 – 18:00",
+        "Пятница": "09:30 – 18:00",
+        "Суббота": "09:30 – 18:00",
+        "Воскресенье": "09:30 – 18:00"
+    },
+    "features": null,
+    "rating": 4.2,
+    "attendance": {},
+    "number_of_votes": 63,
+    "number_of_review": 14,
+    "similar_objects": [
+        {
+            "object_id": 79750335490,
+            "object_name": "Усадьба Швыковских",
+            "object_link": "https://yandex.by/maps/org/usadba_shvykovskikh/79750335490/"
+        },
+        {
+            "object_id": 135815831571,
+            "object_name": "Флигель",
+            "object_link": "https://yandex.by/maps/org/pruzhanskiy_palatsik_fligel/135815831571/"
+        },
+        {
+            "object_id": 155235813117,
+            "object_name": "Белые лавки",
+            "object_link": "https://yandex.by/maps/org/belyye_lavki/155235813117/"
+        },
+        {
+            "object_id": 42473805595,
+            "object_name": "Усадьба Дьяконских",
+            "object_link": "https://yandex.by/maps/org/usadba_dyakonskikh/42473805595/"
+        }
+    ],
+    "reviews_info": {
+        "type_reviews": {
+            "интересная история ": 2,
+            "усадьба ": 3,
+            "музей ": 5,
+            "прекрасное место ": 1,
+            "косметический ремонт ": 1,
+            "красивый парк ": 1,
+            "очень интересно ": 3
+        },
+        "reviews": [
+            {
+                "author_name": "Марк Богдан",
+                "author_profession": 4,
+                "date": "2021-10-14",
+                "comment": "Прекрасное место, очень понравились картины и экспонаты представленные музеем",
+                "author_url": "https://reviews.yandex.ru/user/hjh66cz4f360ywetzjh34et05m",
+                "rating": 5
+            },
+            {
+                "author_name": "Наталья Р.",
+                "author_profession": 2,
+                "date": "2021-04-20",
+                "comment": "Чудесное место. Попали совершенно случайно и остались очарованы этой усадьбой. Сотрудник музея Татьяна очень интересно провела экскурсию!",
+                "author_url": "https://reviews.yandex.ru/user/99cmuyvm4yppcnejz772yrjjmc",
+                "rating": 5
+            },
+            {
+                "author_name": "Игорь Ваколюк",
+                "author_profession": 10,
+                "date": "2021-08-23",
+                "comment": "Красиво. Красивый парк. Деревья наверняка видели, как строили эту усадьбу.",
+                "author_url": "https://reviews.yandex.ru/user/7v0yuq3hbuppxcd5nn40w5w3r8",
+                "rating": 4
+            },
+            {
+                "author_name": "АЛЕКСАНДР ЕВГЕНОВ",
+                "author_profession": 9,
+                "date": "2020-10-06",
+                "comment": "был на экскурсии 20 сентября с бреста от тур агенства пилигрим.погода была солнечая чудесная.все было организованно на отлично.спб организаторам от пилигрим.советую и рекомендую.привет всем тем туристам.кто был со мной на экскурсии.",
+                "author_url": "https://reviews.yandex.ru/user/turist.aleksandar",
+                "rating": 5
+            },
+            {
+                "author_name": "Ириша Шабалина",
+                "author_profession": 14,
+                "date": "2020-11-04",
+                "comment": "Интересный музей, прекрасные экскурсоводы, очень всё душевно. Спасибо!!",
+                "author_url": "https://reviews.yandex.ru/user/f7kqdgup0xquw941kw5w2mkkb8",
+                "rating": 5
+            },
+            {
+                "author_name": "IncoMed Medical Supplies",
+                "author_profession": 7,
+                "date": "2021-12-01",
+                "comment": "Нам нравится приезжать сюда из Кобрина",
+                "author_url": "https://reviews.yandex.ru/user/jatbm6640cggxdg1uqe02ra29m",
+                "rating": 4
+            },
+            {
+                "author_name": "Arktur Magazinchenco",
+                "author_profession": 6,
+                "date": "2019-07-16",
+                "comment": "Очень приятное место. Интересная история плюс с гидом повезло - работают энтузиасты. Место в сравнении с теми же Ружанским и Коссовским замками выглядит скромно, но со вкусом. Явно с финансированием проблемы, но работники - молодцы. Отдельное спасибо Арине!",
+                "author_url": "https://reviews.yandex.ru/user/737wychpddvjqveb98vvympdhg",
+                "rating": 5
+            },
+            {
+                "author_name": "Марина Васькевич",
+                "author_profession": 2,
+                "date": "2021-03-22",
+                "comment": "При посещении обязательно берите гида, будет очень интересно.",
+                "author_url": "https://reviews.yandex.ru/user/jd8dyk820nhc2pajhbpe9hk1j8",
+                "rating": 5
+            },
+            {
+                "author_name": "Wlad",
+                "author_profession": 6,
+                "date": "2021-05-14",
+                "comment": "Красиво и все,что с этим связано",
+                "author_url": "https://reviews.yandex.ru/user/9e0nwx2bfcutz0j1d84x4ct1bc",
+                "rating": 5
+            },
+            {
+                "author_name": "Кристина Козловская",
+                "author_profession": 10,
+                "date": "2019-04-26",
+                "comment": "На фото усадьба выглядит свежей и аккуратно, на самом деле усадьба внешне нужнается в косметическом ремонте. Внутрь к сожалению не попали-усадьба была уже закрыта для посезения",
+                "author_url": "https://reviews.yandex.ru/user/rfrb7ab6un5bgwhe8k4kqztun0",
+                "rating": 3
+            },
+            {
+                "author_name": "Юрий К",
+                "author_profession": 10,
+                "date": "2020-03-04",
+                "comment": "Хороший музей, много познавательного и интересного.",
+                "author_url": "https://reviews.yandex.ru/user/5jd1tr3ue02vex9uxv7q2h580w",
+                "rating": 5
+            },
+            {
+                "author_name": "Леонид Бобко",
+                "author_profession": 8,
+                "date": "2020-01-09",
+                "comment": "Родной город,палацык, музей, есть на что посмотреть",
+                "author_url": "https://reviews.yandex.ru/user/vkz6hvt13g4dbm8gm9wfd2ttx0",
+                "rating": 5
+            },
+            {
+                "author_name": "Илья Ч.",
+                "author_profession": 5,
+                "date": "2020-02-06",
+                "comment": "Очень интересно",
+                "author_url": "https://reviews.yandex.ru/user/ghtkux7jhdgu1ka4qe42mvwt9w",
+                "rating": 5
+            },
+            {
+                "author_name": "Юлия Наумова",
+                "author_profession": 20,
+                "date": "2019-07-22",
+                "comment": "Спасибо за восстановление истории.\n.",
+                "author_url": "https://reviews.yandex.ru/user/f1evqr98tctf1v3ckw59rvjvqc",
+                "rating": 4
+            }
+        ]
+    }
+}

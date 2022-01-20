@@ -1,0 +1,78 @@
+{
+    "object_name": "Поставский районный краеведческий музей",
+    "object_id": 1016347444,
+    "contact": [
+        "+375215540796"
+    ],
+    "business_url": "pastavy.museum.by",
+    "object_category": "Музей",
+    "object_links": [
+        "http://vk.com/pastauski_muzej",
+        "https://ok.ru/group/59249474404387",
+        "https://www.facebook.com/pastavymuseum/"
+    ],
+    "address": "Поставы, площадь Ленина, 11",
+    "work_time": {
+        "Понедельник": "Выходной",
+        "Вторник": "09:00 – 13:0014:00 – 18:00",
+        "Среда": "09:00 – 13:0014:00 – 18:00",
+        "Четверг": "09:00 – 13:0014:00 – 18:00",
+        "Пятница": "09:00 – 13:0014:00 – 18:00",
+        "Суббота": "09:00 – 13:0014:00 – 18:00",
+        "Воскресенье": "09:00 – 13:0014:00 – 18:00"
+    },
+    "features": null,
+    "rating": 3.6,
+    "attendance": {},
+    "number_of_votes": 12,
+    "number_of_review": 3,
+    "similar_objects": [
+        {
+            "object_id": 95801910929,
+            "object_name": "Дендрологический сад им. С.А. Гомзы",
+            "object_link": "https://yandex.by/maps/org/dendrologicheskiy_sad_imeni_s_a_gomzy/95801910929/"
+        },
+        {
+            "object_id": 1128573396,
+            "object_name": "Музей народной славы",
+            "object_link": "https://yandex.by/maps/org/myadelskiy_muzey_narodnoy_slavy/1128573396/"
+        },
+        {
+            "object_id": 208340173583,
+            "object_name": "Музей леса",
+            "object_link": "https://yandex.by/maps/org/muzey_lesa/208340173583/"
+        }
+    ],
+    "reviews_info": {
+        "type_reviews": {
+            "отличный музей ": 1,
+            "необычные выставки ": 1
+        },
+        "reviews": [
+            {
+                "author_name": "Светлана Незамова",
+                "author_profession": 11,
+                "date": "2019-11-16",
+                "comment": "Скучно... Редко кто приезжает с вставками....",
+                "author_url": "https://reviews.yandex.ru/user/pbdt7kr3hen98xucd9hm8f13jw",
+                "rating": 3
+            },
+            {
+                "author_name": "Владимир Саенко",
+                "author_profession": 4,
+                "date": "2020-09-26",
+                "comment": "Отличный музей",
+                "author_url": "https://reviews.yandex.ru/user/30c2wdpy30wma70egvyd4r26fm",
+                "rating": 5
+            },
+            {
+                "author_name": "Авраменко Алексей",
+                "author_profession": 7,
+                "date": "2020-03-29",
+                "comment": "Необычные выставки",
+                "author_url": "https://reviews.yandex.ru/user/cmp3bcryb9cr2wkkrafxw2n730",
+                "rating": 5
+            }
+        ]
+    }
+}

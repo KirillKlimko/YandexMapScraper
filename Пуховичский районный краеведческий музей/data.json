@@ -1,0 +1,87 @@
+{
+    "object_name": "Пуховичский районный краеведческий музей",
+    "object_id": 104484103435,
+    "contact": [],
+    "business_url": null,
+    "object_category": "Музей",
+    "object_links": [],
+    "address": "агрогородок Блонь, Санаторная ул., 5",
+    "work_time": {},
+    "features": null,
+    "rating": 4.1,
+    "attendance": {},
+    "number_of_votes": 11,
+    "number_of_review": 3,
+    "similar_objects": [
+        {
+            "object_id": 1216879817,
+            "object_name": "Художественная Галерея отдел ГУ Пуховичский Районный Краеведческий Музей",
+            "object_link": "https://yandex.by/maps/org/khudozhestvennaya_galereya_otdel_gu_pukhovichskiy_rayonny_krayevedcheskiy_muzey/1216879817/"
+        },
+        {
+            "object_id": 198667469445,
+            "object_name": "Музей",
+            "object_link": "https://yandex.by/maps/org/muzey/198667469445/"
+        },
+        {
+            "object_id": 136096182269,
+            "object_name": "Музыкальная гостиная Станислава Монюшко",
+            "object_link": "https://yandex.by/maps/org/muzykalnaya_gostinaya_stanislava_monyushko/136096182269/"
+        },
+        {
+            "object_id": 118296229370,
+            "object_name": "Дендропарк",
+            "object_link": "https://yandex.by/maps/org/dendropark/118296229370/"
+        },
+        {
+            "object_id": 63108800273,
+            "object_name": "Пространство Хаима Сутина",
+            "object_link": "https://yandex.by/maps/org/prostranstvo_khaima_sutina/63108800273/"
+        },
+        {
+            "object_id": 29288413833,
+            "object_name": "Дворцово-парковый комплекс Монюшко",
+            "object_link": "https://yandex.by/maps/org/dvortsovo_parkovy_kompleks_monyushko/29288413833/"
+        }
+    ],
+    "reviews_info": {
+        "type_reviews": {
+            "научные подвиги ": 1,
+            "народный быт ": 1,
+            "чистая вода ": 1,
+            "большая экспозиция ": 1,
+            "шикарное место ": 1,
+            "родной край ": 1,
+            "очень красочно ": 1,
+            "спортивные достижения ": 1,
+            "отзывчивый человек ": 1,
+            "красивый берег ": 1
+        },
+        "reviews": [
+            {
+                "author_name": "Татьяна Витковски",
+                "author_profession": 3,
+                "date": "2021-12-16",
+                "comment": "Шикарное место. Экскурсовод Юлия просто живёт и дышит своей работой, своим родным краем. Очень красочно и эмоционально провела нам экскурсию. Алла Владимировна добрый и отзывчивый человек привела в порядок территорию за усадьбой теперь такюм красивый берег реки и бьёт ключ где можно набрать чистой воды. Однозначно советую!!!",
+                "author_url": "https://reviews.yandex.ru/user/vt1ynen6nbyw5dut6bxauwnhtg",
+                "rating": 5
+            },
+            {
+                "author_name": "Елена",
+                "author_profession": 15,
+                "date": "2020-07-22",
+                "comment": "Большая экспозиция, народный быт, спортивные достижения, научные подвиги, годы войны. Очень понравилось!",
+                "author_url": "",
+                "rating": 5
+            },
+            {
+                "author_name": "Zhuff",
+                "author_profession": 2,
+                "date": "2020-07-15",
+                "comment": "Толковый и объемный по наполнению музей. Будете проезжать, зайдите, не пожалеете.",
+                "author_url": "https://reviews.yandex.ru/user/8xgbm78xt96xfmxj09bcf0eqbg",
+                "rating": 4
+            }
+        ]
+    }
+}

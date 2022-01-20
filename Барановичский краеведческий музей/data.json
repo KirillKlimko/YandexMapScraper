@@ -1,0 +1,136 @@
+{
+    "object_name": "Барановичский краеведческий музей",
+    "object_id": 1094906678,
+    "contact": [
+        "+375163421524",
+        "+375163421100",
+        "+375298249972"
+    ],
+    "business_url": "baranovichi-museum.com",
+    "object_category": "Музей",
+    "object_links": [
+        "https://vk.com/muzey_baranovichi",
+        "https://www.facebook.com/muzey.baranovichi"
+    ],
+    "address": "Барановичи, Советская ул., 72",
+    "work_time": {
+        "Понедельник": "10:00 – 17:00",
+        "Вторник": "10:00 – 17:00",
+        "Среда": "10:00 – 17:00",
+        "Четверг": "10:00 – 17:00",
+        "Пятница": "10:00 – 17:00",
+        "Суббота": "10:00 – 17:00",
+        "Воскресенье": "10:00 – 17:00"
+    },
+    "features": "Музей:ж-д транспорт и метро",
+    "rating": 3.9,
+    "attendance": {},
+    "number_of_votes": 33,
+    "number_of_review": 8,
+    "similar_objects": [
+        {
+            "object_id": 147221936059,
+            "object_name": "Музей железнодорожной техники",
+            "object_link": "https://yandex.by/maps/org/muzey_istorii_i_zheleznodorozhnoy_tekhniki_v_baranovichakh/147221936059/"
+        },
+        {
+            "object_id": 243101522025,
+            "object_name": "Музей Дарогаю Бібліі",
+            "object_link": "https://yandex.by/maps/org/muzey_darogayu_b_bl_/243101522025/"
+        },
+        {
+            "object_id": 1199465576,
+            "object_name": "Аптека-музей",
+            "object_link": "https://yandex.by/maps/org/apteka_muzey/1199465576/"
+        },
+        {
+            "object_id": 36684516378,
+            "object_name": "Музей истории железной дороги",
+            "object_link": "https://yandex.by/maps/org/muzey_istorii_zheleznoy_dorogi/36684516378/"
+        },
+        {
+            "object_id": 1395382711,
+            "object_name": "Музей боевой и трудовой славы имени 44 гвардейской Барановичской стрелковой дивизии",
+            "object_link": "https://yandex.by/maps/org/muzey_boyevoy_i_trudovoy_slavy_imeni_44_gvardeyskoy_baranovichskoy_strelkovoy_divizii/1395382711/"
+        },
+        {
+            "object_id": 1072856319,
+            "object_name": "Краеведческий музей",
+            "object_link": "https://yandex.by/maps/org/baranovichskiy_krayevedcheskiy_muzey/1072856319/"
+        }
+    ],
+    "reviews_info": {
+        "type_reviews": {
+            "интересная экспозиция ": 1,
+            "редкие вещи ": 1,
+            "музей ": 2,
+            "архивные документы ": 1
+        },
+        "reviews": [
+            {
+                "author_name": "BrainForce Dev.",
+                "author_profession": 12,
+                "date": "2021-08-28",
+                "comment": "Крутой музей. Много архивных документов польского времени",
+                "author_url": "https://reviews.yandex.ru/user/34550wk33dpywja8tuwnf91jrg",
+                "rating": 5
+            },
+            {
+                "author_name": "Michael Lemark",
+                "author_profession": 8,
+                "date": "2021-10-23",
+                "comment": "Советский музей, редких вещей не много",
+                "author_url": "https://reviews.yandex.ru/user/ctagng4u8910e40cx8krmhf1vc",
+                "rating": 4
+            },
+            {
+                "author_name": "Маргарита К.",
+                "author_profession": 7,
+                "date": "2019-12-10",
+                "comment": "Уникальные экспонаты, представляющие историю района с древнейших времен",
+                "author_url": "https://reviews.yandex.ru/user/3nt7jhae27k3z72af9xe7c5ctc",
+                "rating": 5
+            },
+            {
+                "author_name": "Vadholodny",
+                "author_profession": 6,
+                "date": "2019-08-31",
+                "comment": "Очень интересная экспозиция, нам с супругой очень понравилось!",
+                "author_url": "https://reviews.yandex.ru/user/z2xvr3wpby4bch6p5wc15a1wvw",
+                "rating": 5
+            },
+            {
+                "author_name": "Eduard Kozlov",
+                "author_profession": 21,
+                "date": "2020-08-29",
+                "comment": "Очень понравилось в музее.",
+                "author_url": "https://reviews.yandex.ru/user/akjec585dxmzhcv9ht7vmxmb8w",
+                "rating": 5
+            },
+            {
+                "author_name": "Max1mka",
+                "author_profession": 5,
+                "date": "2020-02-14",
+                "comment": "Редко бывает что-то действительно стоющее",
+                "author_url": "https://reviews.yandex.ru/user/kfw0123p7p0be2neqx232t59gw",
+                "rating": 3
+            },
+            {
+                "author_name": "Аня Холудинцева (Антонова)",
+                "author_profession": 12,
+                "date": "2019-08-28",
+                "comment": "Детям очень нравится!",
+                "author_url": "https://reviews.yandex.ru/user/gdd5vzqhbbj7gkrjzt2rbgzeyc",
+                "rating": 5
+            },
+            {
+                "author_name": "Алла С.",
+                "author_profession": 3,
+                "date": "2019-03-06",
+                "comment": "Интересно! Очень!",
+                "author_url": "https://reviews.yandex.ru/user/mk3kaehc6hfyfhraa7414h2gm4",
+                "rating": 5
+            }
+        ]
+    }
+}

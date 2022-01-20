@@ -1,0 +1,299 @@
+{
+    "object_name": "Исторический музей г. Кричева",
+    "object_id": 35999034249,
+    "contact": [],
+    "business_url": "potyomkin.by",
+    "object_category": "Музей",
+    "object_links": [
+        "https://www.instagram.com/potyomkin_museum.by/"
+    ],
+    "address": "Кричев, Ленинская ул., 59А",
+    "work_time": {
+        "Понедельник": "Выходной",
+        "Вторник": "09:00 – 17:30",
+        "Среда": "09:00 – 17:30",
+        "Четверг": "09:00 – 17:30",
+        "Пятница": "09:00 – 17:30",
+        "Суббота": "09:00 – 17:30",
+        "Воскресенье": "09:00 – 17:30"
+    },
+    "features": null,
+    "rating": 4.4,
+    "attendance": {},
+    "number_of_votes": 107,
+    "number_of_review": 27,
+    "similar_objects": [
+        {
+            "object_id": 76130529471,
+            "object_name": "Kryčaŭ District Homeland Museum",
+            "object_link": "https://yandex.by/maps/org/kry_a_district_homeland_museum/76130529471/"
+        },
+        {
+            "object_id": 93872301615,
+            "object_name": "Кричевский замок",
+            "object_link": "https://yandex.by/maps/org/krichevskiy_zamok/93872301615/"
+        },
+        {
+            "object_id": 50568854174,
+            "object_name": "Паровоз Эр-789-22",
+            "object_link": "https://yandex.by/maps/org/pamyatnik_parovozu_er_789_22/50568854174/"
+        },
+        {
+            "object_id": 134806052018,
+            "object_name": "Краеведческий музей",
+            "object_link": "https://yandex.by/maps/org/krayevedcheskiy_muzey/134806052018/"
+        },
+        {
+            "object_id": 25079285425,
+            "object_name": "Курган славы",
+            "object_link": "https://yandex.by/maps/org/kurgan_slavy/25079285425/"
+        },
+        {
+            "object_id": 112234967475,
+            "object_name": "Краеведческий музей",
+            "object_link": "https://yandex.by/maps/org/klimovichskiy_rayonny_krayevedcheskiy_muzey/112234967475/"
+        },
+        {
+            "object_id": 70224817898,
+            "object_name": "Историко-краеведческий музей",
+            "object_link": "https://yandex.by/maps/org/uk_cherikovskiy_istoriko_krayevedcheskiy_muzey/70224817898/"
+        },
+        {
+            "object_id": 221855248444,
+            "object_name": "Мельница",
+            "object_link": "https://yandex.by/maps/org/melnitsa/221855248444/"
+        }
+    ],
+    "reviews_info": {
+        "type_reviews": {
+            "музей ": 10,
+            "достойный интерьер ": 1,
+            "экспозиция ": 5,
+            "интересная поездка ": 1,
+            "восточная сторона ": 1,
+            "красиво ": 6,
+            "приличный объект ": 1,
+            "очень интересно ": 3,
+            "ухоженная территория ": 2,
+            "экскурсовод ": 4
+        },
+        "reviews": [
+            {
+                "author_name": "Анна Дашкевич",
+                "author_profession": 8,
+                "date": "2021-08-24",
+                "comment": "Отлично ухоженная территория, сам музей сделан тоже хорошо внутри. Интересно посмотреть. Фото делать внутри можно за доп.плату, небольшую) \nБудете в Кричеве - посещайте)",
+                "author_url": "https://reviews.yandex.ru/user/7bk3tefcy66beenm5hkyy8a4d4",
+                "rating": 5
+            },
+            {
+                "author_name": "Елена М.",
+                "author_profession": 3,
+                "date": "2021-07-15",
+                "comment": "Красивое место. Очень советую посетить дворец и обязательно прослушать экскурсию.\nУбранство комнат в стиле XIX века, достойный интерьер и любопытные экспонаты.",
+                "author_url": "https://reviews.yandex.ru/user/kadttj2v3nk3nrqzv28tdvkbu4",
+                "rating": 5
+            },
+            {
+                "author_name": "Сергей Онисенко",
+                "author_profession": 7,
+                "date": "2021-08-22",
+                "comment": "К сожалению приехали поздно и было закрыто. Полетал вокруг на дроне. С верху выглядит очень красиво. Если снимать с восточной стороны в сторону закат, то можно получить очень красивые кадры.",
+                "author_url": "https://reviews.yandex.ru/user/mg5ywcjbx0qryfujgvt2vg5hzm",
+                "rating": 5
+            },
+            {
+                "author_name": "Олег Бабков",
+                "author_profession": 12,
+                "date": "2022-01-06",
+                "comment": "Очень интересное красивое историческое место!\nЗдесь обязательно нужно побывать!",
+                "author_url": "https://reviews.yandex.ru/user/yfm6tw8z1qrjrhewzgnwma8fy0",
+                "rating": 5
+            },
+            {
+                "author_name": "Татьяна Николаевна",
+                "author_profession": 8,
+                "date": "2021-05-19",
+                "comment": "Люблю это место в городе моего детства. Красота вокруг и внутри,хотя подлинный интерьер почти не сохранился. Но дух тех времен ощутить можно.",
+                "author_url": "https://reviews.yandex.ru/user/dg9xcv811kxvd5r8zv7xk7cdhw",
+                "rating": 5
+            },
+            {
+                "author_name": "Адам Грицков",
+                "author_profession": 5,
+                "date": "2021-07-25",
+                "comment": "Абсолютно не оправдал ожидания, ещё и за фото хотят денег,как за два билета . Музей в Могилеве,за меньшие деньги даёт больше !",
+                "author_url": "https://reviews.yandex.ru/user/ztb1h29qnhjexw311v1w4de93w",
+                "rating": 2
+            },
+            {
+                "author_name": "Танцы",
+                "author_profession": 3,
+                "date": "2021-08-25",
+                "comment": "Очень понравилась экскурсия, обязательно стоит посетить.",
+                "author_url": "https://reviews.yandex.ru/user/w4p6w9ebjbdrker7yrvf333aq0",
+                "rating": 5
+            },
+            {
+                "author_name": "Natalie Kiselyova",
+                "author_profession": 12,
+                "date": "2021-12-30",
+                "comment": "хороший музей.. от Потёмкина ничего не осталось.. но восстановили красиво",
+                "author_url": "https://reviews.yandex.ru/user/h6uduhynt0f3km056j5q76fknr",
+                "rating": 5
+            },
+            {
+                "author_name": "Александр Симуков",
+                "author_profession": 13,
+                "date": "2020-07-26",
+                "comment": "Очень познавательная и интересная поездка. Дворец, достаточно ухоженный но! Наряду с этим, от него словно веет историей. Отдельное спасибо сотрудникам!!!",
+                "author_url": "https://reviews.yandex.ru/user/2aw7383bgzbcgn8e3qeqnx9bng",
+                "rating": 5
+            },
+            {
+                "author_name": "anatoly.zharin",
+                "author_profession": 3,
+                "date": "2020-08-16",
+                "comment": "Были всей семьёй. Очень интересно. Много экспонатов. Экскурсовод так интересно всё рассказала. Много нового узнали о своей области.",
+                "author_url": "https://reviews.yandex.ru/user/zuyyrmkyuqg160qxvum23jat7c",
+                "rating": 5
+            },
+            {
+                "author_name": "Сергей Кулагин",
+                "author_profession": 9,
+                "date": "2021-09-25",
+                "comment": "Очень красивое место, с классическим интерьером.\nМилая и добротная экспозиция.",
+                "author_url": "",
+                "rating": 5
+            },
+            {
+                "author_name": "лина ....",
+                "author_profession": 8,
+                "date": "2021-07-25",
+                "comment": "Красивое место ,стоит посмотреть.",
+                "author_url": "https://reviews.yandex.ru/user/4bxj07kkq2fg4d4xdbwx3cv8kg",
+                "rating": 5
+            },
+            {
+                "author_name": "Надежда Машкетова",
+                "author_profession": 10,
+                "date": "2019-06-20",
+                "comment": "Это достопримечательность нашего города, очень красиво внутри и снаружи... Кто не был, рекомендую обязательно посетить...",
+                "author_url": "https://reviews.yandex.ru/user/9qqmn3ad88mjcxm6e3wf4uqam0",
+                "rating": 5
+            },
+            {
+                "author_name": "Piotr Semianiuk",
+                "author_profession": 10,
+                "date": "2021-08-07",
+                "comment": "Красиво! И здесь можно скрепить отношения узами брака!))))",
+                "author_url": "",
+                "rating": 5
+            },
+            {
+                "author_name": "KlinHas",
+                "author_profession": 14,
+                "date": "2021-04-08",
+                "comment": "Красиво, стоит посетить, но экспозиция музея не самая богатая.",
+                "author_url": "",
+                "rating": 5
+            },
+            {
+                "author_name": "Nik Kolskiy",
+                "author_profession": 14,
+                "date": "2020-07-08",
+                "comment": "Красивое здание ухоженная территория перед ним. Внутри работает экспозиция музея. Вечером на здании работает подсветка.",
+                "author_url": "",
+                "rating": 5
+            },
+            {
+                "author_name": "андрей Савенко",
+                "author_profession": 12,
+                "date": "2019-09-02",
+                "comment": "Прекрасный музей, интересная экспозиция, вежливые и знающие экскурсоводы.",
+                "author_url": "https://reviews.yandex.ru/user/d4vjz0m50vb521xg054a3f84mc",
+                "rating": 5
+            },
+            {
+                "author_name": "Елена Вита",
+                "author_profession": 7,
+                "date": "2020-10-06",
+                "comment": "Качественный краеведческий музей.",
+                "author_url": "https://reviews.yandex.ru/user/22zdnv7x50zmqxhqq3zvn0m24g",
+                "rating": 5
+            },
+            {
+                "author_name": "drugahencovova",
+                "author_profession": 6,
+                "date": "2021-08-26",
+                "comment": "Красота.",
+                "author_url": "https://reviews.yandex.ru/user/tdqgqt5j5bffnt8wzwn93c1w30",
+                "rating": 5
+            },
+            {
+                "author_name": "Виктор Святкин",
+                "author_profession": 9,
+                "date": "2020-09-04",
+                "comment": "Одно из не многих, красивых, мест в Кричеве",
+                "author_url": "https://reviews.yandex.ru/user/udwdr5j2gcndw9c7n82h3z5dfr",
+                "rating": 5
+            },
+            {
+                "author_name": "Викуля",
+                "author_profession": 12,
+                "date": "2020-01-02",
+                "comment": "Здесь очень красиво, свадьба прошла на ура!",
+                "author_url": "https://reviews.yandex.ru/user/h0eb5xep58atq85094pmt7k5d8",
+                "rating": 5
+            },
+            {
+                "author_name": "София Б.",
+                "author_profession": 5,
+                "date": "2019-11-04",
+                "comment": "Очень хороший музей дворец бракосочетания",
+                "author_url": "https://reviews.yandex.ru/user/rv4a6at56hxw4gnn5fyhwcxm48",
+                "rating": 5
+            },
+            {
+                "author_name": "Tатьяна Даудзай",
+                "author_profession": 8,
+                "date": "2019-11-23",
+                "comment": "Спустя много лет разрухи наконец то сделали приличный объект для туризма",
+                "author_url": "https://reviews.yandex.ru/user/4pfb6f5p31dqjw5bvnhf2uaphw",
+                "rating": 5
+            },
+            {
+                "author_name": "Valeria T.",
+                "author_profession": 3,
+                "date": "2018-10-22",
+                "comment": "Очень интересно и познавательно. Советую всем посетить",
+                "author_url": "https://reviews.yandex.ru/user/0hb7whcvb8t5rmf36wrj9dchgg",
+                "rating": 5
+            },
+            {
+                "author_name": "АЛЕКСАНДР ШЕВЕЛЕВ",
+                "author_profession": 8,
+                "date": "2020-07-28",
+                "comment": "Много интересного",
+                "author_url": "https://reviews.yandex.ru/user/nkcrhxry0ag9yeyhbhe00du248",
+                "rating": 5
+            },
+            {
+                "author_name": "Алёна Байтаз",
+                "author_profession": 8,
+                "date": "2020-06-22",
+                "comment": "Музей интересный",
+                "author_url": "https://reviews.yandex.ru/user/p24kk0p4500tgkjy7wu6dywze4",
+                "rating": 5
+            },
+            {
+                "author_name": "Прудникова Т.",
+                "author_profession": 6,
+                "date": "2019-09-07",
+                "comment": "Музей истории заслуживает внимания",
+                "author_url": "https://reviews.yandex.ru/user/hx8g7j36a7mhda0w4cqn61hdb8",
+                "rating": 5
+            }
+        ]
+    }
+}

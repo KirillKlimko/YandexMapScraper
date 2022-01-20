@@ -1,0 +1,512 @@
+{
+    "object_name": "Могилёвский областной художественный музей имени П. В. Масленикова",
+    "object_id": 1003648334,
+    "contact": [
+        "+375222622425",
+        "+375222711749"
+    ],
+    "business_url": "maslenikov.museum.by",
+    "object_category": "Музей",
+    "object_links": [
+        "https://instagram.com/uk_museum_named_maslenikov/",
+        "https://vk.com/maslenikovmuseum"
+    ],
+    "address": "Могилёв, ул. Миронова, 33",
+    "work_time": {
+        "Понедельник": "11:00 – 19:00",
+        "Вторник": "11:00 – 19:00",
+        "Среда": "11:00 – 19:00",
+        "Четверг": "11:00 – 19:00",
+        "Пятница": "11:00 – 19:00",
+        "Суббота": "11:00 – 19:00",
+        "Воскресенье": "11:00 – 19:00"
+    },
+    "features": null,
+    "rating": 4.3,
+    "attendance": {
+        "Пн": {
+            "00:00": 0,
+            "01:00": 0,
+            "02:00": 0,
+            "03:00": 0,
+            "04:00": 0,
+            "05:00": 0,
+            "06:00": 0,
+            "07:00": 0,
+            "08:00": 0,
+            "09:00": 0,
+            "10:00": 0,
+            "11:00": 32,
+            "12:00": 44,
+            "13:00": 47,
+            "14:00": 51,
+            "15:00": 52,
+            "16:00": 51,
+            "17:00": 41,
+            "18:00": 20,
+            "19:00": 0,
+            "20:00": 0,
+            "21:00": 0,
+            "22:00": 0,
+            "23:00": 0
+        },
+        "Вт": {
+            "00:00": 0,
+            "01:00": 0,
+            "02:00": 0,
+            "03:00": 0,
+            "04:00": 0,
+            "05:00": 0,
+            "06:00": 0,
+            "07:00": 0,
+            "08:00": 0,
+            "09:00": 0,
+            "10:00": 0,
+            "11:00": 31,
+            "12:00": 40,
+            "13:00": 46,
+            "14:00": 58,
+            "15:00": 61,
+            "16:00": 57,
+            "17:00": 43,
+            "18:00": 24,
+            "19:00": 0,
+            "20:00": 0,
+            "21:00": 0,
+            "22:00": 0,
+            "23:00": 0
+        },
+        "Ср": {
+            "00:00": 0,
+            "01:00": 0,
+            "02:00": 0,
+            "03:00": 0,
+            "04:00": 0,
+            "05:00": 0,
+            "06:00": 0,
+            "07:00": 0,
+            "08:00": 0,
+            "09:00": 0,
+            "10:00": 0,
+            "11:00": 55,
+            "12:00": 68,
+            "13:00": 80,
+            "14:00": 84,
+            "15:00": 93,
+            "16:00": 94,
+            "17:00": 72,
+            "18:00": 40,
+            "19:00": 0,
+            "20:00": 0,
+            "21:00": 0,
+            "22:00": 0,
+            "23:00": 0
+        },
+        "Чт": {
+            "00:00": 0,
+            "01:00": 0,
+            "02:00": 0,
+            "03:00": 0,
+            "04:00": 0,
+            "05:00": 0,
+            "06:00": 0,
+            "07:00": 0,
+            "08:00": 0,
+            "09:00": 0,
+            "10:00": 0,
+            "11:00": 62,
+            "12:00": 77,
+            "13:00": 78,
+            "14:00": 79,
+            "15:00": 84,
+            "16:00": 97,
+            "17:00": 80,
+            "18:00": 49,
+            "19:00": 0,
+            "20:00": 0,
+            "21:00": 0,
+            "22:00": 0,
+            "23:00": 0
+        },
+        "Пт": {
+            "00:00": 0,
+            "01:00": 0,
+            "02:00": 0,
+            "03:00": 0,
+            "04:00": 0,
+            "05:00": 0,
+            "06:00": 0,
+            "07:00": 0,
+            "08:00": 0,
+            "09:00": 0,
+            "10:00": 0,
+            "11:00": 57,
+            "12:00": 71,
+            "13:00": 73,
+            "14:00": 86,
+            "15:00": 95,
+            "16:00": 100,
+            "17:00": 80,
+            "18:00": 51,
+            "19:00": 0,
+            "20:00": 0,
+            "21:00": 0,
+            "22:00": 0,
+            "23:00": 0
+        },
+        "Сб": {
+            "00:00": 0,
+            "01:00": 0,
+            "02:00": 0,
+            "03:00": 0,
+            "04:00": 0,
+            "05:00": 0,
+            "06:00": 0,
+            "07:00": 0,
+            "08:00": 0,
+            "09:00": 0,
+            "10:00": 0,
+            "11:00": 50,
+            "12:00": 56,
+            "13:00": 56,
+            "14:00": 61,
+            "15:00": 63,
+            "16:00": 57,
+            "17:00": 45,
+            "18:00": 31,
+            "19:00": 0,
+            "20:00": 0,
+            "21:00": 0,
+            "22:00": 0,
+            "23:00": 0
+        },
+        "Вс": {
+            "00:00": 0,
+            "01:00": 0,
+            "02:00": 0,
+            "03:00": 0,
+            "04:00": 0,
+            "05:00": 0,
+            "06:00": 0,
+            "07:00": 0,
+            "08:00": 0,
+            "09:00": 0,
+            "10:00": 0,
+            "11:00": 45,
+            "12:00": 54,
+            "13:00": 52,
+            "14:00": 52,
+            "15:00": 49,
+            "16:00": 44,
+            "17:00": 38,
+            "18:00": 26,
+            "19:00": 0,
+            "20:00": 0,
+            "21:00": 0,
+            "22:00": 0,
+            "23:00": 0
+        }
+    },
+    "number_of_votes": 91,
+    "number_of_review": 29,
+    "similar_objects": [
+        {
+            "object_id": 1231733051,
+            "object_name": "Музей этнографии",
+            "object_link": "https://yandex.by/maps/org/muzey_etnografii/1231733051/"
+        },
+        {
+            "object_id": 1090659538,
+            "object_name": "Городская ратуша",
+            "object_link": "https://yandex.by/maps/org/gorodskaya_ratusha/1090659538/"
+        },
+        {
+            "object_id": 1381125776,
+            "object_name": "Краеведческий музей",
+            "object_link": "https://yandex.by/maps/org/mogilyovskiy_oblastnoy_krayevedcheskiy_muzey/1381125776/"
+        },
+        {
+            "object_id": 208443161160,
+            "object_name": "Музей В. К. Бялыницкого-Бирули",
+            "object_link": "https://yandex.by/maps/org/muzey_v_k_byalynitskogo_biruli/208443161160/"
+        },
+        {
+            "object_id": 1238537275,
+            "object_name": "Музей физической культуры и спорта Могилёвской области",
+            "object_link": "https://yandex.by/maps/org/muzey_fizicheskoy_kultury_i_sporta_mogilyovskoy_oblasti/1238537275/"
+        },
+        {
+            "object_id": 225172438768,
+            "object_name": "Могилёвское отделение Белорусской железной дороги, музей истории",
+            "object_link": "https://yandex.by/maps/org/mogilyovskoye_otdeleniye_belorusskoy_zheleznoy_dorogi_muzey_istorii/225172438768/"
+        },
+        {
+            "object_id": 37005420883,
+            "object_name": "Архиерейский дворец",
+            "object_link": "https://yandex.by/maps/org/arkhiyereyskiy_dvorets/37005420883/"
+        },
+        {
+            "object_id": 1230546144,
+            "object_name": "Выставочный зал",
+            "object_link": "https://yandex.by/maps/org/uk_muzey_istorii_mogileva_vystavochny_zal/1230546144/"
+        },
+        {
+            "object_id": 44064321169,
+            "object_name": "Арт объект Бэнкси",
+            "object_link": "https://yandex.by/maps/org/art_obyekt_benksi/44064321169/"
+        },
+        {
+            "object_id": 203697944985,
+            "object_name": "Славгородский районный историко-краеведческий музей",
+            "object_link": "https://yandex.by/maps/org/slavgorodskiy_rayonny_istoriko_krayevedcheskiy_muzey/203697944985/"
+        }
+    ],
+    "reviews_info": {
+        "type_reviews": {
+            "бедные горожане ": 1,
+            "музей ": 13,
+            "настоящий запах ": 1,
+            "экспозиция ": 4,
+            "затянутые экскурсии ": 1,
+            "довольно интересно ": 1,
+            "атмосферное место ": 1,
+            "выставка ": 6,
+            "доброжелательный персонал ": 1,
+            "хорошее место ": 1
+        },
+        "reviews": [
+            {
+                "author_name": "Юлия Могилёв",
+                "author_profession": 7,
+                "date": "2021-05-27",
+                "comment": "Приятное место - современный ремонт, чисто. Всё хорошо организовано - и время работы, и экспозиции. Для детей ИНТЕРЕСНО.",
+                "author_url": "https://reviews.yandex.ru/user/zkfqan2k64qfqp9h1qhw13t0aw",
+                "rating": 5
+            },
+            {
+                "author_name": "Ольга К.",
+                "author_profession": 3,
+                "date": "2021-03-07",
+                "comment": "Сходили с детьми на выставку динозавров, понравилась выставка и персонал, но!!! Когда стояли в очереди на виртуальную экскурсию, а работники стали пропускать других (было видно что знакомых) без очереди!!!! Это испортило все положительные эмоции(((( это уже ни в какие рамки- дети стоят в очереди, а садят без очереди врослого человека. Ужас!!!!!",
+                "author_url": "https://reviews.yandex.ru/user/ftqj138pxacaweqd0rur1zex2c",
+                "rating": 3
+            },
+            {
+                "author_name": "Елена Еремейчик",
+                "author_profession": 4,
+                "date": "2021-09-29",
+                "comment": "Музей очень красивый.Очень доброжелательный персонал.Советую сходить на выставки.",
+                "author_url": "https://reviews.yandex.ru/user/eremeichikoff",
+                "rating": 5
+            },
+            {
+                "author_name": "галина цыбань",
+                "author_profession": 9,
+                "date": "2021-10-08",
+                "comment": "Очень красивый художественный музей. Была с мамой 6 го августа",
+                "author_url": "https://reviews.yandex.ru/user/ydepqceau5kcxkub16urrk5jr4",
+                "rating": 3
+            },
+            {
+                "author_name": "Галина Ши",
+                "author_profession": 6,
+                "date": "2021-09-10",
+                "comment": "К сожалению этот музей не для людей с ограниченными возможностями... Жаль...",
+                "author_url": "https://reviews.yandex.ru/user/8fg5k7qd95z2g63jpqrev8fuc0",
+                "rating": 1
+            },
+            {
+                "author_name": "GS",
+                "author_profession": 11,
+                "date": "2022-01-19",
+                "comment": "Здание круче экспозиции музея!!!",
+                "author_url": "https://reviews.yandex.ru/user/yjezpg6d4fdqjefed2g1rppc18",
+                "rating": 4
+            },
+            {
+                "author_name": "Natasha Bihowcowa",
+                "author_profession": 10,
+                "date": "2021-12-16",
+                "comment": "Шикарный музей всем советую...",
+                "author_url": "https://reviews.yandex.ru/user/u7dz0ye5ga0m9zajzvwkwv6je8",
+                "rating": 5
+            },
+            {
+                "author_name": "Ольга Г.",
+                "author_profession": 2,
+                "date": "2019-05-17",
+                "comment": "17 мая с 17.00 до 23.00 - \"Ночь музеев - 2019\".\n17.00 - торжественное открытие программы \"Нескучный музей\".\nЦена единого билета на 7 локаций программы:\n4 руб. - для взрослых, 2 руб. - для учащихся и дошкольников.\nДетям до 3 лет вход бесплатный.",
+                "author_url": "https://reviews.yandex.ru/user/6zk6utky6mewzqxyyc22hjux2w",
+                "rating": 5
+            },
+            {
+                "author_name": "С.В.",
+                "author_profession": 4,
+                "date": "2021-03-02",
+                "comment": "Отличный музей, всем советую!!!",
+                "author_url": "https://reviews.yandex.ru/user/mz8b16pnnag769kgwzb1qm67yr",
+                "rating": 5
+            },
+            {
+                "author_name": "Влад Жигадло",
+                "author_profession": 9,
+                "date": "2020-09-17",
+                "comment": "Атмосферное место и интересные экспозиции)",
+                "author_url": "https://reviews.yandex.ru/user/kcnbea02fxxrbwjqh2bkty43w8",
+                "rating": 5
+            },
+            {
+                "author_name": "Артур Чубур",
+                "author_profession": 5,
+                "date": "2020-02-26",
+                "comment": "Музей с очень богатой экспозицией, но с несколько затянутыми экскурсиями.",
+                "author_url": "https://reviews.yandex.ru/user/n5eh49m6xd8rnpfxyupew3k5uc",
+                "rating": 5
+            },
+            {
+                "author_name": "Анатолий",
+                "author_profession": 12,
+                "date": "2020-06-11",
+                "comment": "Хороший музей, красивое здание в центре Могилёва.",
+                "author_url": "https://reviews.yandex.ru/user/q885qtcr9zzt005gh8puq9cyk8",
+                "rating": 5
+            },
+            {
+                "author_name": "Cергей",
+                "author_profession": 7,
+                "date": "2020-09-23",
+                "comment": "Замечательные выставки. Жаль, что не для бедных горожан",
+                "author_url": "https://reviews.yandex.ru/user/y2nr2dw9t8qdq9fk4qtq5mk500",
+                "rating": 5
+            },
+            {
+                "author_name": "pavel33833",
+                "author_profession": 11,
+                "date": "2021-08-23",
+                "comment": "Прикольно",
+                "author_url": "https://reviews.yandex.ru/user/ctu0qqb862ey6b58820u8rp0f8",
+                "rating": 5
+            },
+            {
+                "author_name": "Натали Богуш",
+                "author_profession": 9,
+                "date": "2021-07-02",
+                "comment": "В нем прекрасно все",
+                "author_url": "https://reviews.yandex.ru/user/cr93wpm1xjvuw6wjqppr2dyyz8",
+                "rating": 5
+            },
+            {
+                "author_name": "Антон Олегович",
+                "author_profession": 8,
+                "date": "2019-12-29",
+                "comment": "Отличное время провождения!,, если проходит хорошая выставка",
+                "author_url": "https://reviews.yandex.ru/user/n7jnv5175xzpg24zy0a411kp3m",
+                "rating": 5
+            },
+            {
+                "author_name": "Диана А.",
+                "author_profession": 3,
+                "date": "2021-11-29",
+                "comment": "крутой",
+                "author_url": "https://reviews.yandex.ru/user/k6nvqva8t4y0vxbc1t2zj7zb1r",
+                "rating": 5
+            },
+            {
+                "author_name": "Олег Шендюков",
+                "author_profession": 7,
+                "date": "2019-11-28",
+                "comment": "Прекрасная архитектура. Вовремя делайте косметику задания. И следите за подсветкой музея.",
+                "author_url": "",
+                "rating": 3
+            },
+            {
+                "author_name": "Spets Alyaksandrovich",
+                "author_profession": 7,
+                "date": "2020-04-21",
+                "comment": "Бывает проходят интересные выставки.",
+                "author_url": "https://reviews.yandex.ru/user/pva8v0bwutyghwaahyd6vkcueg",
+                "rating": 4
+            },
+            {
+                "author_name": "Белый Господин",
+                "author_profession": 5,
+                "date": "2020-07-13",
+                "comment": "Купили картину которую нашёл на мусорке",
+                "author_url": "https://reviews.yandex.ru/user/xrf5z1x461768jkc1nmu96t0nm",
+                "rating": 5
+            },
+            {
+                "author_name": "Михаил Кулишин",
+                "author_profession": 11,
+                "date": "2020-07-23",
+                "comment": "Ну это просто всем советую посетить",
+                "author_url": "https://reviews.yandex.ru/user/22tr7q9v4bfhjh9wcbvpy5grrw",
+                "rating": 5
+            },
+            {
+                "author_name": "Поле Чудесный",
+                "author_profession": 7,
+                "date": "2021-04-21",
+                "comment": "Впечатляюще",
+                "author_url": "https://reviews.yandex.ru/user/738pwtqaea8xzax92h4mnwbf7c",
+                "rating": 5
+            },
+            {
+                "author_name": "urcan",
+                "author_profession": 9,
+                "date": "2020-11-15",
+                "comment": "Хороший музей.",
+                "author_url": "https://reviews.yandex.ru/user/1uu67wfcz0hndnqm4kpx3ummwc",
+                "rating": 4
+            },
+            {
+                "author_name": "info@neoprint.by",
+                "author_profession": 6,
+                "date": "2018-03-21",
+                "comment": "Для любителей картинных галерей очень хорошее место. Тихо, спокойно.",
+                "author_url": "https://reviews.yandex.ru/user/z12v9wyjethyabv6jw8mhgkt40",
+                "rating": 5
+            },
+            {
+                "author_name": "Илья Степанов",
+                "author_profession": 4,
+                "date": "2018-11-08",
+                "comment": "Довольно интересно много разных скульптур",
+                "author_url": "https://reviews.yandex.ru/user/fn8y1rk791qwk35ya1xavrd2z8",
+                "rating": 4
+            },
+            {
+                "author_name": "miss-moon",
+                "author_profession": 10,
+                "date": "2018-11-07",
+                "comment": "Настоящий запах истории, частичка прошлого, гордость города!",
+                "author_url": "https://reviews.yandex.ru/user/9hu253knvb1j5gt01x461yhdjw",
+                "rating": 5
+            },
+            {
+                "author_name": "андрей королев",
+                "author_profession": 7,
+                "date": "2020-02-24",
+                "comment": "Музей как музей",
+                "author_url": "https://reviews.yandex.ru/user/xpjxzn26ma111dv9cjdvnrf1rw",
+                "rating": 4
+            },
+            {
+                "author_name": "Светлана Б.",
+                "author_profession": 9,
+                "date": "2019-12-26",
+                "comment": "Хороший музей.",
+                "author_url": "https://reviews.yandex.ru/user/t8dtkg0u7crvern7ry6ajmcqbm",
+                "rating": 5
+            },
+            {
+                "author_name": "Сергей Никитин",
+                "author_profession": 7,
+                "date": "2019-01-09",
+                "comment": "Иногда бывают интересный выставки.",
+                "author_url": "",
+                "rating": 5
+            }
+        ]
+    }
+}

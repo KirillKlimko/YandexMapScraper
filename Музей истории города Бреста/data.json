@@ -1,0 +1,222 @@
+{
+    "object_name": "Музей истории города Бреста",
+    "object_id": 1019733199,
+    "contact": [
+        "+375162213683",
+        "+375162213684"
+    ],
+    "business_url": "history.brest.museum.by",
+    "object_category": "Музей",
+    "object_links": [],
+    "address": "Брест, ул. Леваневского, 3",
+    "work_time": {
+        "Понедельник": "Выходной",
+        "Вторник": "10:00 – 17:15",
+        "Среда": "10:00 – 17:15",
+        "Четверг": "10:00 – 17:15",
+        "Пятница": "10:00 – 17:15",
+        "Суббота": "10:00 – 17:15",
+        "Воскресенье": "10:00 – 17:15"
+    },
+    "features": null,
+    "rating": 4.2,
+    "attendance": {},
+    "number_of_votes": 48,
+    "number_of_review": 16,
+    "similar_objects": [
+        {
+            "object_id": 1291990106,
+            "object_name": "Евреи Бреста",
+            "object_link": "https://yandex.by/maps/org/yevrei_bresta/1291990106/"
+        },
+        {
+            "object_id": 1006873021,
+            "object_name": "Краеведческий музей",
+            "object_link": "https://yandex.by/maps/org/brestskiy_oblastnoy_krayevedcheskiy_muzey/1006873021/"
+        },
+        {
+            "object_id": 1253815606,
+            "object_name": "Музей железнодорожной техники",
+            "object_link": "https://yandex.by/maps/org/brestskiy_muzey_zheleznodorozhnoy_tekhniki/1253815606/"
+        },
+        {
+            "object_id": 163756928949,
+            "object_name": "Музей 5-й Форт",
+            "object_link": "https://yandex.by/maps/org/muzey_5_y_fort_filial_gu_memorialny_kompleks_brestskaya_krepost_geroy/163756928949/"
+        },
+        {
+            "object_id": 1256398083,
+            "object_name": "Спасённые художественные ценности",
+            "object_link": "https://yandex.by/maps/org/uk_brestskiy_oblastnoy_krayevedcheskiy_muzey_filial_spasyonnyye_khudozhestvennyye_tsennosti/1256398083/"
+        },
+        {
+            "object_id": 245331030178,
+            "object_name": "Сад непрерывного цветения",
+            "object_link": "https://yandex.by/maps/org/uo_brestskiy_gosudarstvenny_universitet_imeni_a_s_pushkina_tsentr_ekologii_sad_nepreryvnogo_tsveteniya/245331030178/"
+        },
+        {
+            "object_id": 1087224369,
+            "object_name": "Берестье",
+            "object_link": "https://yandex.by/maps/org/arkheologicheskiy_muzey_berestye/1087224369/"
+        },
+        {
+            "object_id": 1094612089,
+            "object_name": "Брестская крепость",
+            "object_link": "https://yandex.by/maps/org/gu_memorialny_kompleks_brestskaya_krepost_geroy/1094612089/"
+        },
+        {
+            "object_id": 121370459315,
+            "object_name": "Музей обороны Брестской крепости",
+            "object_link": "https://yandex.by/maps/org/muzey_oborony_brestskoy_kreposti/121370459315/"
+        },
+        {
+            "object_id": 62762718558,
+            "object_name": "Выставочно-торговый павильон",
+            "object_link": "https://yandex.by/maps/org/vystavochno_torgovy_pavilyon_muzeya_zheleznodorozhnoy_tekhniki/62762718558/"
+        }
+    ],
+    "reviews_info": {
+        "type_reviews": {
+            "музей ": 10,
+            "приятное место ": 1,
+            "экспозиция ": 3,
+            "приветливые люди ": 1,
+            "грозный присмотр ": 1,
+            "русский язык ": 2,
+            "научный сотрудник ": 1,
+            "второй этаж ": 2,
+            "очень интересно ": 2,
+            "экскурсовод ": 5
+        },
+        "reviews": [
+            {
+                "author_name": "Ольга Г.",
+                "author_profession": 4,
+                "date": "2021-09-15",
+                "comment": "Небольшой, но интересный музей. Оперативно организовали индивидуальную экскурсию, оторвав научного сотрудника от стрижки газона))) Экскурсовод Александр работает с отдачей, юмором, с удовольствием отвечает на вопросы",
+                "author_url": "https://reviews.yandex.ru/user/y5e9rhvh2qmccvr6ew73dfh5j0",
+                "rating": 5
+            },
+            {
+                "author_name": "Алексей Колосковъ",
+                "author_profession": 11,
+                "date": "2021-08-08",
+                "comment": "Музей истории города Бреста. Хоть помещения в особняке и небольшие, но всё изложено прекрасно. По истории много информации и всё можно прочитать и понять даже без экскурсовода.",
+                "author_url": "https://reviews.yandex.ru/user/h30ubv24xx1k7px1cnqqvqatmc",
+                "rating": 5
+            },
+            {
+                "author_name": "Павел Кобальт",
+                "author_profession": 4,
+                "date": "2021-11-03",
+                "comment": "Обязательно закажите обзор по музею. Музей хоть и небольшой, но с обзором очень интересно.",
+                "author_url": "https://reviews.yandex.ru/user/77bhcxd3xvfj4xh0j20g9mqjmg",
+                "rating": 5
+            },
+            {
+                "author_name": "SIARHEI VASILENKA",
+                "author_profession": 5,
+                "date": "2021-10-25",
+                "comment": "Это музей. Что тут ещё можно сказать. Жить в Бресте, быть гостем нашего города, и не посетить музей... это стыдно.",
+                "author_url": "https://reviews.yandex.ru/user/0j996tjf6m30unqb40hh6vbkcm",
+                "rating": 5
+            },
+            {
+                "author_name": "Alexandr Liperaun",
+                "author_profession": 21,
+                "date": "2021-04-29",
+                "comment": "Самый классный музей Бреста, много игрушек, других интересных винтажных вещей. Крутяк👍🏻",
+                "author_url": "https://reviews.yandex.ru/user/liperaun",
+                "rating": 5
+            },
+            {
+                "author_name": "светлана мельникова",
+                "author_profession": 2,
+                "date": "2022-01-07",
+                "comment": "Отличная экскурсия ,спасибо Александру!",
+                "author_url": "https://reviews.yandex.ru/user/ecead9p798y5ta98802dgu3yxm",
+                "rating": 5
+            },
+            {
+                "author_name": "Владимир Ш.",
+                "author_profession": 12,
+                "date": "2019-10-23",
+                "comment": "Приятный музей... Маленький с небольшой экспозицией по теме истории города.\nСмутило отсутствие надписей на русском языке на некоторых табличках к экспонатам.",
+                "author_url": "https://reviews.yandex.ru/user/wh18jxrz15zhggfy966m9fc8dg",
+                "rating": 4
+            },
+            {
+                "author_name": "Лилия Ховавко",
+                "author_profession": 10,
+                "date": "2019-11-22",
+                "comment": "Приезжайте в Брест, посетите исторический музей, там прекрасные гиды все вам расскажут.Очень интересно там побывать",
+                "author_url": "https://reviews.yandex.ru/user/6parxdb1bmae6x3evc6h1zbg4w",
+                "rating": 5
+            },
+            {
+                "author_name": "Ната Nata",
+                "author_profession": 9,
+                "date": "2019-05-05",
+                "comment": "На первом этаже ни одной надписи на русском языке. Без экскурсовода ничегошеньки не понятно, а его нет. То есть в принципе он, наверное, есть, но приходит на работу не каждый день. На втором этаже уже что-то подписано по-русски, но опять-таки необходимы пояснения. Походили, походили под грозным присмотром сотрудницы и ушли восвояси.",
+                "author_url": "https://reviews.yandex.ru/user/ud276q5ym005embyfte5x4y3w0",
+                "rating": 3
+            },
+            {
+                "author_name": "Анастасия С.",
+                "author_profession": 3,
+                "date": "2018-09-21",
+                "comment": "Музей стоит посетить. Экспозиция небольшая, квадратов на 50. Много интересных экспонатов 20 века на втором этаже, на первом — пара подлинных картин.",
+                "author_url": "https://reviews.yandex.ru/user/6ptmrea9x7kaw27ekxp5eqcwyc",
+                "rating": 4
+            },
+            {
+                "author_name": "Anastasia M",
+                "author_profession": 13,
+                "date": "2020-01-30",
+                "comment": "То место, куда точно нужно сходить!!! Удивительно много икон исторических ❤",
+                "author_url": "https://reviews.yandex.ru/user/b1784unfngy27k508unuykpr08",
+                "rating": 5
+            },
+            {
+                "author_name": "alexandra p.",
+                "author_profession": 5,
+                "date": "2020-02-22",
+                "comment": "Приятное место, приветливые люди работают. 2 этажа",
+                "author_url": "https://reviews.yandex.ru/user/9arf83zxavmd0envwdb613fppg",
+                "rating": 5
+            },
+            {
+                "author_name": "Владимир Соловей",
+                "author_profession": 9,
+                "date": "2020-03-11",
+                "comment": "Экспозицию надо посмотреть всем",
+                "author_url": "https://reviews.yandex.ru/user/kjk9uk7jq65g1udqggkd2n2yum",
+                "rating": 5
+            },
+            {
+                "author_name": "Naische K.",
+                "author_profession": 4,
+                "date": "2020-01-24",
+                "comment": "Небольшой, но интересный музей",
+                "author_url": "https://reviews.yandex.ru/user/91zhz1v7f37rppyz52c6ker3vc",
+                "rating": 4
+            },
+            {
+                "author_name": "Олег",
+                "author_profession": 9,
+                "date": "2019-03-04",
+                "comment": "Супер экскурсовод Татьяна. Рекомендую !",
+                "author_url": "https://reviews.yandex.ru/user/f3979vm9fbxh1cxep0jzze3j0r",
+                "rating": 5
+            },
+            {
+                "author_name": "Александр Капчук",
+                "author_profession": 11,
+                "date": "2018-06-27",
+                "comment": "Небольшой музей, уютный и без людей. С ворчливыми тетушками на борту",
+                "author_url": "https://reviews.yandex.ru/user/vnckzqyvm6kdh5ddtcd88an400",
+                "rating": 4
+            }
+        ]
+    }
+}

@@ -1,0 +1,116 @@
+{
+    "object_name": "Хойникский районный краеведческий музей",
+    "object_id": 1163833820,
+    "contact": [
+        "+375234625075",
+        "+375234625083"
+    ],
+    "business_url": "hoiniki.museum.by",
+    "object_category": "Музей",
+    "object_links": [
+        "https://ok.ru/group/58082849259554",
+        "https://vk.com/hoinikikraeved_museum",
+        "https://www.instagram.com/museum_hoiniki/",
+        "https://youtube.com/channel/UCpig5KsmVS-nrX0MDoJjeVw"
+    ],
+    "address": "Хойники, ул. Карла Маркса, 19",
+    "work_time": {
+        "Понедельник": "Выходной",
+        "Вторник": "09:00 – 18:00",
+        "Среда": "09:00 – 18:00",
+        "Четверг": "09:00 – 18:00",
+        "Пятница": "09:00 – 18:00",
+        "Суббота": "09:00 – 18:00",
+        "Воскресенье": "09:00 – 18:00"
+    },
+    "features": null,
+    "rating": 3.9,
+    "attendance": {},
+    "number_of_votes": 27,
+    "number_of_review": 8,
+    "similar_objects": [
+        {
+            "object_id": 35616754936,
+            "object_name": "Усадебный дом Ваньковичей",
+            "object_link": "https://yandex.by/maps/org/usadebny_dom_vankovichey/35616754936/"
+        },
+        {
+            "object_id": 218009616041,
+            "object_name": "Дом-музей Ивана Мележа",
+            "object_link": "https://yandex.by/maps/org/dom_muzey_ivana_melezha/218009616041/"
+        }
+    ],
+    "reviews_info": {
+        "type_reviews": {
+            "красивое здание ": 1,
+            "крайняя мера ": 1,
+            "музей ": 5
+        },
+        "reviews": [
+            {
+                "author_name": "людмила кузьменко",
+                "author_profession": 9,
+                "date": "2021-08-14",
+                "comment": "Музей города, все отлично!",
+                "author_url": "https://reviews.yandex.ru/user/rubfqqj12mtmtr51mgfqfpapdw",
+                "rating": 5
+            },
+            {
+                "author_name": "Марина Чернова",
+                "author_profession": 9,
+                "date": "2020-09-30",
+                "comment": "Место красивое. Реставрация усадьбы неплохая, если можно это назвать реставрацией. По крайней мере постарались привести в порядок. Зачёт.",
+                "author_url": "https://reviews.yandex.ru/user/x0nq2cjve4uxubvrudpd60nzbw",
+                "rating": 5
+            },
+            {
+                "author_name": "Сергей Кравчук",
+                "author_profession": 6,
+                "date": "2019-05-23",
+                "comment": "По факту для такого музея цены невысокие. НО... За фото надо платить отдельно, за видео отдельно. Для тех экспозиций (стандартных для многих музеев Беларуси) это перебор. Ну и реставрация данного дома оставляет желать лучшего",
+                "author_url": "https://reviews.yandex.ru/user/pa4qz837egankz3a6meckfug1m",
+                "rating": 4
+            },
+            {
+                "author_name": "Сергей З.",
+                "author_profession": 8,
+                "date": "2021-12-24",
+                "comment": "Дорого.рутинно",
+                "author_url": "https://reviews.yandex.ru/user/wwbqtwaq7yfuv6yrzg7zum6vt8",
+                "rating": 3
+            },
+            {
+                "author_name": "Наталья Назаренко",
+                "author_profession": 5,
+                "date": "2019-09-03",
+                "comment": "Гости нашего города всегда посещают этот музей можно увидеть и узнать много интересного",
+                "author_url": "https://reviews.yandex.ru/user/pkerbn4z20rv6jj6ep5nwvztm8",
+                "rating": 5
+            },
+            {
+                "author_name": "KlinHas",
+                "author_profession": 14,
+                "date": "2021-01-30",
+                "comment": "Красивое здание, музей тоже достаточно информативный.",
+                "author_url": "",
+                "rating": 5
+            },
+            {
+                "author_name": "наталья",
+                "author_profession": 9,
+                "date": "2019-12-15",
+                "comment": "Хороший краеведческий музей, где можно узнать историю райна",
+                "author_url": "https://reviews.yandex.ru/user/25n8t3a2q6cbg3cb3p6qft8y5w",
+                "rating": 5
+            },
+            {
+                "author_name": "Анастасия В.",
+                "author_profession": 5,
+                "date": "2020-05-19",
+                "comment": "Ничего необычного",
+                "author_url": "https://reviews.yandex.ru/user/x0cw8rzbt4gr6bbd2hgfp7w9d0",
+                "rating": 4
+            }
+        ]
+    }
+}

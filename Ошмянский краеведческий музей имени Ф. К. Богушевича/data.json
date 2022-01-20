@@ -1,0 +1,74 @@
+{
+    "object_name": "Ошмянский краеведческий музей имени Ф. К. Богушевича",
+    "object_id": 1099871257,
+    "contact": [],
+    "business_url": "oshmuz.by",
+    "object_category": "Музей",
+    "object_links": [],
+    "address": "Ошмяны, Советская ул., 126",
+    "work_time": {
+        "Понедельник": "Выходной",
+        "Вторник": "10:00 – 19:00",
+        "Среда": "10:00 – 19:00",
+        "Четверг": "10:00 – 19:00",
+        "Пятница": "10:00 – 19:00",
+        "Суббота": "10:00 – 19:00",
+        "Воскресенье": "10:00 – 19:00"
+    },
+    "features": null,
+    "rating": 4.1,
+    "attendance": {},
+    "number_of_votes": 11,
+    "number_of_review": 3,
+    "similar_objects": [
+        {
+            "object_id": 1001241031,
+            "object_name": "Музей-усадьба Ф.Богушевича",
+            "object_link": "https://yandex.by/maps/org/muzey_usadba_frantishka_bogushevicha_kushlyany/1001241031/"
+        },
+        {
+            "object_id": 8680173691,
+            "object_name": "Усадьба Знахаря",
+            "object_link": "https://yandex.by/maps/org/dom_muzey_usadba_znakharya/8680173691/"
+        },
+        {
+            "object_id": 41559701359,
+            "object_name": "Водяная мельница",
+            "object_link": "https://yandex.by/maps/org/vodyanaya_melnitsa/41559701359/"
+        }
+    ],
+    "reviews_info": {
+        "type_reviews": {
+            "основная экспозиция ": 1,
+            "хорошие женщины ": 1,
+            "краеведческий музей ": 1,
+            "тематические выставки ": 1
+        },
+        "reviews": [
+            {
+                "author_name": "Виталий Шумский",
+                "author_profession": 11,
+                "date": "2021-10-09",
+                "comment": "Как любой краеведческий музей. Основная экспозиция посвящена району. Периодически проходят тематические выставки. персонал приветливый. Очень мало рекламы и завлекухи.",
+                "author_url": "https://reviews.yandex.ru/user/76qdkkhzed36kt74t7pwnnju7g",
+                "rating": 5
+            },
+            {
+                "author_name": "newazno_kto",
+                "author_profession": 5,
+                "date": "2021-04-05",
+                "comment": "Для себя ничего особого не увидела, было даже скучновато. С каждым годом ничего не меняется там..всё маленькое, мало пространства. Единственное, - работают там хорошие женщины, к ним нет притензий",
+                "author_url": "https://reviews.yandex.ru/user/jy2jrdg9q09kbx1t3uwjcuwg4w",
+                "rating": 2
+            },
+            {
+                "author_name": "kirill2007 and max",
+                "author_profession": 4,
+                "date": "2020-01-02",
+                "comment": "Интересно взрослым и детям, экспонаты реалистичные",
+                "author_url": "https://reviews.yandex.ru/user/9ec674eezqffh3gek0f47bhb5r",
+                "rating": 5
+            }
+        ]
+    }
+}

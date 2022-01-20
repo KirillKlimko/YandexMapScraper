@@ -1,0 +1,67 @@
+{
+    "object_name": "Шумилинский историко-краеведческий музей",
+    "object_id": 1007576685,
+    "contact": [
+        "+375213041191"
+    ],
+    "business_url": null,
+    "object_category": "Музей",
+    "object_links": [],
+    "address": "городской посёлок Шумилино, ул. Короткина, 12",
+    "work_time": {
+        "Понедельник": "Выходной",
+        "Вторник": "09:00 – 13:0014:00 – 18:00",
+        "Среда": "09:00 – 13:0014:00 – 18:00",
+        "Четверг": "09:00 – 13:0014:00 – 18:00",
+        "Пятница": "09:00 – 13:0014:00 – 18:00",
+        "Суббота": "09:00 – 13:0014:00 – 18:00",
+        "Воскресенье": "09:00 – 13:0014:00 – 18:00"
+    },
+    "features": null,
+    "rating": 4.0,
+    "attendance": {},
+    "number_of_votes": 23,
+    "number_of_review": 4,
+    "similar_objects": [],
+    "reviews_info": {
+        "type_reviews": {
+            "отличный музей ": 1,
+            "знающие гиды ": 1,
+            "отличное место ": 1
+        },
+        "reviews": [
+            {
+                "author_name": "Александр Урбан",
+                "author_profession": 7,
+                "date": "2021-09-03",
+                "comment": "Интересно",
+                "author_url": "https://reviews.yandex.ru/user/mk59ttmfuvmrez73w26gcewfy8",
+                "rating": 5
+            },
+            {
+                "author_name": "Сергей Бородулин",
+                "author_profession": 10,
+                "date": "2020-07-24",
+                "comment": "Знающие гиды",
+                "author_url": "https://reviews.yandex.ru/user/v6e6d0fqz7pjetzk3ee3abh914",
+                "rating": 5
+            },
+            {
+                "author_name": "Денис Тюрин",
+                "author_profession": 9,
+                "date": "2019-11-14",
+                "comment": "Отличный музей",
+                "author_url": "https://reviews.yandex.ru/user/528echkkr1gn13fjhr9gavrz6g",
+                "rating": 5
+            },
+            {
+                "author_name": "Алина",
+                "author_profession": 5,
+                "date": "2020-01-29",
+                "comment": "Отличное место",
+                "author_url": "https://reviews.yandex.ru/user/7ndf5ccaq39buprphr9vgh0zpw",
+                "rating": 5
+            }
+        ]
+    }
+}

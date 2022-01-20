@@ -1,0 +1,53 @@
+{
+    "object_name": "Костюковичский краеведческий музей",
+    "object_id": 1026275056,
+    "contact": [],
+    "business_url": "kostukovichi.gov.by",
+    "object_category": "Музей",
+    "object_links": [
+        "https://twitter.com/golkby"
+    ],
+    "address": "Костюковичи, Ленинская ул., 21",
+    "work_time": {
+        "Понедельник": "08:00 – 13:0014:00 – 17:00",
+        "Вторник": "08:00 – 13:0014:00 – 17:00",
+        "Среда": "08:00 – 13:0014:00 – 17:00",
+        "Четверг": "08:00 – 13:0014:00 – 17:00",
+        "Пятница": "08:00 – 13:0014:00 – 17:00",
+        "Суббота": "08:00 – 16:00",
+        "Воскресенье": "08:00 – 16:00"
+    },
+    "features": null,
+    "rating": 2.8,
+    "attendance": {},
+    "number_of_votes": 24,
+    "number_of_review": 2,
+    "similar_objects": [
+        {
+            "object_id": 112234967475,
+            "object_name": "Краеведческий музей",
+            "object_link": "https://yandex.by/maps/org/klimovichskiy_rayonny_krayevedcheskiy_muzey/112234967475/"
+        }
+    ],
+    "reviews_info": {
+        "type_reviews": {},
+        "reviews": [
+            {
+                "author_name": "Наташа С.",
+                "author_profession": 6,
+                "date": "2018-10-22",
+                "comment": "большая экспозиция. очень познавательно",
+                "author_url": "https://reviews.yandex.ru/user/vrf3x198nc6zvcmt11e1w76ktw",
+                "rating": 5
+            },
+            {
+                "author_name": "Марина Т.",
+                "author_profession": 8,
+                "date": "2019-07-13",
+                "comment": "Мало выставок",
+                "author_url": "https://reviews.yandex.ru/user/8xjqnb4bcdqzvcpyufn4qf5ma4",
+                "rating": 1
+            }
+        ]
+    }
+}

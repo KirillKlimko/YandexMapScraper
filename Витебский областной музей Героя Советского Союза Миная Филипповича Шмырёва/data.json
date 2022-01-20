@@ -1,0 +1,216 @@
+{
+    "object_name": "Витебский областной музей Героя Советского Союза Миная Филипповича Шмырёва",
+    "object_id": 199436971722,
+    "contact": [
+        "+375212265115"
+    ],
+    "business_url": "shmyrev.museum.by",
+    "object_category": "Музей",
+    "object_links": [
+        "http://facebook.com/groups/507865446231258",
+        "http://vk.com/shmyrev.museum"
+    ],
+    "address": "Витебск, ул. Чехова, 4",
+    "work_time": {
+        "Понедельник": "08:00 – 19:00",
+        "Вторник": "08:00 – 19:00",
+        "Среда": "08:00 – 19:00",
+        "Четверг": "08:00 – 19:00",
+        "Пятница": "08:00 – 19:00",
+        "Суббота": "08:00 – 19:00",
+        "Воскресенье": "08:00 – 19:00"
+    },
+    "features": null,
+    "rating": 4.3,
+    "attendance": {},
+    "number_of_votes": 47,
+    "number_of_review": 15,
+    "similar_objects": [
+        {
+            "object_id": 1259346234,
+            "object_name": "Арт-центр Марка Шагала",
+            "object_link": "https://yandex.by/maps/org/art_tsentr_marka_shagala/1259346234/"
+        },
+        {
+            "object_id": 1276934167,
+            "object_name": "Дом-музей Марка Шагала",
+            "object_link": "https://yandex.by/maps/org/dom_muzey_marka_shagala/1276934167/"
+        },
+        {
+            "object_id": 163531787849,
+            "object_name": "Художественный музей",
+            "object_link": "https://yandex.by/maps/org/khudozhestvenny_muzey/163531787849/"
+        },
+        {
+            "object_id": 79520000903,
+            "object_name": "Анатомический музей Вгавм",
+            "object_link": "https://yandex.by/maps/org/anatomicheskiy_muzey_vgavm/79520000903/"
+        },
+        {
+            "object_id": 1057023931,
+            "object_name": "Ратуша",
+            "object_link": "https://yandex.by/maps/org/ratusha/1057023931/"
+        },
+        {
+            "object_id": 1276055749,
+            "object_name": "Музей памяти патриотов Витебщины",
+            "object_link": "https://yandex.by/maps/org/ekspozitsiya_pamyati_patriotov_vitebshchiny_1941_1944_g_g_/1276055749/"
+        },
+        {
+            "object_id": 9848714794,
+            "object_name": "Церковно-археологический музей Витебской епархии",
+            "object_link": "https://yandex.by/maps/org/tserkovno_arkheologicheskiy_muzey_vitebskoy_yeparkhii/9848714794/"
+        },
+        {
+            "object_id": 1038245970,
+            "object_name": "Музей истории частного коллекционирования",
+            "object_link": "https://yandex.by/maps/org/muzey_istorii_chastnogo_kollektsionirovaniya/1038245970/"
+        },
+        {
+            "object_id": 72958159019,
+            "object_name": "Музей истории Витебского народного художественного училища",
+            "object_link": "https://yandex.by/maps/org/muzey_istorii_vitebskogo_narodnogo_khudozhestvennogo_uchilishcha/72958159019/"
+        },
+        {
+            "object_id": 1211343506,
+            "object_name": "Зал спортивной славы Витебщины",
+            "object_link": "https://yandex.by/maps/org/zal_sportivnoy_slavy_vitebshchiny/1211343506/"
+        }
+    ],
+    "reviews_info": {
+        "type_reviews": {
+            "дешевый вход ": 1,
+            "послевоенная атмосфера ": 1,
+            "музей ": 9,
+            "компетентное должное ": 1,
+            "рыжая кошка ": 1,
+            "экспонаты ": 4,
+            "добрый персонал ": 2,
+            "красивое место ": 1,
+            "экскурсия ": 3,
+            "патриотическое воспитание ": 1
+        },
+        "reviews": [
+            {
+                "author_name": "Илья С.",
+                "author_profession": 8,
+                "date": "2021-09-04",
+                "comment": "Был несколько раз там, достаточно много экспонатов, внутри есть все от пистолета до миномета, а снаружи на территории музея стоят партищанские землянки и платформа на рельсах",
+                "author_url": "https://reviews.yandex.ru/user/2j3d44e332gftp60d68pdrcubm",
+                "rating": 5
+            },
+            {
+                "author_name": "danaX",
+                "author_profession": 10,
+                "date": "2021-09-07",
+                "comment": "Очень интересный музей, очень приятный персонал, а самое главное это послевоенная атмосфера!",
+                "author_url": "https://reviews.yandex.ru/user/5qxav7qtucafgc9t7v6a9j6grw",
+                "rating": 5
+            },
+            {
+                "author_name": "Сергей Вив",
+                "author_profession": 12,
+                "date": "2021-11-15",
+                "comment": "сам музей внутри скучный но экспонаты наружии прикольные и кот есть",
+                "author_url": "https://reviews.yandex.ru/user/seregaviv40",
+                "rating": 5
+            },
+            {
+                "author_name": "Alexandr Liperaun",
+                "author_profession": 21,
+                "date": "2021-05-22",
+                "comment": "Нет оплаты картой :(\nНе самые интересные экспонаты\nНо очень дешевый вход\nА также очень добрый персонал",
+                "author_url": "https://reviews.yandex.ru/user/liperaun",
+                "rating": 4
+            },
+            {
+                "author_name": "Дмитрий Поляков",
+                "author_profession": 7,
+                "date": "2021-09-17",
+                "comment": "Отличный музей по второй мировой войне. Имени Шмырева.",
+                "author_url": "https://reviews.yandex.ru/user/7fxwr3b0rxaprph8h400e3f0e8",
+                "rating": 5
+            },
+            {
+                "author_name": "Кирилл П.",
+                "author_profession": 8,
+                "date": "2021-08-07",
+                "comment": "Музей, сам по себе, ничего, но экскурсовод, просто мастер своего дела",
+                "author_url": "https://reviews.yandex.ru/user/kirillpishelin",
+                "rating": 5
+            },
+            {
+                "author_name": "Владислав Романович",
+                "author_profession": 8,
+                "date": "2021-05-08",
+                "comment": "Неплохой музей , соответствует своим размерам. Детей сводит самое то .",
+                "author_url": "https://reviews.yandex.ru/user/n8dhcuce3ux3nrjyxfu6evrhrc",
+                "rating": 4
+            },
+            {
+                "author_name": "Анастасия Е.",
+                "author_profession": 17,
+                "date": "2019-09-12",
+                "comment": "Музей просто потрясает своей экспозицией!\nСохранность экспонатов - великолепнейшая!\nРазрешена и бесплатна фотосъёмка, некоторые экспонаты можно потрогать, сфотографироваться рядом.\nА ещё там живёт рыжая кошка))\nДружелюбная и любит когда её гладят!\nОчень понравилось, буду в Витебске, схожу ещё раз!",
+                "author_url": "",
+                "rating": 5
+            },
+            {
+                "author_name": "Анатолий Лазуркин",
+                "author_profession": 14,
+                "date": "2021-08-03",
+                "comment": "Нужно всем побывать",
+                "author_url": "https://reviews.yandex.ru/user/jqjhawrbrz5pgcjygzqbk503u0",
+                "rating": 5
+            },
+            {
+                "author_name": "Марсель Г.",
+                "author_profession": 7,
+                "date": "2019-06-19",
+                "comment": "Будете здесь, возьмите платную экскурсию. Сотрудник музея все расскажет и покажет.",
+                "author_url": "https://reviews.yandex.ru/user/4ax61tbrtk1q0cgh42khpzkxa8",
+                "rating": 5
+            },
+            {
+                "author_name": "Александр захаров",
+                "author_profession": 7,
+                "date": "2020-01-21",
+                "comment": "красивое место не забудьте погладить ваську плиз",
+                "author_url": "https://reviews.yandex.ru/user/845z0rcj0jtvu2xvcj0b8vc9km",
+                "rating": 5
+            },
+            {
+                "author_name": "Andrey Zhavoronkov",
+                "author_profession": 7,
+                "date": "2019-11-28",
+                "comment": "Компетентное должное отношение к работе на высоком уровне. Спасибо.",
+                "author_url": "https://reviews.yandex.ru/user/ztvrvd76xb1470rrzpg3yvu88w",
+                "rating": 4
+            },
+            {
+                "author_name": "Trinity",
+                "author_profession": 18,
+                "date": "2019-08-18",
+                "comment": "Очень нужное место. Должны дети получать патриотическое воспитание.. А где же еще?",
+                "author_url": "",
+                "rating": 5
+            },
+            {
+                "author_name": "Алексей Д.",
+                "author_profession": 11,
+                "date": "2019-06-17",
+                "comment": "Отличный квест перед экскурсией!",
+                "author_url": "https://reviews.yandex.ru/user/pckd6knv9knevfe8x1c1hpxu9m",
+                "rating": 5
+            },
+            {
+                "author_name": "Александр Гилиждинов",
+                "author_profession": 12,
+                "date": "2020-01-22",
+                "comment": "Интересный музей",
+                "author_url": "https://reviews.yandex.ru/user/kjkevgyxq3vevbe9z9bv6u9a4g",
+                "rating": 5
+            }
+        ]
+    }
+}

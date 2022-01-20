@@ -1,0 +1,91 @@
+{
+    "object_name": "Мядельский музей народной славы",
+    "object_id": 1128573396,
+    "contact": [
+        "+375179727522"
+    ],
+    "business_url": "myadel.museum.by",
+    "object_category": "Музей",
+    "object_links": [
+        "https://ok.ru/group/57584513450176",
+        "https://vk.com/public194226566"
+    ],
+    "address": "Мядель, ул. П.М. Шаранговича, 1",
+    "work_time": {
+        "Понедельник": "Выходной",
+        "Вторник": "09:00 – 18:00",
+        "Среда": "09:00 – 18:00",
+        "Четверг": "09:00 – 18:00",
+        "Пятница": "09:00 – 18:00",
+        "Суббота": "09:00 – 18:00",
+        "Воскресенье": "09:00 – 18:00"
+    },
+    "features": null,
+    "rating": 3.9,
+    "attendance": {},
+    "number_of_votes": 18,
+    "number_of_review": 4,
+    "similar_objects": [
+        {
+            "object_id": 95801910929,
+            "object_name": "Дендрологический сад им. С.А. Гомзы",
+            "object_link": "https://yandex.by/maps/org/dendrologicheskiy_sad_imeni_s_a_gomzy/95801910929/"
+        },
+        {
+            "object_id": 208340173583,
+            "object_name": "Музей леса",
+            "object_link": "https://yandex.by/maps/org/muzey_lesa/208340173583/"
+        },
+        {
+            "object_id": 1016347444,
+            "object_name": "Краеведческий музей",
+            "object_link": "https://yandex.by/maps/org/postavskiy_rayonny_krayevedcheskiy_muzey/1016347444/"
+        },
+        {
+            "object_id": 234080745012,
+            "object_name": "Музей лагеря",
+            "object_link": "https://yandex.by/maps/org/muzey_ndts_zubryonok/234080745012/"
+        }
+    ],
+    "reviews_info": {
+        "type_reviews": {
+            "очень красиво ": 1,
+            "очень интересно ": 1,
+            "интересная экскурсия ": 1
+        },
+        "reviews": [
+            {
+                "author_name": "Евгений М.",
+                "author_profession": 13,
+                "date": "2021-08-27",
+                "comment": "Спасибо за очень интересную экскурсию. Проводил мужчина. Не запомнил имя. Получилось очень интересно!!!",
+                "author_url": "https://reviews.yandex.ru/user/wyn58m55crq7jvzj6y0chmt7qg",
+                "rating": 5
+            },
+            {
+                "author_name": "Сергей Останкин",
+                "author_profession": 7,
+                "date": "2019-05-26",
+                "comment": "Музей небольшой, но очень красиво оформлен. С удовольствием в нем побывал.",
+                "author_url": "https://reviews.yandex.ru/user/31vy4cgbmxuca3a63n54an8yv4",
+                "rating": 5
+            },
+            {
+                "author_name": "alex22",
+                "author_profession": 10,
+                "date": "2019-03-02",
+                "comment": "На любителя, но как по мне, скукота, нечего посмотреть",
+                "author_url": "https://reviews.yandex.ru/user/4fkma2zqtvyyhxgr4ng2430jbg",
+                "rating": 3
+            },
+            {
+                "author_name": "Anatol B.",
+                "author_profession": 7,
+                "date": "2020-06-13",
+                "comment": "Роднае месца",
+                "author_url": "https://reviews.yandex.ru/user/q1dhx4wqvvt53ef30c062qvp0c",
+                "rating": 5
+            }
+        ]
+    }
+}

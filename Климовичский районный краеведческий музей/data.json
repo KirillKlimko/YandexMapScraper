@@ -1,0 +1,48 @@
+{
+    "object_name": "Климовичский районный краеведческий музей",
+    "object_id": 112234967475,
+    "contact": [],
+    "business_url": null,
+    "object_category": "Музей",
+    "object_links": [],
+    "address": "Климовичи, Советская ул., 69",
+    "work_time": {
+        "Понедельник": "Выходной",
+        "Вторник": "08:00 – 18:00",
+        "Среда": "08:00 – 18:00",
+        "Четверг": "08:00 – 18:00",
+        "Пятница": "08:00 – 18:00",
+        "Суббота": "09:00 – 18:00",
+        "Воскресенье": "09:00 – 18:00"
+    },
+    "features": null,
+    "rating": 3.1,
+    "attendance": {},
+    "number_of_votes": 6,
+    "number_of_review": 1,
+    "similar_objects": [
+        {
+            "object_id": 35999034249,
+            "object_name": "Дворец Потёмкина",
+            "object_link": "https://yandex.by/maps/org/dvorets_potyomkina/35999034249/"
+        },
+        {
+            "object_id": 76130529471,
+            "object_name": "Kryčaŭ District Homeland Museum",
+            "object_link": "https://yandex.by/maps/org/kry_a_district_homeland_museum/76130529471/"
+        }
+    ],
+    "reviews_info": {
+        "type_reviews": {},
+        "reviews": [
+            {
+                "author_name": "Дмитрий",
+                "author_profession": 14,
+                "date": "2020-08-30",
+                "comment": "В полне себе интересное место , директор и историк очень интересный человек , интересно рассказывает ,и много фактов которые вы не найдете в интернете ... Но сможете узнать Здесь )) всем мира, добра .",
+                "author_url": "",
+                "rating": 4
+            }
+        ]
+    }
+}

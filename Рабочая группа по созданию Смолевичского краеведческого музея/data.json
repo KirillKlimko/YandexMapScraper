@@ -1,0 +1,70 @@
+{
+    "object_name": "Рабочая группа по созданию Смолевичского краеведческого музея",
+    "object_id": 191764952325,
+    "contact": [],
+    "business_url": null,
+    "object_category": "Музей",
+    "object_links": [],
+    "address": "Смолевичи, Советская ул., 143А",
+    "work_time": {},
+    "features": null,
+    "rating": 1.9,
+    "attendance": {},
+    "number_of_votes": 13,
+    "number_of_review": 1,
+    "similar_objects": [
+        {
+            "object_id": 19115135448,
+            "object_name": "Музей В.Ф. Купревича",
+            "object_link": "https://yandex.by/maps/org/muzey_v_f_kuprevicha/19115135448/"
+        },
+        {
+            "object_id": 204991499151,
+            "object_name": "Музей БелАЗ",
+            "object_link": "https://yandex.by/maps/org/muzey_belaz/204991499151/"
+        },
+        {
+            "object_id": 64428289193,
+            "object_name": "Районный Дом ремесел",
+            "object_link": "https://yandex.by/maps/org/rayonny_dom_remesel/64428289193/"
+        },
+        {
+            "object_id": 1022854786,
+            "object_name": "Дом-музей А.Ф. Куприяновой",
+            "object_link": "https://yandex.by/maps/org/dom_muzey_a_f_kupriyanovoy_gu_krayevedcheskiy_muzey/1022854786/"
+        },
+        {
+            "object_id": 1177434802,
+            "object_name": "Музей им. Тышкевичей",
+            "object_link": "https://yandex.by/maps/org/logoyskiy_istoriko_krayevedcheskiy_muzey_imeni_konstantina_i_yevstafiya_tyshkevichey/1177434802/"
+        },
+        {
+            "object_id": 136096182269,
+            "object_name": "Музыкальная гостиная Станислава Монюшко",
+            "object_link": "https://yandex.by/maps/org/muzykalnaya_gostinaya_stanislava_monyushko/136096182269/"
+        },
+        {
+            "object_id": 1022438853,
+            "object_name": "Краеведческий музей",
+            "object_link": "https://yandex.by/maps/org/rayonny_krayevedcheskiy_muzey/1022438853/"
+        },
+        {
+            "object_id": 83352033443,
+            "object_name": "Галерея им. С. Давидовича",
+            "object_link": "https://yandex.by/maps/org/khudozhestvennaya_galereya_imeni_sergeya_davidovicha/83352033443/"
+        }
+    ],
+    "reviews_info": {
+        "type_reviews": {},
+        "reviews": [
+            {
+                "author_name": "D M",
+                "author_profession": 13,
+                "date": "2021-10-14",
+                "comment": "Одна из не многих полезных достопримечательностей города",
+                "author_url": "https://reviews.yandex.ru/user/q703ab8y5cduap7tfqvqad4djc",
+                "rating": 5
+            }
+        ]
+    }
+}

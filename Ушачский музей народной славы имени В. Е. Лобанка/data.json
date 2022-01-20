@@ -1,0 +1,148 @@
+{
+    "object_name": "Ушачский музей народной славы имени В. Е. Лобанка",
+    "object_id": 7160848116,
+    "contact": [],
+    "business_url": "ushachi.museum.by",
+    "object_category": "Музей",
+    "object_links": [
+        "https://vk.com/club26744224"
+    ],
+    "address": "городской посёлок Ушачи, Ленинская ул., 29",
+    "work_time": {},
+    "features": null,
+    "rating": 4.0,
+    "attendance": {},
+    "number_of_votes": 23,
+    "number_of_review": 8,
+    "similar_objects": [
+        {
+            "object_id": 9113527246,
+            "object_name": "Старая мельница",
+            "object_link": "https://yandex.by/maps/org/staraya_melnitsa/9113527246/"
+        },
+        {
+            "object_id": 219750236589,
+            "object_name": "Дом Рыгора Бородулина",
+            "object_link": "https://yandex.by/maps/org/dom_rygora_borodulina/219750236589/"
+        },
+        {
+            "object_id": 1008258625,
+            "object_name": "Краеведческий музей",
+            "object_link": "https://yandex.by/maps/org/krayevedcheskiy_muzey/1008258625/"
+        },
+        {
+            "object_id": 234362087553,
+            "object_name": "Усадьба-музей Быкова",
+            "object_link": "https://yandex.by/maps/org/usadba_muzey_pisatelya_v_v_bykova/234362087553/"
+        },
+        {
+            "object_id": 41545796613,
+            "object_name": "Усадьба Гребницких",
+            "object_link": "https://yandex.by/maps/org/usadebno_parkovy_ansambl_grebnitskikh/41545796613/"
+        },
+        {
+            "object_id": 1048540931,
+            "object_name": "Дом-музей Петруся Бровки",
+            "object_link": "https://yandex.by/maps/org/dom_muzey_petrusya_brovki/1048540931/"
+        },
+        {
+            "object_id": 57447012157,
+            "object_name": "Водяная мельница",
+            "object_link": "https://yandex.by/maps/org/vodyanaya_melnitsa/57447012157/"
+        },
+        {
+            "object_id": 43751071178,
+            "object_name": "Усадьба Малиновских",
+            "object_link": "https://yandex.by/maps/org/usadebno_parkovy_kompleks_malinovskikh/43751071178/"
+        },
+        {
+            "object_id": 3715843555,
+            "object_name": "Группа камней Яново",
+            "object_link": "https://yandex.by/maps/org/gruppa_kamney_yanovo/3715843555/"
+        },
+        {
+            "object_id": 28925374046,
+            "object_name": "ДОТ",
+            "object_link": "https://yandex.by/maps/org/dot/28925374046/"
+        }
+    ],
+    "reviews_info": {
+        "type_reviews": {
+            "исторические факты ": 1,
+            "плохое освещение ": 1,
+            "маленький городок ": 1,
+            "хороший музей ": 4,
+            "очень круто ": 1,
+            "интересные экскурсии ": 1,
+            "ремонт ": 3,
+            "очень интересно ": 1,
+            "хорошие экспозиции ": 1
+        },
+        "reviews": [
+            {
+                "author_name": "Юлия Хромцева",
+                "author_profession": 5,
+                "date": "2021-04-05",
+                "comment": "Очень круто, что в таком маленьком городке есть свой достойный музей. Все очень интересно. Из того что не очень:плохое освещение экспонатов, темно и мрачновато. Но, оговорюсь, были в музее 2 раза до реставрации. Возможно, сейчас все по-другому.",
+                "author_url": "https://reviews.yandex.ru/user/86aq2fbkujwd66x4ntcxkku1e8",
+                "rating": 5
+            },
+            {
+                "author_name": "Елизавета",
+                "author_profession": 9,
+                "date": "2020-08-24",
+                "comment": "То работает, то не работает. Постоянно какие-то ремонты",
+                "author_url": "https://reviews.yandex.ru/user/gqvpzj4m7wjzcn09h2bbt1hqpg",
+                "rating": 3
+            },
+            {
+                "author_name": "Анна Михаль",
+                "author_profession": 6,
+                "date": "2019-04-30",
+                "comment": "👍очень люблю посещать музей! Сейчас там идет ремонт, обязательно сходим в музей после ремонта!",
+                "author_url": "https://reviews.yandex.ru/user/qfhhubj21ae1nux7kgf4w373bm",
+                "rating": 5
+            },
+            {
+                "author_name": "Максим П.",
+                "author_profession": 5,
+                "date": "2019-06-12",
+                "comment": "Все классно, много экспонатов хорошие экспозиции.",
+                "author_url": "https://reviews.yandex.ru/user/kj6erzvhunwd2utftbrchppec8",
+                "rating": 5
+            },
+            {
+                "author_name": "Валентина Дубровина",
+                "author_profession": 3,
+                "date": "2019-08-23",
+                "comment": "Очень интересные экскурсии.Много исторических фактов об Ушачах.",
+                "author_url": "https://reviews.yandex.ru/user/c0w85cf2wnu30bpmkbj14v437g",
+                "rating": 5
+            },
+            {
+                "author_name": "Дмитрий Б.",
+                "author_profession": 4,
+                "date": "2019-05-08",
+                "comment": "Хороший музей,меня там ещё в пионеры принимали,с тех пор он стал ещё лучше",
+                "author_url": "https://reviews.yandex.ru/user/ux7bznv53646r5p0v0ehj55e6g",
+                "rating": 4
+            },
+            {
+                "author_name": "Илья Коваленко",
+                "author_profession": 8,
+                "date": "2019-03-19",
+                "comment": "Нормальный музей для ознакомления с ВОВ",
+                "author_url": "https://reviews.yandex.ru/user/xhb66jcr43dggdw12epxgqrtrg",
+                "rating": 4
+            },
+            {
+                "author_name": "Валентин П.",
+                "author_profession": 4,
+                "date": "2019-08-29",
+                "comment": "Понравилось.",
+                "author_url": "https://reviews.yandex.ru/user/ztu0jy30zqw30aj01n4ae0dxd0",
+                "rating": 1
+            }
+        ]
+    }
+}

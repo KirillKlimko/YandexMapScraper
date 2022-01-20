@@ -1,0 +1,40 @@
+{
+    "object_name": "Быховский районный историко-краеведческий музей",
+    "object_id": 102381700970,
+    "contact": [
+        "+375223149458"
+    ],
+    "business_url": "byhov.museum.by",
+    "object_category": "Музей",
+    "object_links": [
+        "https://ok.ru/group/54015399166046",
+        "https://vk.com/bykhowmus",
+        "https://www.instagram.com/bykhow_museum/"
+    ],
+    "address": "Быхов, ул. Ленина, 40",
+    "work_time": {
+        "Понедельник": "Выходной",
+        "Вторник": "08:00 – 18:00",
+        "Среда": "08:00 – 18:00",
+        "Четверг": "08:00 – 18:00",
+        "Пятница": "08:00 – 18:00",
+        "Суббота": "08:00 – 13:0014:00 – 17:00",
+        "Воскресенье": "08:00 – 13:0014:00 – 17:00"
+    },
+    "features": null,
+    "rating": 3.6,
+    "attendance": {},
+    "number_of_votes": null,
+    "number_of_review": 0,
+    "similar_objects": [
+        {
+            "object_id": 164287576864,
+            "object_name": "Замок Ходкевичей и Сапег",
+            "object_link": "https://yandex.by/maps/org/zamok_khodkevichey_i_sapeg/164287576864/"
+        }
+    ],
+    "reviews_info": {
+        "type_reviews": {},
+        "reviews": []
+    }
+}

@@ -1,0 +1,65 @@
+{
+    "object_name": "Чечерский историко-этнографический музей",
+    "object_id": 1003348639,
+    "contact": [
+        "+375233278838",
+        "+375233232838"
+    ],
+    "business_url": "chechersk.museum.by",
+    "object_category": "Музей",
+    "object_links": [
+        "http://ok.ru/guests",
+        "https://vk.com/checherskmuseum"
+    ],
+    "address": "Чечерск, ул. Ленина, 4",
+    "work_time": {
+        "Понедельник": "08:30 – 13:0014:00 – 17:30",
+        "Вторник": "08:30 – 13:0013:30 – 17:30",
+        "Среда": "08:30 – 13:0013:30 – 17:30",
+        "Четверг": "08:30 – 13:0013:30 – 17:30",
+        "Пятница": "08:30 – 13:0013:30 – 17:30",
+        "Суббота": "09:40 – 12:4013:00 – 16:00",
+        "Воскресенье": "Выходной"
+    },
+    "features": "Билеты:до 1 бел.руб.",
+    "rating": 3.6,
+    "attendance": {},
+    "number_of_votes": 10,
+    "number_of_review": 2,
+    "similar_objects": [
+        {
+            "object_id": 79584938479,
+            "object_name": "Усадебный комплекс Дориа-Дерналовичей",
+            "object_link": "https://yandex.by/maps/org/usadebny_kompleks_doria_dernalovichey/79584938479/"
+        },
+        {
+            "object_id": 1106497184,
+            "object_name": "ГУК Кормянский районный мемориальный музей",
+            "object_link": "https://yandex.by/maps/org/guk_kormyanskiy_rayonny_memorialny_muzey/1106497184/"
+        }
+    ],
+    "reviews_info": {
+        "type_reviews": {
+            "краевой музей ": 1,
+            "отличная достопримечательность ": 1
+        },
+        "reviews": [
+            {
+                "author_name": "Александр Тагаев",
+                "author_profession": 4,
+                "date": "2021-11-22",
+                "comment": "Отличная достопримечательность.",
+                "author_url": "https://reviews.yandex.ru/user/c7v07wmuq07m9rg8tebuk6kf9w",
+                "rating": 5
+            },
+            {
+                "author_name": "Сергей Руденков",
+                "author_profession": 8,
+                "date": "2020-02-02",
+                "comment": "Музей просто краевой музей!",
+                "author_url": "https://reviews.yandex.ru/user/hqcx3tyny6tt9kpz3gaengcqqc",
+                "rating": 3
+            }
+        ]
+    }
+}

@@ -1,0 +1,93 @@
+{
+    "object_name": "Музей истории города Гомеля",
+    "object_id": 43998204124,
+    "contact": [
+        "+375232350617"
+    ],
+    "business_url": "gomelhistory.museum.by",
+    "object_category": "Музей",
+    "object_links": [
+        "http://instagram.com/mushistory_gomel",
+        "https://vk.com/public104932354"
+    ],
+    "address": "Гомель, ул. Пушкина, 32",
+    "work_time": {
+        "Понедельник": "Выходной",
+        "Вторник": "10:00 – 18:00",
+        "Среда": "10:00 – 18:00",
+        "Четверг": "10:00 – 18:00",
+        "Пятница": "10:00 – 18:00",
+        "Суббота": "10:00 – 18:00",
+        "Воскресенье": "10:00 – 18:00"
+    },
+    "features": null,
+    "rating": 4.5,
+    "attendance": {},
+    "number_of_votes": null,
+    "number_of_review": 1,
+    "similar_objects": [
+        {
+            "object_id": 1077525314,
+            "object_name": "Музей военной cлавы",
+            "object_link": "https://yandex.by/maps/org/gomelskiy_oblastnoy_muzey_voyennoy_clavy/1077525314/"
+        },
+        {
+            "object_id": 1265056932,
+            "object_name": "Музей криминалистики",
+            "object_link": "https://yandex.by/maps/org/muzey_kriminalistiki/1265056932/"
+        },
+        {
+            "object_id": 1080250472,
+            "object_name": "Охотничий домик",
+            "object_link": "https://yandex.by/maps/org/okhotnichiy_domik/1080250472/"
+        },
+        {
+            "object_id": 1093905356,
+            "object_name": "Музей автографа",
+            "object_link": "https://yandex.by/maps/org/muzey_avtografa/1093905356/"
+        },
+        {
+            "object_id": 1019118914,
+            "object_name": "Музей старообрядчества",
+            "object_link": "https://yandex.by/maps/org/vetkovskiy_muzey_staroobryadchestva_i_belorusskikh_traditsiy_imeni_f_g_shklyarova_filial/1019118914/"
+        },
+        {
+            "object_id": 138521797800,
+            "object_name": "Музей истории печати и фотографии",
+            "object_link": "https://yandex.by/maps/org/muzey_istorii_pechati_i_fotografii/138521797800/"
+        },
+        {
+            "object_id": 160507765174,
+            "object_name": "Зимний сад",
+            "object_link": "https://yandex.by/maps/org/zimniy_sad/160507765174/"
+        },
+        {
+            "object_id": 167236415644,
+            "object_name": "Часовня-усыпальница Паскевичей",
+            "object_link": "https://yandex.by/maps/org/chasovnya_usypalnitsa_knyazey_paskevichey/167236415644/"
+        },
+        {
+            "object_id": 44974196830,
+            "object_name": "Дворец Румянцевых-Паскевичей",
+            "object_link": "https://yandex.by/maps/org/dvorets_rumyantsevykh_i_paskevichey/44974196830/"
+        },
+        {
+            "object_id": 234529836840,
+            "object_name": "Башня обозрения",
+            "object_link": "https://yandex.by/maps/org/bashnya_obozreniya/234529836840/"
+        }
+    ],
+    "reviews_info": {
+        "type_reviews": {},
+        "reviews": [
+            {
+                "author_name": "Аня- Анечка-Анюта",
+                "author_profession": 6,
+                "date": "2021-12-29",
+                "comment": "Ни о чем... Это не музей Города, а музей быта разных времен. Её понравилось вообще. Экскурсовод рассказал всё быстро, без лишних историй, но скучно.",
+                "author_url": "https://reviews.yandex.ru/user/znhytg21e16au1frq6pp67k8uc",
+                "rating": 1
+            }
+        ]
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "object_name": "Хотимский районный краеведческий музей",
+    "object_id": 201418672163,
+    "contact": [],
+    "business_url": "khotimsk.gov.by",
+    "object_category": "Музей",
+    "object_links": [
+        "https://ok.ru/khotsmskra"
+    ],
+    "address": "городской посёлок Хотимск, ул. Дзержинского, 13А",
+    "work_time": {},
+    "features": null,
+    "rating": 3.9,
+    "attendance": {},
+    "number_of_votes": 13,
+    "number_of_review": 1,
+    "similar_objects": [
+        {
+            "object_id": 14813982061,
+            "object_name": "Краеведческий музей",
+            "object_link": "https://yandex.by/maps/org/krayevedcheskiy_muzey/14813982061/"
+        },
+        {
+            "object_id": 50415433600,
+            "object_name": "Музей боевой и трудовой славы",
+            "object_link": "https://yandex.by/maps/org/muzey_boyevoy_i_trudovoy_slavy_kolkhoza_verny_trud/50415433600/"
+        }
+    ],
+    "reviews_info": {
+        "type_reviews": {},
+        "reviews": [
+            {
+                "author_name": "Геннадий Лукьянцев",
+                "author_profession": 6,
+                "date": "2020-06-05",
+                "comment": "Действительно видно, что работало не одно поколение, этот музей должны посетить не не только гости, нашего района, а местные жители, для них откроется много нового.",
+                "author_url": "https://reviews.yandex.ru/user/v2xrmfzfjgugt2hbvf9a2w2wj4",
+                "rating": 5
+            }
+        ]
+    }
+}

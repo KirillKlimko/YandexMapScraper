@@ -1,0 +1,58 @@
+{
+    "object_name": "Кореличский районный краеведческий музей",
+    "object_id": 1133933094,
+    "contact": [],
+    "business_url": null,
+    "object_category": "Музей",
+    "object_links": [],
+    "address": "городской посёлок Кореличи, Советская ул., 19",
+    "work_time": {
+        "Понедельник": "Выходной",
+        "Вторник": "09:00 – 18:00",
+        "Среда": "09:00 – 18:00",
+        "Четверг": "09:00 – 18:00",
+        "Пятница": "09:00 – 18:00",
+        "Суббота": "09:00 – 18:00",
+        "Воскресенье": "09:00 – 18:00"
+    },
+    "features": null,
+    "rating": 2.6,
+    "attendance": {},
+    "number_of_votes": 12,
+    "number_of_review": 1,
+    "similar_objects": [
+        {
+            "object_id": 94907610832,
+            "object_name": "Дворцово-парковый комплекс",
+            "object_link": "https://yandex.by/maps/org/dvortsovo_parkovy_kompleks/94907610832/"
+        },
+        {
+            "object_id": 81842539930,
+            "object_name": "Усадьба И.И. Домейко",
+            "object_link": "https://yandex.by/maps/org/usadebny_kompleks_i_i_domeyko/81842539930/"
+        },
+        {
+            "object_id": 110318617276,
+            "object_name": "Замок",
+            "object_link": "https://yandex.by/maps/org/zamok/110318617276/"
+        },
+        {
+            "object_id": 165144987656,
+            "object_name": "Музей еврейского сопротивления",
+            "object_link": "https://yandex.by/maps/org/muzey_yevreyskogo_soprotivleniya/165144987656/"
+        }
+    ],
+    "reviews_info": {
+        "type_reviews": {},
+        "reviews": [
+            {
+                "author_name": "Евгений Ш.",
+                "author_profession": 3,
+                "date": "2018-06-01",
+                "comment": "Хороший музей",
+                "author_url": "https://reviews.yandex.ru/user/r4uaja578me9q79bymybr1vzb0",
+                "rating": 4
+            }
+        ]
+    }
+}

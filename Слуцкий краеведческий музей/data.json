@@ -1,0 +1,110 @@
+{
+    "object_name": "Слуцкий краеведческий музей",
+    "object_id": 1086889878,
+    "contact": [
+        "+375179563845(доб.+375179563840)"
+    ],
+    "business_url": "slutsk.museum.by",
+    "object_category": "Музей",
+    "object_links": [
+        "https://ok.ru/slutskmuseum"
+    ],
+    "address": "Слуцк, ул. Ленина, 171",
+    "work_time": {
+        "Понедельник": "Выходной",
+        "Вторник": "09:00 – 18:00",
+        "Среда": "09:00 – 18:00",
+        "Четверг": "09:00 – 18:00",
+        "Пятница": "09:00 – 18:00",
+        "Суббота": "09:00 – 18:00",
+        "Воскресенье": "09:00 – 18:00"
+    },
+    "features": "Билеты:1–2 бел.руб.",
+    "rating": 4.1,
+    "attendance": {},
+    "number_of_votes": 20,
+    "number_of_review": 7,
+    "similar_objects": [
+        {
+            "object_id": 84640513956,
+            "object_name": "Музей этнографии",
+            "object_link": "https://yandex.by/maps/org/muzey_etnografii/84640513956/"
+        },
+        {
+            "object_id": 1182519670,
+            "object_name": "Галерея искусств",
+            "object_link": "https://yandex.by/maps/org/galereya_iskusstv_im_v_s_sadina/1182519670/"
+        },
+        {
+            "object_id": 209205683454,
+            "object_name": "Научно-фондовый отдел",
+            "object_link": "https://yandex.by/maps/org/nauchno_fondovy_otdel_gu_slutskiy_krayevedcheskiy_muzey/209205683454/"
+        },
+        {
+            "object_id": 1060823913,
+            "object_name": "Краеведческий Музей Солигорский ГУК",
+            "object_link": "https://yandex.by/maps/org/krayevedcheskiy_muzey_soligorskiy_guk/1060823913/"
+        }
+    ],
+    "reviews_info": {
+        "type_reviews": {},
+        "reviews": [
+            {
+                "author_name": "Руслан Быховцов",
+                "author_profession": 5,
+                "date": "2021-08-22",
+                "comment": "Детям понравилась комната с чучелами животных, где можно было посидеть на пуфиках и сделать фото",
+                "author_url": "https://reviews.yandex.ru/user/5jpyjh6jzgwa6tq2qvr66dy2aw",
+                "rating": 5
+            },
+            {
+                "author_name": "Анатолий Макаров",
+                "author_profession": 3,
+                "date": "2022-01-03",
+                "comment": "Пушка",
+                "author_url": "https://reviews.yandex.ru/user/11ab0ufuemqatmajumadr9ju3r",
+                "rating": 5
+            },
+            {
+                "author_name": "Егор К.",
+                "author_profession": 3,
+                "date": "2020-01-23",
+                "comment": "Очень хорошие экспонат все практически достоверно",
+                "author_url": "https://reviews.yandex.ru/user/qxa1jfhwa2uuvtcke7dfeu0664",
+                "rating": 5
+            },
+            {
+                "author_name": "Elena Kornishina",
+                "author_profession": 10,
+                "date": "2020-03-22",
+                "comment": "Для похода с семьей выбирайте наш музей!",
+                "author_url": "https://reviews.yandex.ru/user/8n6503atw9r57pdxjrvq7fbrvc",
+                "rating": 5
+            },
+            {
+                "author_name": "Николя Граф Барон",
+                "author_profession": 6,
+                "date": "2020-01-13",
+                "comment": "Очень красивое здание получилось после ремонта",
+                "author_url": "https://reviews.yandex.ru/user/4jqqg2k8ww3gbxk2a27gh21vnw",
+                "rating": 5
+            },
+            {
+                "author_name": "Любовь Фёдорова",
+                "author_profession": 6,
+                "date": "2020-03-07",
+                "comment": "Ремонт сделали, молодцы",
+                "author_url": "https://reviews.yandex.ru/user/p78hpbzwg4pm2xzvq3zbmhtg58",
+                "rating": 5
+            },
+            {
+                "author_name": "Максим Бродовский",
+                "author_profession": 5,
+                "date": "2019-02-05",
+                "comment": "Приехал на такси из Минска, а там ремонт... Было обидно.",
+                "author_url": "https://reviews.yandex.ru/user/dtqjdkx45mwrk3en1xg5h12jrc",
+                "rating": 1
+            }
+        ]
+    }
+}

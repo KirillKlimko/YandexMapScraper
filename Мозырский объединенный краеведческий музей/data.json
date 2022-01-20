@@ -1,0 +1,295 @@
+{
+    "object_name": "Мозырский объединенный краеведческий музей",
+    "object_id": 1042779295,
+    "contact": [
+        "+375236324662",
+        "+375236324715",
+        "+375236375236",
+        "+375236325083"
+    ],
+    "business_url": "mozyr.museum.by",
+    "object_category": "Музей",
+    "object_links": [
+        "https://ok.ru/mozyrskyob",
+        "https://vk.com/mozyr_muzey"
+    ],
+    "address": "Мозырь, ул. Гора Коммунаров, 8",
+    "work_time": {
+        "Понедельник": "11:00 – 19:00",
+        "Вторник": "11:00 – 19:00",
+        "Среда": "11:00 – 19:00",
+        "Четверг": "11:00 – 19:00",
+        "Пятница": "11:00 – 19:00",
+        "Суббота": "11:00 – 19:00",
+        "Воскресенье": "11:00 – 19:00"
+    },
+    "features": "Билеты:1 бел.руб.",
+    "rating": 4.2,
+    "attendance": {},
+    "number_of_votes": 93,
+    "number_of_review": 27,
+    "similar_objects": [
+        {
+            "object_id": 1103946005,
+            "object_name": "Полесская веда",
+            "object_link": "https://yandex.by/maps/org/polesskaya_veda/1103946005/"
+        },
+        {
+            "object_id": 1047359980,
+            "object_name": "Музей-мастерская М.М. Пушкаря",
+            "object_link": "https://yandex.by/maps/org/muzey_masterskaya_m_m_pushkarya/1047359980/"
+        },
+        {
+            "object_id": 1726077268,
+            "object_name": "Музей Туровской епархии",
+            "object_link": "https://yandex.by/maps/org/muzey_turovskoy_yeparkhii/1726077268/"
+        },
+        {
+            "object_id": 199907681657,
+            "object_name": "Краеведческий музей",
+            "object_link": "https://yandex.by/maps/org/obyedinenny_krayevedcheskiy_muzey_otdela_kultury_mozyrskogo_rayispolkoma/199907681657/"
+        },
+        {
+            "object_id": 1106092516,
+            "object_name": "ГУК Калинковичский краеведческий музей",
+            "object_link": "https://yandex.by/maps/org/guk_kalinkovichskiy_krayevedcheskiy_muzey/1106092516/"
+        },
+        {
+            "object_id": 1113469679,
+            "object_name": "Краеведческий музей",
+            "object_link": "https://yandex.by/maps/org/gosudarstvennoye_uchrezhdeniye_kultury_krayevedcheskiy_muzey_goroda_yelska/1113469679/"
+        }
+    ],
+    "reviews_info": {
+        "type_reviews": {
+            "классное место ": 1,
+            "музей ": 6,
+            "стол с шахматами ": 1,
+            "прекрасное место ": 1,
+            "историческое место ": 1,
+            "экскурсия ": 4,
+            "хорошее место ": 1,
+            "деревянные башни ": 3,
+            "красивый вид ": 2,
+            "замок ": 5
+        },
+        "reviews": [
+            {
+                "author_name": "BrainForce Dev.",
+                "author_profession": 12,
+                "date": "2021-08-28",
+                "comment": "Как-то это всё не по-настоящему. Бутафория чувствуется во всем... Особенно \"оружие\" в башнях, стилизованное под металлическое, по факту - дерево.\nМузей на территории тоже очень скромный.",
+                "author_url": "https://reviews.yandex.ru/user/34550wk33dpywja8tuwnf91jrg",
+                "rating": 3
+            },
+            {
+                "author_name": "Андрей Юркевич",
+                "author_profession": 4,
+                "date": "2021-12-08",
+                "comment": "Вид шикарный, администрация грамотная, музеи интересные. Меньше негатива друзья, больше позитива! Фото прилагается! Больше фото ВКонтакте, в группе Пограничная кинология в РБ",
+                "author_url": "https://reviews.yandex.ru/user/pg6h3r2a3nnyjcp51n7cq7783g",
+                "rating": 5
+            },
+            {
+                "author_name": "Наталья Ивановна",
+                "author_profession": 7,
+                "date": "2021-11-05",
+                "comment": "Один раз сходить с детьми можно. Есть чучело некоторых животных. Интересно. Есть экспозиции. Есть что посмотреть детям.",
+                "author_url": "https://reviews.yandex.ru/user/7gz9mca5dunm90ukyejpf3yj6m",
+                "rating": 5
+            },
+            {
+                "author_name": "Наталья",
+                "author_profession": 8,
+                "date": "2021-09-24",
+                "comment": "Место явно интересное. Путешествуя по Беларуси, специально отклонились от маршрута, заехали в Мозырь, чтобы попасть в замок. Время было ограничено. К нашему разочарованию замок был закрыт. ВГугле информация ,что работает с 10.00, а на самом деле с 11.00. В общем походили 15 минут вокруг и двинулись дальше.",
+                "author_url": "https://reviews.yandex.ru/user/aeyx9pzmww2x8eadqadu305fvc",
+                "rating": 3
+            },
+            {
+                "author_name": "Алек Лева",
+                "author_profession": 18,
+                "date": "2021-07-29",
+                "comment": "Интересное, историческое место. Если ты в городе, обязательно посети, многовремени не займет, а новое узнаешь.",
+                "author_url": "https://reviews.yandex.ru/user/f5t015h0ry99r47cuzzp0v2adr",
+                "rating": 5
+            },
+            {
+                "author_name": "Надежда Тюрикова",
+                "author_profession": 14,
+                "date": "2021-06-15",
+                "comment": "Экспозиция небольшая, но довольно интересная. Хорошее место для семейной экскурсии выходного дня",
+                "author_url": "https://reviews.yandex.ru/user/6q417x6kmvhawfm3rrk3pt1gkc",
+                "rating": 5
+            },
+            {
+                "author_name": "natasha Med",
+                "author_profession": 3,
+                "date": "2022-01-07",
+                "comment": "Красиво , интересно ! Но экскурсию нам не провели невежды !!! Разочаровались !(",
+                "author_url": "https://reviews.yandex.ru/user/0c1hp25cbf6akyqua7zkx83tk0",
+                "rating": 3
+            },
+            {
+                "author_name": "Кирилл Титко",
+                "author_profession": 11,
+                "date": "2021-07-07",
+                "comment": "Обязательно берите экскурсию. Приятнейшая экскурсовод расскажет много интерестного!",
+                "author_url": "https://reviews.yandex.ru/user/mg06akmz09jvg16mnjf3ta1azc",
+                "rating": 5
+            },
+            {
+                "author_name": "Диана Сайфутдинова",
+                "author_profession": 3,
+                "date": "2022-01-12",
+                "comment": "С высоты открывается красивый вид на город и реку Припять.",
+                "author_url": "https://reviews.yandex.ru/user/gjfactg9cpj50pw613ghtd4cyr",
+                "rating": 5
+            },
+            {
+                "author_name": "Анна Ш",
+                "author_profession": 8,
+                "date": "2021-09-26",
+                "comment": "Как-то не впечатлил совсем. Ни чего интересного там не нашли и не узнали",
+                "author_url": "https://reviews.yandex.ru/user/zv07r0eaajdk52ht51qk3e633g",
+                "rating": 3
+            },
+            {
+                "author_name": "Мария С.",
+                "author_profession": 2,
+                "date": "2021-10-14",
+                "comment": "Интересно. Особенно музей природы",
+                "author_url": "https://reviews.yandex.ru/user/atmqxxkmwz402rfrpcqervjcvc",
+                "rating": 5
+            },
+            {
+                "author_name": "Наталья Пучкова",
+                "author_profession": 6,
+                "date": "2019-06-19",
+                "comment": "Замок небольшой. Деревянные башни, смотровая площадка, есть большой стол с шахматами. Музей два этажа. К сожалению не получилось взять экскурсию (были проездом).",
+                "author_url": "https://reviews.yandex.ru/user/j6a1uw7hndrr3ntc8mm07u8ar0",
+                "rating": 4
+            },
+            {
+                "author_name": "Никита Амельчук",
+                "author_profession": 6,
+                "date": "2019-10-28",
+                "comment": "Я не знаю что тебе сказать по поводу твоей работы в этом плане как будто я тебя не люблю и не могу быть с тобой рядом с тобой и я хочу тебя видеть и слышать тебя и видеть тебя в моем сердце и видеть тебя в моем сердце и видеть тебя в моем сердце и видеть тебя в",
+                "author_url": "https://reviews.yandex.ru/user/xvbvptz1kwqy7jc5m3ry6qwdag",
+                "rating": 5
+            },
+            {
+                "author_name": "Виктория Ах!",
+                "author_profession": 10,
+                "date": "2021-05-13",
+                "comment": "Приятно окунуться в историю....",
+                "author_url": "https://reviews.yandex.ru/user/gv08z7hc7upp7h0zupq08fhhbg",
+                "rating": 5
+            },
+            {
+                "author_name": "Вячеслав",
+                "author_profession": 9,
+                "date": "2021-07-04",
+                "comment": "Ок.очень убойный по панараме.",
+                "author_url": "https://reviews.yandex.ru/user/ac28ra097wc8gpcgegz72d11u0",
+                "rating": 2
+            },
+            {
+                "author_name": "Марина Чернова",
+                "author_profession": 9,
+                "date": "2020-09-30",
+                "comment": "Молодцы, постарались. Получилось хорошо.",
+                "author_url": "https://reviews.yandex.ru/user/x0nq2cjve4uxubvrudpd60nzbw",
+                "rating": 5
+            },
+            {
+                "author_name": "Мурка",
+                "author_profession": 14,
+                "date": "2020-07-13",
+                "comment": "Музей на ремонте, остальной комплекс не особо впечатлил",
+                "author_url": "https://reviews.yandex.ru/user/adf5u7nnekrqcpdz106p18jm5r",
+                "rating": 3
+            },
+            {
+                "author_name": "Юрий Ш.",
+                "author_profession": 6,
+                "date": "2021-08-14",
+                "comment": "Новодел",
+                "author_url": "https://reviews.yandex.ru/user/2kpbbg4dzu12vwzmfr30wh0t28",
+                "rating": 4
+            },
+            {
+                "author_name": "Валентин Меньшин",
+                "author_profession": 14,
+                "date": "2020-01-08",
+                "comment": "Прекрасное место, прикольные шоу, все класс",
+                "author_url": "https://reviews.yandex.ru/user/431e75n570myjqgrp3b1e20uk0",
+                "rating": 5
+            },
+            {
+                "author_name": "Oleg84by7",
+                "author_profession": 9,
+                "date": "2021-06-27",
+                "comment": "Неинтересно",
+                "author_url": "https://reviews.yandex.ru/user/podlipskij1984",
+                "rating": 2
+            },
+            {
+                "author_name": "Нина Адаська",
+                "author_profession": 8,
+                "date": "2020-03-24",
+                "comment": "Очень классное место для отдыха",
+                "author_url": "https://reviews.yandex.ru/user/f2c8zx28zh1tz90gvg34mfdjjm",
+                "rating": 5
+            },
+            {
+                "author_name": "Александр",
+                "author_profession": 7,
+                "date": "2020-03-28",
+                "comment": "Чисто ухоженно но не хватает изюминки",
+                "author_url": "https://reviews.yandex.ru/user/8j41juxvg36q1f510m0b8vpjdg",
+                "rating": 5
+            },
+            {
+                "author_name": "Анастасия Якушева",
+                "author_profession": 9,
+                "date": "2019-10-22",
+                "comment": "Простенький. Ожидания были больше. Но все равно молодцы, что сделали",
+                "author_url": "https://reviews.yandex.ru/user/ganuzgczjf52zqbck455et7vag",
+                "rating": 3
+            },
+            {
+                "author_name": "Саня - Опель",
+                "author_profession": 10,
+                "date": "2019-10-09",
+                "comment": "на один раз сходить. Виды из башен на Припять красивые.",
+                "author_url": "https://reviews.yandex.ru/user/Somali86",
+                "rating": 4
+            },
+            {
+                "author_name": "SeeJey",
+                "author_profession": 18,
+                "date": "2018-11-01",
+                "comment": "Псевдокрепость. На территории находится краеведческий музей и обзорная площадка на центр города . Вход платный .",
+                "author_url": "",
+                "rating": 4
+            },
+            {
+                "author_name": "Ведунъ",
+                "author_profession": 11,
+                "date": "2019-09-07",
+                "comment": "Смотрится хорошо, замок нужен городу, но уже кое-где нужен и ремонт.",
+                "author_url": "",
+                "rating": 4
+            },
+            {
+                "author_name": "Aleksandr Gritz",
+                "author_profession": 4,
+                "date": "2019-01-22",
+                "comment": "Сначала собирались на строительство замка, теперь платим за вход",
+                "author_url": "https://reviews.yandex.ru/user/eac0nncamuub0tpcqmcy9gze98",
+                "rating": 5
+            }
+        ]
+    }
+}

@@ -1,0 +1,148 @@
+{
+    "object_name": "Государственный литературно-мемориальный музей Якуба Коласа",
+    "object_id": 1128622168,
+    "contact": [
+        "+375172701940",
+        "+375172701702"
+    ],
+    "business_url": "kolasmuseum.by",
+    "object_category": "Музей",
+    "object_links": [
+        "https://vk.com/kolasmuseum",
+        "https://www.facebook.com/yakubkolasby",
+        "https://www.instagram.com/kolasmuseum/",
+        "https://www.youtube.com/channel/UCQVGWuGRJ2_Tpalgolw9y9A"
+    ],
+    "address": "Академическая ул., 5",
+    "work_time": {
+        "Понедельник": "10:00 – 18:00",
+        "Вторник": "10:00 – 18:00",
+        "Среда": "10:00 – 18:00",
+        "Четверг": "10:00 – 18:00",
+        "Пятница": "10:00 – 18:00",
+        "Суббота": "10:00 – 18:00",
+        "Воскресенье": "Выходной"
+    },
+    "features": "Музей:персональный, мемориальный, литературный",
+    "rating": 4.1,
+    "attendance": {},
+    "number_of_votes": 44,
+    "number_of_review": 12,
+    "similar_objects": [
+        {
+            "object_id": 1045812099,
+            "object_name": "Музей Страна Мини",
+            "object_link": "https://yandex.by/maps/org/muzey_arkhitekturnykh_miniatyur_strana_mini/1045812099/"
+        }
+    ],
+    "reviews_info": {
+        "type_reviews": {
+            "отличный музей ": 9,
+            "отличное место ": 1,
+            "культурные мероприятия ": 1,
+            "хорошие экскурсоводы ": 1,
+            "белорусский поэт ": 1,
+            "историческое место ": 1,
+            "прекрасный автор ": 1,
+            "замечательные люди ": 1
+        },
+        "reviews": [
+            {
+                "author_name": "Людмила К.",
+                "author_profession": 12,
+                "date": "2021-10-06",
+                "comment": "Познавательно, интересно но очень мало зкспонатов . Колорита не хватает, для столичного музея.",
+                "author_url": "https://reviews.yandex.ru/user/2kz2uu1pzm9my3pg7dyzndpyb4",
+                "rating": 5
+            },
+            {
+                "author_name": "Владимир соловьев",
+                "author_profession": 5,
+                "date": "2022-01-03",
+                "comment": "Наша память в руках замечательных людей. Спасибо.",
+                "author_url": "https://reviews.yandex.ru/user/8g8g41yxfjh5azbe8a1w3r1vdm",
+                "rating": 5
+            },
+            {
+                "author_name": "Игорь Николаевич Чертков",
+                "author_profession": 16,
+                "date": "2021-04-14",
+                "comment": "Отличное место. Правда, музей белорусского классика выглядит слишком скромным.",
+                "author_url": "https://reviews.yandex.ru/user/4c4tqabu0xp6e0kdmgjhu1je9m",
+                "rating": 3
+            },
+            {
+                "author_name": "Владислав Герасимёнок",
+                "author_profession": 5,
+                "date": "2021-11-23",
+                "comment": "Прекрасный музей прекрасного автора.",
+                "author_url": "https://reviews.yandex.ru/user/z72m5t31dcu33ykzvb0zpkrzt0",
+                "rating": 5
+            },
+            {
+                "author_name": "Галина Галина",
+                "author_profession": 13,
+                "date": "2020-01-25",
+                "comment": "Отличное историческое место. Гид - девушка отлично говорила на белорусском. Экскурсия удалась.",
+                "author_url": "https://reviews.yandex.ru/user/yva191f75w5yk26umu76x853b0",
+                "rating": 5
+            },
+            {
+                "author_name": "Алексей Новик",
+                "author_profession": 2,
+                "date": "2020-02-24",
+                "comment": "Музей интересный но организация плохая. Заказ за 2 недели не подготовили, стояли ждали пока поставят столы для мастер класса.",
+                "author_url": "https://reviews.yandex.ru/user/ey0g4e0751z3jdbd50cpqf2c0m",
+                "rating": 4
+            },
+            {
+                "author_name": "bovekaterina",
+                "author_profession": 15,
+                "date": "2018-12-25",
+                "comment": "Музей рассказывает о жизни и творчестве белорусского поэта Якуба Коласа. Также проводятся различные культурные мероприятия.",
+                "author_url": "https://reviews.yandex.ru/user/4bqmpzdzqem5k6fe7vfkcbjyb4",
+                "rating": 5
+            },
+            {
+                "author_name": "Ivan Hubski",
+                "author_profession": 7,
+                "date": "2021-08-09",
+                "comment": "СССР",
+                "author_url": "https://reviews.yandex.ru/user/6xqncuxc8c2vxx5z7zz4x3bebr",
+                "rating": 3
+            },
+            {
+                "author_name": "var7en",
+                "author_profession": 19,
+                "date": "2019-05-02",
+                "comment": "Неплохой музей. Хорошие экскурсоводы",
+                "author_url": "https://reviews.yandex.ru/user/var7en",
+                "rating": 4
+            },
+            {
+                "author_name": "Сергей Нарышкин",
+                "author_profession": 6,
+                "date": "2019-11-30",
+                "comment": "Отличный музей",
+                "author_url": "https://reviews.yandex.ru/user/v6kc382z6e768m8ejwg93jkjd8",
+                "rating": 5
+            },
+            {
+                "author_name": "NZ",
+                "author_profession": 7,
+                "date": "2019-11-20",
+                "comment": "Хороший музей",
+                "author_url": "https://reviews.yandex.ru/user/d21t16dezq47u86xrbg98t7tmm",
+                "rating": 4
+            },
+            {
+                "author_name": "Kirill B.",
+                "author_profession": 3,
+                "date": "2019-09-04",
+                "comment": "Хороший музей",
+                "author_url": "https://reviews.yandex.ru/user/t6d6p9tuh75fpdpctu5yn1p3fc",
+                "rating": 5
+            }
+        ]
+    }
+}

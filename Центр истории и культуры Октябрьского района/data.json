@@ -1,0 +1,65 @@
+{
+    "object_name": "Центр истории и культуры Октябрьского района",
+    "object_id": 1198064643,
+    "contact": [
+        "+375235753582"
+    ],
+    "business_url": "www.oktiabrskiy.gomel-region.by",
+    "object_category": "Музей",
+    "object_links": [],
+    "address": "Октябрьский, Советская ул., 2",
+    "work_time": {
+        "Понедельник": "Выходной",
+        "Вторник": "09:00 – 13:0014:00 – 18:00",
+        "Среда": "09:00 – 13:0014:00 – 18:00",
+        "Четверг": "09:00 – 13:0014:00 – 18:00",
+        "Пятница": "09:00 – 13:0014:00 – 18:00",
+        "Суббота": "09:00 – 13:0014:00 – 18:00",
+        "Воскресенье": "Выходной"
+    },
+    "features": "Билеты:до 1 бел.руб.",
+    "rating": 4.2,
+    "attendance": {},
+    "number_of_votes": null,
+    "number_of_review": 3,
+    "similar_objects": [
+        {
+            "object_id": 118459495089,
+            "object_name": "Краеведческий музей",
+            "object_link": "https://yandex.by/maps/org/glusskiy_rayonny_istoriko_krayevedcheskiy_muzey/118459495089/"
+        }
+    ],
+    "reviews_info": {
+        "type_reviews": {
+            "хороший музей ": 1,
+            "интересные экспозиции ": 1,
+            "очень интересно ": 1
+        },
+        "reviews": [
+            {
+                "author_name": "Руслан Чернявский",
+                "author_profession": 3,
+                "date": "2019-08-08",
+                "comment": "Много всего и про войну и про то как жили люди в старине очень интересно",
+                "author_url": "https://reviews.yandex.ru/user/0mhv3gnqtn5x7b4phxu283qcfg",
+                "rating": 5
+            },
+            {
+                "author_name": "FeedMyAnt",
+                "author_profession": 13,
+                "date": "2021-04-23",
+                "comment": "Хороший музей",
+                "author_url": "https://reviews.yandex.ru/user/FeedMyAnt",
+                "rating": 5
+            },
+            {
+                "author_name": "Татьяна М.",
+                "author_profession": 5,
+                "date": "2020-03-23",
+                "comment": "Очень интересные экспозиции!",
+                "author_url": "",
+                "rating": 5
+            }
+        ]
+    }
+}

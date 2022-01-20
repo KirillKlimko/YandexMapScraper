@@ -1,0 +1,64 @@
+{
+    "object_name": "Горецкий районный историко-этнографический музей",
+    "object_id": 1256979967,
+    "contact": [],
+    "business_url": null,
+    "object_category": "Музей",
+    "object_links": [],
+    "address": "Горки, ул. Надежды Крупской, 3",
+    "work_time": {
+        "Понедельник": "Выходной",
+        "Вторник": "08:30 – 17:00",
+        "Среда": "08:30 – 17:00",
+        "Четверг": "08:30 – 17:00",
+        "Пятница": "08:30 – 17:00",
+        "Суббота": "08:30 – 17:00",
+        "Воскресенье": "08:30 – 17:00"
+    },
+    "features": null,
+    "rating": 4.0,
+    "attendance": {},
+    "number_of_votes": 12,
+    "number_of_review": 2,
+    "similar_objects": [
+        {
+            "object_id": 99998222413,
+            "object_name": "Музей советско-польского боевого содружества",
+            "object_link": "https://yandex.by/maps/org/muzey_sovetsko_polskogo_boyevogo_sodruzhestva/99998222413/"
+        },
+        {
+            "object_id": 116497400188,
+            "object_name": "Историко-краеведческий музей",
+            "object_link": "https://yandex.by/maps/org/guk_dubrovenskiy_rayonny_istoriko_krayevedcheskiy_muzey/116497400188/"
+        },
+        {
+            "object_id": 82762720033,
+            "object_name": "Музей советско-польского боевого сотрудничества",
+            "object_link": "https://yandex.by/maps/org/muzey_sovetsko_polskogo_boyevogo_sotrudnichestva/82762720033/"
+        }
+    ],
+    "reviews_info": {
+        "type_reviews": {
+            "легендарное место ": 1,
+            "крошечная зарплата ": 1
+        },
+        "reviews": [
+            {
+                "author_name": "Владимир Воронов",
+                "author_profession": 10,
+                "date": "2021-07-28",
+                "comment": "молодцы, работают профессионалы, не взирая на крошечную зарплату",
+                "author_url": "https://reviews.yandex.ru/user/zqpbwj5mem7vtkvgmrzta2pmeg",
+                "rating": 5
+            },
+            {
+                "author_name": "Сергей К.",
+                "author_profession": 5,
+                "date": "2019-04-05",
+                "comment": "Легендарное место! Здесь должен побывать любой уважающий себя житель города",
+                "author_url": "https://reviews.yandex.ru/user/abrwxeqqen1xnut300mjj232cc",
+                "rating": 5
+            }
+        ]
+    }
+}

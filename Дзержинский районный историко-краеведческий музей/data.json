@@ -1,0 +1,109 @@
+{
+    "object_name": "Дзержинский районный историко-краеведческий музей",
+    "object_id": 1108498839,
+    "contact": [
+        "+375171652457",
+        "+375171655257",
+        "+375171692757"
+    ],
+    "business_url": "dzikm.museum.by",
+    "object_category": "Музей",
+    "object_links": [
+        "http://vk.com/dzikm",
+        "https://www.facebook.com/dzrikm/"
+    ],
+    "address": "Дзержинск, Ленинградская ул., 6",
+    "work_time": {
+        "Понедельник": "Выходной",
+        "Вторник": "10:00 – 19:00",
+        "Среда": "10:00 – 19:00",
+        "Четверг": "10:00 – 19:00",
+        "Пятница": "10:00 – 19:00",
+        "Суббота": "10:00 – 19:00",
+        "Воскресенье": "10:00 – 19:00"
+    },
+    "features": null,
+    "rating": 3.2,
+    "attendance": {},
+    "number_of_votes": 16,
+    "number_of_review": 3,
+    "similar_objects": [
+        {
+            "object_id": 117288345396,
+            "object_name": "Музей-усадьба Ленских",
+            "object_link": "https://yandex.by/maps/org/muzey_usadba_lenskikh/117288345396/"
+        },
+        {
+            "object_id": 1067383453,
+            "object_name": "Мельница",
+            "object_link": "https://yandex.by/maps/org/melnitsa_etnograficheskiy_kompleks_istoriko_kulturnogo_muzeya_zapovednika_zaslavl/1067383453/"
+        },
+        {
+            "object_id": 1080972170,
+            "object_name": "Музейно-выставочный комплекс",
+            "object_link": "https://yandex.by/maps/org/muzeyno_vystavochny_kompleks/1080972170/"
+        },
+        {
+            "object_id": 47021766532,
+            "object_name": "Музей военной техники",
+            "object_link": "https://yandex.by/maps/org/muzey_voyennoy_tekhniki/47021766532/"
+        },
+        {
+            "object_id": 80784340578,
+            "object_name": "Усадьба Сула",
+            "object_link": "https://yandex.by/maps/org/park_muzey_interaktivnoy_istorii_sula/80784340578/"
+        },
+        {
+            "object_id": 229746552160,
+            "object_name": "Сядзіба-музей Стары Менск",
+            "object_link": "https://yandex.by/maps/org/syadz_ba_muzey_stary_mensk/229746552160/"
+        },
+        {
+            "object_id": 129276129415,
+            "object_name": "Арт-галерея",
+            "object_link": "https://yandex.by/maps/org/art_galereya_yanushkevichi/129276129415/"
+        },
+        {
+            "object_id": 227370660631,
+            "object_name": "Торговая лавка",
+            "object_link": "https://yandex.by/maps/org/torgovaya_lavka/227370660631/"
+        },
+        {
+            "object_id": 206463320942,
+            "object_name": "ДОТ",
+            "object_link": "https://yandex.by/maps/org/dot/206463320942/"
+        }
+    ],
+    "reviews_info": {
+        "type_reviews": {
+            "музеи ": 2,
+            "картонные карточки ": 1
+        },
+        "reviews": [
+            {
+                "author_name": "Егор Сатаненко",
+                "author_profession": 10,
+                "date": "2021-12-15",
+                "comment": "Книги там очень хорошие, конечно музеи однотипные всегда но иногда добавляется что-то новое. Не нравится что тебя находят по сети а не по картонным карточкам",
+                "author_url": "https://reviews.yandex.ru/user/hbz2kvcpw75099daz0j49fd014",
+                "rating": 2
+            },
+            {
+                "author_name": "Вячеслав Рачко",
+                "author_profession": 5,
+                "date": "2021-06-08",
+                "comment": "Это свалка а не музей. Только один неготив после посещения",
+                "author_url": "https://reviews.yandex.ru/user/7dw7b1360z8ch1e8c0g53v0r94",
+                "rating": 1
+            },
+            {
+                "author_name": "Виталий Вашкевич",
+                "author_profession": 6,
+                "date": "2020-06-22",
+                "comment": "Бывает приезжают выставки можно сводить детей",
+                "author_url": "https://reviews.yandex.ru/user/wfu9rhk8mg2ef17mvzbfbk2d28",
+                "rating": 5
+            }
+        ]
+    }
+}

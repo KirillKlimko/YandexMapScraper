@@ -1,0 +1,40 @@
+{
+    "object_name": "Сенненский историко-краеведческий музей",
+    "object_id": 1134414018,
+    "contact": [
+        "+375213541565",
+        "+375213554469"
+    ],
+    "business_url": "senno.museum.by",
+    "object_category": "Музей",
+    "object_links": [
+        "https://vk.com/club182667941",
+        "https://www.instagram.com/muzey.senno/"
+    ],
+    "address": "Сенно, Советская ул., 13",
+    "work_time": {
+        "Понедельник": "Выходной",
+        "Вторник": "10:00 – 19:00",
+        "Среда": "10:00 – 19:00",
+        "Четверг": "10:00 – 19:00",
+        "Пятница": "10:00 – 19:00",
+        "Суббота": "09:00 – 13:0014:00 – 18:00",
+        "Воскресенье": "09:00 – 13:0014:00 – 18:00"
+    },
+    "features": null,
+    "rating": 4.0,
+    "attendance": {},
+    "number_of_votes": 4,
+    "number_of_review": 0,
+    "similar_objects": [
+        {
+            "object_id": 12093105341,
+            "object_name": "Сенненский Дом ремёсел",
+            "object_link": "https://yandex.by/maps/org/sennenskiy_dom_remyosel/12093105341/"
+        }
+    ],
+    "reviews_info": {
+        "type_reviews": {},
+        "reviews": []
+    }
+}

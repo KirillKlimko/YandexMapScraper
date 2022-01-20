@@ -1,0 +1,79 @@
+{
+    "object_name": "Жлобинский историко-краеведческий музей",
+    "object_id": 233097246991,
+    "contact": [
+        "+375233422201"
+    ],
+    "business_url": null,
+    "object_category": "Музей",
+    "object_links": [
+        "https://vk.com/zhlobin.museum",
+        "https://www.facebook.com/zhlobin.museum/",
+        "https://www.instagram.com/zhlobin_museum",
+        "https://www.youtube.com/channel/UC4xE5id4ycobH2L_uGs4wtQ"
+    ],
+    "address": "Жлобин, Первомайская ул., 87",
+    "work_time": {
+        "Понедельник": "08:30 – 17:30",
+        "Вторник": "09:00 – 18:00",
+        "Среда": "09:00 – 18:00",
+        "Четверг": "09:00 – 18:00",
+        "Пятница": "09:00 – 18:00",
+        "Суббота": "09:00 – 18:00",
+        "Воскресенье": "09:00 – 18:00"
+    },
+    "features": null,
+    "rating": 4.1,
+    "attendance": {},
+    "number_of_votes": 12,
+    "number_of_review": 3,
+    "similar_objects": [
+        {
+            "object_id": 64555944612,
+            "object_name": "Выставочная площадка",
+            "object_link": "https://yandex.by/maps/org/vystavochnaya_ploshchadka/64555944612/"
+        },
+        {
+            "object_id": 1074688038,
+            "object_name": "Краеведческий музей",
+            "object_link": "https://yandex.by/maps/org/guk_svetlogorskiy_istoriko_krayevedcheskiy_muzey/1074688038/"
+        },
+        {
+            "object_id": 50258000269,
+            "object_name": "Дом ремесла",
+            "object_link": "https://yandex.by/maps/org/dom_remesla/50258000269/"
+        }
+    ],
+    "reviews_info": {
+        "type_reviews": {
+            "замечательный экскурсовод ": 1,
+            "отличное место ": 1
+        },
+        "reviews": [
+            {
+                "author_name": "Ирина",
+                "author_profession": 4,
+                "date": "2020-11-10",
+                "comment": "Мне понравилось, экспонаты от костей мамонта до наших дней, плюс выставки. Сходите обязательно.",
+                "author_url": "https://reviews.yandex.ru/user/dnr87pz5zcmmuk4zb0qt230jkr",
+                "rating": 5
+            },
+            {
+                "author_name": "наталья игнатенко",
+                "author_profession": 10,
+                "date": "2020-11-04",
+                "comment": "Новый ещё не открылся. Старый, дом сам как раритет.",
+                "author_url": "https://reviews.yandex.ru/user/zjz3u9ubjwnukk61y6qquwzx3m",
+                "rating": 1
+            },
+            {
+                "author_name": "irsap@tut.by",
+                "author_profession": 5,
+                "date": "2019-11-13",
+                "comment": "Очень понравилось , был замечательный экскурсовод:))",
+                "author_url": "https://reviews.yandex.ru/user/c44g4ja4qrqjd4hk72c27tegp8",
+                "rating": 5
+            }
+        ]
+    }
+}

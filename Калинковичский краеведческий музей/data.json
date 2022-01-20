@@ -1,0 +1,84 @@
+{
+    "object_name": "Калинковичский краеведческий музей",
+    "object_id": 1106092516,
+    "contact": [
+        "+375234540900",
+        "+375234540901"
+    ],
+    "business_url": null,
+    "object_category": "Музей",
+    "object_links": [
+        "https://vk.com/id386556760"
+    ],
+    "address": "Калинковичи, ул. Карла Маркса, 14-2",
+    "work_time": {
+        "Понедельник": "08:30 – 18:00",
+        "Вторник": "08:30 – 18:00",
+        "Среда": "08:30 – 18:00",
+        "Четверг": "08:30 – 18:00",
+        "Пятница": "08:30 – 18:00",
+        "Суббота": "08:30 – 18:00",
+        "Воскресенье": "Выходной"
+    },
+    "features": null,
+    "rating": 3.3,
+    "attendance": {},
+    "number_of_votes": 18,
+    "number_of_review": 2,
+    "similar_objects": [
+        {
+            "object_id": 1042779295,
+            "object_name": "Мозырский замок",
+            "object_link": "https://yandex.by/maps/org/mozyrskiy_zamok/1042779295/"
+        },
+        {
+            "object_id": 75251796803,
+            "object_name": "Дворцово-парковый ансамбль",
+            "object_link": "https://yandex.by/maps/org/dvortsovo_parkovy_ansambl/75251796803/"
+        },
+        {
+            "object_id": 1047359980,
+            "object_name": "Музей-мастерская М.М. Пушкаря",
+            "object_link": "https://yandex.by/maps/org/muzey_masterskaya_m_m_pushkarya/1047359980/"
+        },
+        {
+            "object_id": 1726077268,
+            "object_name": "Музей Туровской епархии",
+            "object_link": "https://yandex.by/maps/org/muzey_turovskoy_yeparkhii/1726077268/"
+        },
+        {
+            "object_id": 1113469679,
+            "object_name": "Краеведческий музей",
+            "object_link": "https://yandex.by/maps/org/gosudarstvennoye_uchrezhdeniye_kultury_krayevedcheskiy_muzey_goroda_yelska/1113469679/"
+        },
+        {
+            "object_id": 199907681657,
+            "object_name": "Краеведческий музей",
+            "object_link": "https://yandex.by/maps/org/obyedinenny_krayevedcheskiy_muzey_otdela_kultury_mozyrskogo_rayispolkoma/199907681657/"
+        }
+    ],
+    "reviews_info": {
+        "type_reviews": {
+            "хороший музей ": 1,
+            "хорошие выставки ": 1
+        },
+        "reviews": [
+            {
+                "author_name": "Zephyr 898",
+                "author_profession": 9,
+                "date": "2020-03-09",
+                "comment": "Хороший музей. Часто бывают хорошие выставки.",
+                "author_url": "https://reviews.yandex.ru/user/u1yrkjr9naqy541hpz98pa2rnm",
+                "rating": 5
+            },
+            {
+                "author_name": "Игорь Д.",
+                "author_profession": 8,
+                "date": "2019-12-12",
+                "comment": "Есть что посмотреть",
+                "author_url": "https://reviews.yandex.ru/user/dwc695am0f5we5787ru5d9qg9g",
+                "rating": 4
+            }
+        ]
+    }
+}

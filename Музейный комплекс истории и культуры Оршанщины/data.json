@@ -1,0 +1,113 @@
+{
+    "object_name": "Музейный комплекс истории и культуры Оршанщины",
+    "object_id": 201170374231,
+    "contact": [
+        "+375216563750",
+        "+375216444596",
+        "+375216544596",
+        "+375216263750",
+        "+375216212052"
+    ],
+    "business_url": "www.orsha.museum.by",
+    "object_category": "Музей",
+    "object_links": [
+        "https://vk.com/orshanskayagalereya"
+    ],
+    "address": "Орша, ул. Владимира Ленина, 6А",
+    "work_time": {
+        "Понедельник": "Выходной",
+        "Вторник": "10:00 – 18:00",
+        "Среда": "10:00 – 18:00",
+        "Четверг": "10:00 – 18:00",
+        "Пятница": "10:00 – 18:00",
+        "Суббота": "10:00 – 18:00",
+        "Воскресенье": "10:00 – 18:00"
+    },
+    "features": null,
+    "rating": 4.2,
+    "attendance": {},
+    "number_of_votes": 18,
+    "number_of_review": 5,
+    "similar_objects": [
+        {
+            "object_id": 1017103912,
+            "object_name": "Музей истории и культуры города",
+            "object_link": "https://yandex.by/maps/org/muzey_istorii_i_kultury_goroda/1017103912/"
+        },
+        {
+            "object_id": 1058087477,
+            "object_name": "Мельница",
+            "object_link": "https://yandex.by/maps/org/melnitsa/1058087477/"
+        },
+        {
+            "object_id": 1038972017,
+            "object_name": "Музей Владимира Короткевича",
+            "object_link": "https://yandex.by/maps/org/muzey_vladimira_korotkevicha/1038972017/"
+        },
+        {
+            "object_id": 1079155760,
+            "object_name": "Музей деревянной скульптуры С.С. Шаврова",
+            "object_link": "https://yandex.by/maps/org/muzey_derevyannoy_skulptury_rezchika_s_s_shavrova/1079155760/"
+        },
+        {
+            "object_id": 42576164312,
+            "object_name": "Музей-дача Янки Купалы",
+            "object_link": "https://yandex.by/maps/org/muzey_dacha_yanki_kupaly/42576164312/"
+        },
+        {
+            "object_id": 191694783499,
+            "object_name": "Левки",
+            "object_link": "https://yandex.by/maps/org/levki/191694783499/"
+        }
+    ],
+    "reviews_info": {
+        "type_reviews": {
+            "интересная экспозиция ": 1,
+            "различные выставки ": 2,
+            "второй этаж ": 1,
+            "красивая ратуша ": 1
+        },
+        "reviews": [
+            {
+                "author_name": "Егор",
+                "author_profession": 5,
+                "date": "2021-12-07",
+                "comment": "Место обязательное для посещения. Рекомендую! Интересная экспозиция + классная экскурсия (её стоимость всего 10 бел. рублей на группу). Находится на втором этаже.",
+                "author_url": "https://reviews.yandex.ru/user/qh959h4zgddkcufd5844mweh2w",
+                "rating": 5
+            },
+            {
+                "author_name": "Елена Станченко",
+                "author_profession": 11,
+                "date": "2021-09-22",
+                "comment": "Желательно побывать всем.Прекрасная выставка.Впечатляет.",
+                "author_url": "https://reviews.yandex.ru/user/md3vb77ybf7bvw4fp5r4xxmkp4",
+                "rating": 5
+            },
+            {
+                "author_name": "Барановский Максим",
+                "author_profession": 29,
+                "date": "2020-07-19",
+                "comment": "Очень красивое здание, хорошо отремонтировали, площадь сделали, одним словом красивая ратуша!",
+                "author_url": "https://reviews.yandex.ru/user/zh4x70v85ptrmy22mg1k7m1wrw",
+                "rating": 5
+            },
+            {
+                "author_name": "Никита",
+                "author_profession": 30,
+                "date": "2019-10-15",
+                "comment": "Выставочный зал,проходят различные выставки",
+                "author_url": "https://reviews.yandex.ru/user/0qqq5ra9fwqap9mf6vy6px6z9g",
+                "rating": 5
+            },
+            {
+                "author_name": "Виталька Казакевич",
+                "author_profession": 11,
+                "date": "2020-06-20",
+                "comment": "Однозначно стоит сходить! ;)",
+                "author_url": "https://reviews.yandex.ru/user/vitali.simpler",
+                "rating": 5
+            }
+        ]
+    }
+}

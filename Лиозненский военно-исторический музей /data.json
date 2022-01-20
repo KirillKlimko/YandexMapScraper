@@ -1,0 +1,61 @@
+{
+    "object_name": "Лиозненский военно-исторический музей ",
+    "object_id": 1101201431,
+    "contact": [
+        "+375213841984"
+    ],
+    "business_url": null,
+    "object_category": "Музей",
+    "object_links": [],
+    "address": "городской посёлок Лиозно, ул. Ленина, 88",
+    "work_time": {
+        "Понедельник": "Выходной",
+        "Вторник": "09:00 – 18:00",
+        "Среда": "09:00 – 18:00",
+        "Четверг": "09:00 – 18:00",
+        "Пятница": "09:00 – 18:00",
+        "Суббота": "09:00 – 18:00",
+        "Воскресенье": "09:00 – 18:00"
+    },
+    "features": null,
+    "rating": 4.0,
+    "attendance": {},
+    "number_of_votes": 18,
+    "number_of_review": 2,
+    "similar_objects": [
+        {
+            "object_id": 151589389515,
+            "object_name": "Исторический музей",
+            "object_link": "https://yandex.by/maps/org/istoricheskiy_muzey/151589389515/"
+        },
+        {
+            "object_id": 65077171391,
+            "object_name": "Дом-музей М.А. Егорова",
+            "object_link": "https://yandex.by/maps/org/dom_muzey_m_a_yegorova/65077171391/"
+        }
+    ],
+    "reviews_info": {
+        "type_reviews": {
+            "увлеченные люди ": 1,
+            "захоронение ": 1
+        },
+        "reviews": [
+            {
+                "author_name": "Иван Я.",
+                "author_profession": 3,
+                "date": "2020-05-12",
+                "comment": "Огромное спасибо сотрудникам музея! Помогли найти место захоронения Науменко Павла Михайловича. О месте захоронения мы не знали 76 лет.\n9-го мая были на братской могиле рядом с д. Шнитки.\nСпасибо Вам за помощь!",
+                "author_url": "https://reviews.yandex.ru/user/g347mtp6jzz0fejxfew9155wx8",
+                "rating": 5
+            },
+            {
+                "author_name": "Olga S.",
+                "author_profession": 4,
+                "date": "2020-04-12",
+                "comment": "Увлеченные люди и высоклассные специалисты❤",
+                "author_url": "https://reviews.yandex.ru/user/p5z3wg03x1a9u69zyz3422gv1r",
+                "rating": 5
+            }
+        ]
+    }
+}

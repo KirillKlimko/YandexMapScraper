@@ -1,0 +1,94 @@
+{
+    "object_name": "Копыльский районный краеведческий музей",
+    "object_id": 123877913788,
+    "contact": [
+        "+375171955820"
+    ],
+    "business_url": "kopylmuzey.by",
+    "object_category": "Музей",
+    "object_links": [],
+    "address": "Копыль, площадь Ленина, 4",
+    "work_time": {
+        "Понедельник": "Выходной",
+        "Вторник": "09:00 – 18:00",
+        "Среда": "09:00 – 18:00",
+        "Четверг": "09:00 – 18:00",
+        "Пятница": "09:00 – 18:00",
+        "Суббота": "09:00 – 18:00",
+        "Воскресенье": "09:00 – 18:00"
+    },
+    "features": null,
+    "rating": 4.0,
+    "attendance": {},
+    "number_of_votes": 27,
+    "number_of_review": 6,
+    "similar_objects": [
+        {
+            "object_id": 160456774675,
+            "object_name": "Музей",
+            "object_link": "https://yandex.by/maps/org/muzey/160456774675/"
+        },
+        {
+            "object_id": 18504963783,
+            "object_name": "Музей тракторной техники",
+            "object_link": "https://yandex.by/maps/org/muzey_traktornoy_tekhniki/18504963783/"
+        }
+    ],
+    "reviews_info": {
+        "type_reviews": {
+            "прекрасное место ": 1,
+            "первое место ": 1,
+            "хороший музей ": 2
+        },
+        "reviews": [
+            {
+                "author_name": "Александр Якшта",
+                "author_profession": 3,
+                "date": "2022-01-15",
+                "comment": "Музей ещё не работает. Только после ремонта. Экспозиции готовятся к размещению.",
+                "author_url": "https://reviews.yandex.ru/user/g514j6c4a61n5b882rpaa5p9vm",
+                "rating": 3
+            },
+            {
+                "author_name": "Олег И.",
+                "author_profession": 7,
+                "date": "2020-11-09",
+                "comment": "Интересная экспозиции по Копылю, одному из самых древних городов нашей страны.",
+                "author_url": "https://reviews.yandex.ru/user/9mgx4w6pe6t8gkyphq7nd1uzr0",
+                "rating": 5
+            },
+            {
+                "author_name": "дарья серая",
+                "author_profession": 4,
+                "date": "2020-03-30",
+                "comment": "Первое место работы) прекрасное место, выставки познавательные.",
+                "author_url": "https://reviews.yandex.ru/user/c4r32uej7d1txpkf7v0mvwhyhc",
+                "rating": 5
+            },
+            {
+                "author_name": "Никита Сенькевич",
+                "author_profession": 4,
+                "date": "2020-09-23",
+                "comment": "Много всякого интересного.",
+                "author_url": "https://reviews.yandex.ru/user/qv4bga6mz4qbk1yhuz3vaq25gg",
+                "rating": 5
+            },
+            {
+                "author_name": "Марина Г.",
+                "author_profession": 4,
+                "date": "2019-12-16",
+                "comment": "Посещаем с детьми",
+                "author_url": "https://reviews.yandex.ru/user/whwmh9bkh1g8gk9y5jgrq5zudr",
+                "rating": 5
+            },
+            {
+                "author_name": "Саша Александрович",
+                "author_profession": 6,
+                "date": "2019-03-24",
+                "comment": "Интересный ,хороший музей.",
+                "author_url": "https://reviews.yandex.ru/user/r7zzjpyt8qmajkp76p4xg5dx2c",
+                "rating": 5
+            }
+        ]
+    }
+}

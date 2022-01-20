@@ -1,0 +1,110 @@
+{
+    "object_name": "Глубокский историко-этнографический музей",
+    "object_id": 1017119767,
+    "contact": [
+        "+375215623370",
+        "+375336780348",
+        "+375295959832",
+        "+375336931629",
+        "+375336119202",
+        "+375295929885"
+    ],
+    "business_url": "glubmusej.by",
+    "object_category": "Музей",
+    "object_links": [
+        "http://www.facebook.com/groups/465446254842764",
+        "https://vk.com/club161242015"
+    ],
+    "address": "г. Глубокое, ул. Фридриха Энгельса, 24",
+    "work_time": {
+        "Понедельник": "08:00 – 13:0014:00 – 19:00",
+        "Вторник": "08:00 – 13:0014:00 – 19:00",
+        "Среда": "08:00 – 13:0014:00 – 19:00",
+        "Четверг": "08:00 – 13:0014:00 – 19:00",
+        "Пятница": "08:00 – 13:0014:00 – 19:00",
+        "Суббота": "09:00 – 13:0014:00 – 19:00",
+        "Воскресенье": "09:00 – 13:0014:00 – 19:00"
+    },
+    "features": null,
+    "rating": 4.1,
+    "attendance": {},
+    "number_of_votes": 35,
+    "number_of_review": 7,
+    "similar_objects": [
+        {
+            "object_id": 197935211060,
+            "object_name": "Музей культуры и быта",
+            "object_link": "https://yandex.by/maps/org/germanovichskiy_muzey_kultury_i_byta_ya_drozdovicha/197935211060/"
+        }
+    ],
+    "reviews_info": {
+        "type_reviews": {
+            "старинная кузница ": 1,
+            "виртуальная реальность ": 1,
+            "хороший экскурсовод ": 2,
+            "хороший музей ": 2,
+            "приятный персонал ": 1,
+            "настоящие историки ": 1,
+            "уникальные экспонаты ": 2,
+            "отличное состояние ": 1
+        },
+        "reviews": [
+            {
+                "author_name": "Andrey M.",
+                "author_profession": 5,
+                "date": "2020-01-29",
+                "comment": "Душевный музей, полное погружение в истрию края, благодаря гидам - настоящим историкам! Много уникальных экспонатов + интерактивный зал с оборудованием виртуальной реальности!\nНам очень понравилась реконструкция старинной кузницы. Представлена вся технология от и до! Теперь, у меня есть профессия на случай апокалипсиса)",
+                "author_url": "https://reviews.yandex.ru/user/vkj9mk7f785c1uwrm3wum7a38w",
+                "rating": 5
+            },
+            {
+                "author_name": "Екатерина",
+                "author_profession": 9,
+                "date": "2019-12-19",
+                "comment": "Очень приятный персонал. Шикарный экскурсовод! Видео, что человек в самом деле интересуется историей города и страны. Экспонаты в отличном состоянии. Чисто, аккуратно. Нам очень понравилось.",
+                "author_url": "https://reviews.yandex.ru/user/6ytjaenjvud8e77act1ut0wyyr",
+                "rating": 5
+            },
+            {
+                "author_name": "Борис Вершинин",
+                "author_profession": 14,
+                "date": "2021-07-01",
+                "comment": "Интересно побывать,хороший экскурсовод",
+                "author_url": "https://reviews.yandex.ru/user/mk88n8tav7dpz1gn859cq6yam4",
+                "rating": 5
+            },
+            {
+                "author_name": "Елена",
+                "author_profession": 7,
+                "date": "2021-10-05",
+                "comment": "Нам понравился)))",
+                "author_url": "https://reviews.yandex.ru/user/f3hej05269uevdk54jpb463600",
+                "rating": 5
+            },
+            {
+                "author_name": "нина горбачева",
+                "author_profession": 5,
+                "date": "2020-02-28",
+                "comment": "Познавательно, особенно для молодежы, люди постарше окунуться в детство.",
+                "author_url": "https://reviews.yandex.ru/user/afrq02cfmc4d71ewfw7p3d90a4",
+                "rating": 5
+            },
+            {
+                "author_name": "Stasy Losic",
+                "author_profession": 7,
+                "date": "2020-03-30",
+                "comment": "Хороший музей. Но доработок ещё много. Желаю ему процветания",
+                "author_url": "https://reviews.yandex.ru/user/w8ap3f3whjwa620ay0tpzgfh58",
+                "rating": 4
+            },
+            {
+                "author_name": "Андрей Л.",
+                "author_profession": 6,
+                "date": "2020-03-19",
+                "comment": "Был с аднакашниками, роде прикольно было",
+                "author_url": "https://reviews.yandex.ru/user/dr5w28a9u8x14u5w721mrf5q1m",
+                "rating": 5
+            }
+        ]
+    }
+}

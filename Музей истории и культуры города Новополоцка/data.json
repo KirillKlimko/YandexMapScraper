@@ -1,0 +1,96 @@
+{
+    "object_name": "Музей истории и культуры города Новополоцка",
+    "object_id": 1089400181,
+    "contact": [
+        "+375214518055",
+        "+375214531555"
+    ],
+    "business_url": "novopolotsk.museum.by",
+    "object_category": "Музей",
+    "object_links": [],
+    "address": "Новополоцк, Юбилейная ул., 1",
+    "work_time": {
+        "Понедельник": "10:00 – 18:00",
+        "Вторник": "10:00 – 18:00",
+        "Среда": "10:00 – 18:00",
+        "Четверг": "10:00 – 18:00",
+        "Пятница": "10:00 – 18:00",
+        "Суббота": "10:00 – 18:00",
+        "Воскресенье": "10:00 – 18:00"
+    },
+    "features": null,
+    "rating": 3.8,
+    "attendance": {},
+    "number_of_votes": 12,
+    "number_of_review": 3,
+    "similar_objects": [
+        {
+            "object_id": 1082954415,
+            "object_name": "Музей истории и культуры",
+            "object_link": "https://yandex.by/maps/org/muzey_istorii_i_kultury/1082954415/"
+        },
+        {
+            "object_id": 1136175631,
+            "object_name": "Софийский собор",
+            "object_link": "https://yandex.by/maps/org/sobor_svyatoy_sofii/1136175631/"
+        },
+        {
+            "object_id": 1117721238,
+            "object_name": "Музей истории архитектуры",
+            "object_link": "https://yandex.by/maps/org/muzey_istorii_arkhitektury_sofiyskogo_sobora/1117721238/"
+        },
+        {
+            "object_id": 1016338959,
+            "object_name": "Краеведческий музей",
+            "object_link": "https://yandex.by/maps/org/krayevedcheskiy_muzey/1016338959/"
+        },
+        {
+            "object_id": 1231682351,
+            "object_name": "Музей средневекового рыцарства",
+            "object_link": "https://yandex.by/maps/org/muzey_srednevekovogo_rytsarstva/1231682351/"
+        },
+        {
+            "object_id": 1220737011,
+            "object_name": "Домик Петра I",
+            "object_link": "https://yandex.by/maps/org/statsionarnaya_vystavka_progulka_po_nizhne_pokrovskoy/1220737011/"
+        },
+        {
+            "object_id": 1125365744,
+            "object_name": "Музей белорусского книгопечатания",
+            "object_link": "https://yandex.by/maps/org/muzey_belorusskogo_knigopechataniya/1125365744/"
+        }
+    ],
+    "reviews_info": {
+        "type_reviews": {
+            "очень интересно ": 1,
+            "различные выставки ": 2,
+            "бывший загс ": 1
+        },
+        "reviews": [
+            {
+                "author_name": "Алексей Абудков",
+                "author_profession": 10,
+                "date": "2020-09-26",
+                "comment": "Бывший ЗАГС Новополоцка. Здесь проходят различные выставки. Иногда интересные,иногда не очень.",
+                "author_url": "https://reviews.yandex.ru/user/g6njzb6v37amnj3b03kkngt0ng",
+                "rating": 4
+            },
+            {
+                "author_name": "Катерина П.",
+                "author_profession": 6,
+                "date": "2020-04-15",
+                "comment": "очень интересно и приятное провождения времени",
+                "author_url": "https://reviews.yandex.ru/user/f5k0qn6qxyx3jgjg403jh1zduw",
+                "rating": 5
+            },
+            {
+                "author_name": "Alina Dzyakava",
+                "author_profession": 9,
+                "date": "2020-03-15",
+                "comment": "Постоянные и интерересные выставки",
+                "author_url": "https://reviews.yandex.ru/user/w4dzzxaar9jxtxbpefaf4k27uc",
+                "rating": 5
+            }
+        ]
+    }
+}

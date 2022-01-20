@@ -1,0 +1,104 @@
+{
+    "object_name": "Светлогорская картинная галерея \"Традиция\" имени Германа Прянишникова",
+    "object_id": 1080011337,
+    "contact": [
+        "+375234238656"
+    ],
+    "business_url": null,
+    "object_category": "Выставочный центр",
+    "object_links": [],
+    "address": "Светлогорск, микрорайон Первомайский, 65",
+    "work_time": {
+        "Понедельник": "Выходной",
+        "Вторник": "10:00 – 19:00",
+        "Среда": "10:00 – 19:00",
+        "Четверг": "10:00 – 19:00",
+        "Пятница": "10:00 – 19:00",
+        "Суббота": "10:00 – 19:00",
+        "Воскресенье": "11:00 – 15:00"
+    },
+    "features": null,
+    "rating": 4.1,
+    "attendance": {},
+    "number_of_votes": 25,
+    "number_of_review": 6,
+    "similar_objects": [
+        {
+            "object_id": 1074688038,
+            "object_name": "Краеведческий музей",
+            "object_link": "https://yandex.by/maps/org/guk_svetlogorskiy_istoriko_krayevedcheskiy_muzey/1074688038/"
+        },
+        {
+            "object_id": 50258000269,
+            "object_name": "Дом ремесла",
+            "object_link": "https://yandex.by/maps/org/dom_remesla/50258000269/"
+        },
+        {
+            "object_id": 233097246991,
+            "object_name": "Историко-краеведческий музей",
+            "object_link": "https://yandex.by/maps/org/zhlobinskiy_istoriko_krayevedcheskiy_muzey/233097246991/"
+        },
+        {
+            "object_id": 64555944612,
+            "object_name": "Выставочная площадка",
+            "object_link": "https://yandex.by/maps/org/vystavochnaya_ploshchadka/64555944612/"
+        }
+    ],
+    "reviews_info": {
+        "type_reviews": {
+            "прекрасная галерея ": 2,
+            "постоянная экспозиция ": 1,
+            "красивые картины ": 2
+        },
+        "reviews": [
+            {
+                "author_name": "Прасол Ольга",
+                "author_profession": 6,
+                "date": "2021-12-10",
+                "comment": "Красивые картины, получили удовольствие.",
+                "author_url": "https://reviews.yandex.ru/user/re7nqk43kqx034up5kb5u4au3g",
+                "rating": 5
+            },
+            {
+                "author_name": "Виктор Крестинин",
+                "author_profession": 14,
+                "date": "2020-04-27",
+                "comment": "Надо туда ходить,место пока не на карантине.Хорошая, интересная постоянная экспозиция галереи.",
+                "author_url": "https://reviews.yandex.ru/user/pbxwcqb9ap53x5a0xpy14nnuar",
+                "rating": 5
+            },
+            {
+                "author_name": "Людмила Гартен",
+                "author_profession": 7,
+                "date": "2019-10-09",
+                "comment": "Культурный действующий на всю катушку центр. Здравия его работникам!!!",
+                "author_url": "https://reviews.yandex.ru/user/bcy618ht9p157xqxg7d8kggrar",
+                "rating": 5
+            },
+            {
+                "author_name": "Александра",
+                "author_profession": 3,
+                "date": "2020-03-19",
+                "comment": "очень понравились картины о войне",
+                "author_url": "https://reviews.yandex.ru/user/6nheugk731j3qvq168k5zjzc18",
+                "rating": 5
+            },
+            {
+                "author_name": "lvov",
+                "author_profession": 7,
+                "date": "2020-06-15",
+                "comment": "Не интересно там ничего.",
+                "author_url": "https://reviews.yandex.ru/user/3vg7fvcp7md7ny0541a6vm26c8",
+                "rating": 2
+            },
+            {
+                "author_name": "Наталия Ишова",
+                "author_profession": 8,
+                "date": "2019-03-05",
+                "comment": "Прекрасная галерея",
+                "author_url": "https://reviews.yandex.ru/user/3gngw45uw20wkr8q3nm4k1h030",
+                "rating": 5
+            }
+        ]
+    }
+}
