@@ -1,5 +1,9 @@
 {
     "object_name": "Мемориальный музей садовода-селекционера И. П. Сикоры",
+    "object_coordinate": [
+        55.366011,
+        27.954314
+    ],
     "object_id": 37277626778,
     "contact": [],
     "business_url": null,
@@ -17,6 +21,11 @@
             "object_id": 197935211060,
             "object_name": "Музей культуры и быта",
             "object_link": "https://yandex.by/maps/org/germanovichskiy_muzey_kultury_i_byta_ya_drozdovicha/197935211060/"
+        },
+        {
+            "object_id": 1809377567,
+            "object_name": "Дисненский городской музей",
+            "object_link": "https://yandex.by/maps/org/disnenskiy_gorodskoy_muzey/1809377567/"
         },
         {
             "object_id": 1017119767,

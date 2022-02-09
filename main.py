@@ -190,6 +190,19 @@ def get_object_info(objects_data: csv):
             pass
         time.sleep(2)
         try:
+            coordinate_list = []
+            time.sleep(2)
+            driver.find_element(By.CLASS_NAME, 'action-button-view._type_share').click()
+            time.sleep(2)
+            coordinate = driver.find_element(By.CLASS_NAME,
+                                'card-feature-view._view_normal._size_large._interactive.card-share-view__coordinates').text
+            coordinate_split_list = coordinate.split(',')
+            for coor in coordinate_split_list:
+                coordinate_list.append(float(coor))
+            data['object_coordinate'] = coordinate_list
+        except:
+            data['object_coordinate'] = None
+        try:
             driver.find_element(
                 By.CLASS_NAME, "tabs-select-view__title._name_overview"
             ).click()
